@@ -27,6 +27,11 @@
             flex-direction: column;
             align-items: flex-start;
         }
+        /* Optional styling for images */
+        .item-image {
+            width: 100px;
+            height: auto;
+        }
     </style>
 </head>
 <body>
@@ -75,13 +80,15 @@
                     // Populate table with new data
                     data.forEach(item => {
                         const row = tableBody.insertRow();
+                        
+                        // Set up table columns with item details
                         row.innerHTML = `
                             <td>${item.priority}</td>
                             <td>${item.category}</td>
                             <td>${item.name}</td>
                             <td><a href="${item.link}" target="_blank">Link</a></td>
                             <td>${item.price}</td>
-                            <td>${item.image_url || ''}</td>
+                            <td>${item.image_url ? `<img src="${item.image_url}" alt="${item.name} image" class="item-image">` : ''}</td>
                         `;
                     });
                 })
