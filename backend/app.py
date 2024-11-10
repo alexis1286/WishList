@@ -23,6 +23,28 @@ def get_items():
         print(f"Error fetching items: {e}")
         return jsonify({"error": "Error fetching items, please try again later"}), 500
 
+
+# Optional: Endpoint to filter items by priority or category
+@app.route('/api/items/filter', methods=['GET'])
+def filter_items():
+    priority = request.args.get('priority')
+    category = request.args.get('category')
+    query = 'SELECT * FROM items WHERE 1=1'
+    params = []
+
+    if priority:
+        query += ' AND priority = ?'
+        params.append(priority)
+    if category:
+        query += ' AND category = ?'
+        params.append(category)
+
+    conn = get_db_connection()
+    cursor = conn.execute(query, params)
+    items = [dict(row) for row in cursor.fetchall()]
+    conn.close()
+    return jsonify(items)
+
 # Serve index.html from the root route
 @app.route('/')
 def serve_index():
