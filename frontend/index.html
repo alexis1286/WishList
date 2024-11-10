@@ -3,28 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Item Organizer</title>
-    <link rel="stylesheet" href="css/styles.css"> <!-- Linking the CSS file -->
+    <title>Christmas List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Item Organizer</h1>
-        <div class="sort-buttons">
-            <button id="sort-by-category" class="sort-button">Sort by Category</button>
-            <button id="sort-by-priority" class="sort-button">Sort by Priority</button>
-        </div>
-    </header>
+    <h1>Christmas List</h1>
+    <div class="container">
+        <label for="filter">Filter by Category:</label>
+        <select id="filter" onchange="loadItems()">
+            <option value="">All Categories</option>
+            <option value="Clothes">Clothes</option>
+            <option value="Food">Food</option>
+            <option value="Games">Games</option>
+            <option value="Kitchen">Kitchen</option>
+        </select>
+        
+        <table id="itemsTable">
+            <thead>
+                <tr>
+                    <th>Priority</th>
+                    <th>Category</th>
+                    <th>Name</th>
+                    <th>Link</th>
+                    <th>Price</th>
+                    <th>Notes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be dynamically inserted here -->
+            </tbody>
+        </table>
+    </div>
 
-    <main>
-        <section id="item-list">
-            <!-- Item entries will be populated here dynamically with JavaScript -->
-        </section>
-    </main>
+    <script>
+        // Function to load items from Flask API
+        function loadItems() {
+            const filterValue = document.getElementById('filter').value;
+            const url = filterValue 
+                ? `/api/items/filter?category=${filterValue}` 
+                : '/api/items';  // No filter if empty
+            
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = document.getElementById('itemsTable').getElementsByTagName('tbody')[0];
+                    tableBody.innerHTML = ''; // Clear existing rows
+                    
+                    // Populate table with new data
+                    data.forEach(item => {
+                        const row = tableBody.insertRow();
+                        row.innerHTML = `
+                            <td>${item.priority}</td>
+                            <td>${item.category}</td>
+                            <td>${item.name}</td>
+                            <td><a href="${item.link}" target="_blank">Link</a></td>
+                            <td>${item.price}</td>
+                            <td>${item.notes || ''}</td>
+                        `;
+                    });
+                })
+                .catch(error => console.error('Error fetching data:', error));
+        }
 
-    <footer>
-        <p>&copy; 2024 Item Organizer. All rights reserved.</p>
-    </footer>
-
-    <script src="js/script.js"></script> <!-- Linking the JavaScript file -->
+        // Load items when the page loads
+        window.onload = loadItems;
+    </script>
 </body>
 </html>
