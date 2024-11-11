@@ -85,18 +85,18 @@
 
     <script>
        function loadItems() {
-           const filterValue = document.getElementById('filter').value;
-           const url = filterValue 
-               ? `/api/items?category=${filterValue}` 
-               : '/api/items';
-           
-           fetch(url)
+           // Load christmas_list.json directly
+           fetch('christmas_list.json')
                .then(response => response.json())
                .then(data => {
+                   const filterValue = document.getElementById('filter').value;
                    const tableBody = document.getElementById('itemsTable').getElementsByTagName('tbody')[0];
                    tableBody.innerHTML = ''; // Clear existing rows
 
-                   data.forEach(item => {
+                   // Filter data if a category is selected
+                   const filteredData = filterValue ? data.filter(item => item.Category === filterValue) : data;
+
+                   filteredData.forEach(item => {
                        const row = tableBody.insertRow();
 
                        let priorityClass = '';
@@ -111,35 +111,12 @@
                            <td class="${categoryClass}">${item.Category || ''}</td>
                            <td>${item.Item || ''}</td>
                            <td><a href="${item.Link || '#'}" target="_blank">Link</a></td>
-                           <td id="price-${item.id}">Loading...</td>
+                           <td>${item.Price || ''}</td>
                            <td>${item.Image ? `<img src="${item.Image}" alt="${item.Item} image" class="item-image">` : ''}</td>
                        `;
-
-                       // Fetch the price for each item and update the price cell
-                       if (item.Link) {
-                           fetchPrice(item.Link, item.id, `price-${item.id}`);
-                       }
                    });
                })
                .catch(error => console.error('Error fetching data:', error));
-       }
-
-       function fetchPrice(url, itemId, priceElementId) {
-           fetch('/api/get_price', {
-               method: 'POST',
-               headers: {
-                   'Content-Type': 'application/json'
-               },
-               body: JSON.stringify({ url: url, item_id: itemId })
-           })
-           .then(response => response.json())
-           .then(data => {
-               document.getElementById(priceElementId).textContent = data.price || 'Price not available';
-           })
-           .catch(error => {
-               console.error('Error fetching price:', error);
-               document.getElementById(priceElementId).textContent = 'Error';
-           });
        }
 
        window.onload = loadItems;
