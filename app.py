@@ -1,10 +1,10 @@
-from flask import Flask, jsonify, request, send_from_directory
+from flask import Flask, jsonify, send_file, request
 from flask_cors import CORS
 import json
 import requests
 from bs4 import BeautifulSoup
 
-app = Flask(__name__, static_folder="static")
+app = Flask(__name__)
 CORS(app)
 
 # Load JSON data once and store it in a variable
@@ -58,10 +58,10 @@ def get_price():
         print(f"Unexpected error: {e}")
         return jsonify({"error": "An error occurred"}), 500
 
-# Serve the index.html file at the root
+# Serve index.html from the root directory
 @app.route('/')
 def serve_index():
-    return send_from_directory(app.static_folder, 'index.html')
+    return send_file('index.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
