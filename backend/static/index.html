@@ -84,48 +84,66 @@
     </div>
 
     <script>
-        // Function to load items from Flask API
-        function loadItems() {
-            const filterValue = document.getElementById('filter').value;
-            const url = filterValue 
-                ? `/api/items/filter?category=${filterValue}` 
-                : '/api/items';
-            
-            fetch(url)
-                .then(response => response.json())
-                .then(data => {
-                    const tableBody = document.getElementById('itemsTable').getElementsByTagName('tbody')[0];
-                    tableBody.innerHTML = ''; // Clear existing rows
-                    
-                    // Populate table with new data
-                    data.forEach(item => {
-                        const row = tableBody.insertRow();
-                        
-                        // Determine priority color class
-                        let priorityClass = '';
-                        if (item.Priority == 1) priorityClass = 'priority-1';
-                        else if (item.Priority == 2) priorityClass = 'priority-2';
-                        else if (item.Priority == 3) priorityClass = 'priority-3';
+       function loadItems() {
+    const filterValue = document.getElementById('filter').value;
+    const url = filterValue 
+        ? `/api/items/filter?category=${filterValue}` 
+        : '/api/items';
+    
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            const tableBody = document.getElementById('itemsTable').getElementsByTagName('tbody')[0];
+            tableBody.innerHTML = ''; // Clear existing rows
 
-                        // Determine category color class
-                        const categoryClass = `category-${item.Category.replace(/\s+/g, '')}`;
+            data.forEach(item => {
+                const row = tableBody.insertRow();
 
-                        // Set up table columns with item details
-                        row.innerHTML = `
-                            <td class="${priorityClass}">${item.Priority || ''}</td>
-                            <td class="${categoryClass}">${item.Category || ''}</td>
-                            <td>${item.Item || ''}</td>
-                            <td><a href="${item.Link || '#'}" target="_blank">Link</a></td>
-                            <td>${item.Price || ''}</td>
-                            <td>${item.Image ? `<img src="${item.Image}" alt="${item.Item} image" class="item-image">` : ''}</td>
-                        `;
-                    });
-                })
-                .catch(error => console.error('Error fetching data:', error));
-        }
+                let priorityClass = '';
+                if (item.Priority == 1) priorityClass = 'priority-1';
+                else if (item.Priority == 2) priorityClass = 'priority-2';
+                else if (item.Priority == 3) priorityClass = 'priority-3';
 
-        // Load items when the page loads
-        window.onload = loadItems;
-    </script>
+                const categoryClass = `category-${item.Category.replace(/\s+/g, '')}`;
+                
+                row.innerHTML = `
+                    <td class="${priorityClass}">${item.Priority || ''}</td>
+                    <td class="${categoryClass}">${item.Category || ''}</td>
+                    <td>${item.Item || ''}</td>
+                    <td><a href="${item.Link || '#'}" target="_blank">Link</a></td>
+                    <td id="price-${item.id}">Loading...</td>
+                    <td>${item.Image ? `<img src="${item.Image}" alt="${item.Item} image" class="item-image">` : ''}</td>
+                `;
+
+                // Fetch the price for each item and update the price cell
+                if (item.Link) {
+                    fetchPrice(item.Link, item.id, `price-${item.id}`);
+                }
+            });
+        })
+        .catch(error => console.error('Error fetching data:', error));
+}
+
+function fetchPrice(url, itemId, priceElementId) {
+    fetch('/api/get_price', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ url: url, item_id: itemId })
+    })
+    .then(response => response.json())
+    .then(data => {
+        document.getElementById(priceElementId).textContent = data.price || 'Price not available';
+    })
+    .catch(error => {
+        console.error('Error fetching price:', error);
+        document.getElementById(priceElementId).textContent = 'Error';
+    });
+}
+
+window.onload = loadItems;
+    </script>    
+
 </body>
 </html>
