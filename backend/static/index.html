@@ -27,11 +27,25 @@
             flex-direction: column;
             align-items: flex-start;
         }
-        /* Optional styling for images */
         .item-image {
             width: 100px;
             height: auto;
         }
+        /* Priority colors */
+        .priority-1 { color: #FF6347; }    /* High Priority - Red */
+        .priority-2 { color: #FFD700; }    /* Medium Priority - Yellow */
+        .priority-3 { color: #90EE90; }    /* Low Priority - Green */
+        /* Category colors */
+        .category-Clothes { background-color: #FFEFD5; }
+        .category-Fitness { background-color: #E0FFFF; }
+        .category-Food { background-color: #FFFACD; }
+        .category-Games { background-color: #E6E6FA; }
+        .category-Kitchen { background-color: #FFB6C1; }
+        .category-Makeup { background-color: #FFF0F5; }
+        .category-Plushies { background-color: #D8BFD8; }
+        .category-Technology { background-color: #B0E0E6; }
+        .category-Vinyls { background-color: #FAFAD2; }
+        .category-Home { background-color: #FFDAB9; }
     </style>
 </head>
 <body>
@@ -41,9 +55,15 @@
         <select id="filter" onchange="loadItems()">
             <option value="">All Categories</option>
             <option value="Clothes">Clothes</option>
+            <option value="Fitness">Fitness</option>
             <option value="Food">Food</option>
             <option value="Games">Games</option>
             <option value="Kitchen">Kitchen</option>
+            <option value="Makeup">Makeup</option>
+            <option value="Plushies">Plushies</option>
+            <option value="Technology">Technology</option>
+            <option value="Vinyls">Vinyls</option>
+            <option value="Home">Home</option>
         </select>
         
         <table id="itemsTable">
@@ -69,7 +89,7 @@
             const filterValue = document.getElementById('filter').value;
             const url = filterValue 
                 ? `/api/items/filter?category=${filterValue}` 
-                : '/api/items';  // No filter if empty
+                : '/api/items';
             
             fetch(url)
                 .then(response => response.json())
@@ -81,14 +101,23 @@
                     data.forEach(item => {
                         const row = tableBody.insertRow();
                         
+                        // Determine priority color class
+                        let priorityClass = '';
+                        if (item.Priority == 1) priorityClass = 'priority-1';
+                        else if (item.Priority == 2) priorityClass = 'priority-2';
+                        else if (item.Priority == 3) priorityClass = 'priority-3';
+
+                        // Determine category color class
+                        const categoryClass = `category-${item.Category.replace(/\s+/g, '')}`;
+
                         // Set up table columns with item details
                         row.innerHTML = `
-                            <td>${item.priority}</td>
-                            <td>${item.category}</td>
-                            <td>${item.name}</td>
-                            <td><a href="${item.link}" target="_blank">Link</a></td>
-                            <td>${item.price}</td>
-                            <td>${item.image_url ? `<img src="${item.image_url}" alt="${item.name} image" class="item-image">` : ''}</td>
+                            <td class="${priorityClass}">${item.Priority || ''}</td>
+                            <td class="${categoryClass}">${item.Category || ''}</td>
+                            <td>${item.Item || ''}</td>
+                            <td><a href="${item.Link || '#'}" target="_blank">Link</a></td>
+                            <td>${item.Price || ''}</td>
+                            <td>${item.Image ? `<img src="${item.Image}" alt="${item.Item} image" class="item-image">` : ''}</td>
                         `;
                     });
                 })
