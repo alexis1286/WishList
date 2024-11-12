@@ -8,57 +8,61 @@
 </head>
 <body>
     <h1>Christmas List</h1>
-   
 
-    
-    <!-- Hidden audio element without autoplay -->
-    <audio id="background-audio" src="calm-christmas-piano-262888.mp3" loop style="display:none"></audio>
-
-    
     <div class="container">
-        <label for="filter_category">Filter by Category:</label>
-        <select id="filter_category" onchange="loadItems()">
-            <option value="">All Categories</option>
-            <option value="Clothes">Clothes</option>
-            <option value="Fitness">Fitness</option>
-            <option value="Food">Food</option>
-            <option value="Games">Games</option>
-            <option value="Kitchen">Kitchen</option>
-            <option value="Makeup">Makeup</option>
-            <option value="Plushies">Plushies</option>
-            <option value="Technology">Technology</option>
-            <option value="Vinyls">Vinyls</option>
-            <option value="Home">Home</option>
-        </select>
+        <!-- Filters on the left, Audio player on the right -->
+        <div class="filter-audio-container">
+            <div class="filters">
+                <label for="filter_category">Filter by Category:</label>
+                <select id="filter_category" onchange="loadItems()">
+                    <option value="">All Categories</option>
+                    <option value="Clothes">Clothes</option>
+                    <option value="Fitness">Fitness</option>
+                    <option value="Food">Food</option>
+                    <option value="Games">Games</option>
+                    <option value="Kitchen">Kitchen</option>
+                    <option value="Makeup">Makeup</option>
+                    <option value="Plushies">Plushies</option>
+                    <option value="Technology">Technology</option>
+                    <option value="Vinyls">Vinyls</option>
+                    <option value="Home">Home</option>
+                </select>
 
-        <label for="filter">Filter by Priority:</label>
-        <select id="filter" onchange="loadItems()">
-            <option value="">Priority</option>
-            <option value="priority-1">1</option>
-            <option value="priority-2">2</option>
-            <option value="priority-3">3</option>
-            <option value="priority-4">4</option>
-            <option value="priority-5">5</option>
-        </select>
+                <label for="filter">Filter by Priority:</label>
+                <select id="filter" onchange="loadItems()">
+                    <option value="">Priority</option>
+                    <option value="priority-1">1</option>
+                    <option value="priority-2">2</option>
+                    <option value="priority-3">3</option>
+                    <option value="priority-4">4</option>
+                    <option value="priority-5">5</option>
+                </select>
+            </div>
+            
+            <!-- Audio player positioned on the right -->
+            <div class="audio-player">
+                <audio id="background-audio" src="calm-christmas-piano-262888.mp3" controls loop></audio>
+            </div>
+        </div>
 
         <div class="table-container">
-        <table id="itemsTable">
-            <thead>
-                <tr>
-                    <th>Priority</th>
-                    <th>Category</th>
-                    <th>Name</th>
-                    <th>Link</th>
-                    <th>Price</th>
-                    <th>Image</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- Data will be dynamically inserted here -->
-            </tbody>
-        </table>
+            <table id="itemsTable">
+                <thead>
+                    <tr>
+                        <th>Priority</th>
+                        <th>Category</th>
+                        <th>Name</th>
+                        <th>Link</th>
+                        <th>Price</th>
+                        <th>Image</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Data will be dynamically inserted here -->
+                </tbody>
+            </table>
+        </div>
     </div>
-</div>
 
     <script src="script.js"></script>
 </body>

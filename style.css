@@ -93,3 +93,36 @@ th {
         width: 60px;
     }
 }
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+/* New layout for filters and audio player */
+.filter-audio-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.filters {
+    display: flex;
+    flex-direction: column;
+}
+
+.audio-player {
+    margin-left: auto; /* Push the audio player to the right */
+}
+
+/* Make the table scrollable on smaller screens */
+.table-container {
+    overflow-x: auto;
+    width: 100%;
+    margin-top: 20px;
+}

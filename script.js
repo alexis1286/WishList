@@ -1,17 +1,3 @@
-// Play audio on first click
-document.addEventListener('click', function playAudioOnClick() {
-    const audio = document.getElementById('background-audio');
-    audio.play().then(() => {
-        console.log("Audio is playing after user click.");
-    }).catch(error => {
-        console.log("Error playing audio:", error);
-    });
-
-    // Remove the event listener after the first click to avoid redundant play attempts
-    document.removeEventListener('click', playAudioOnClick);
-});
-
-
 function loadItems() {
     console.log("Starting to load items from JSON.");
 
