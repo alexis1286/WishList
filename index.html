@@ -8,6 +8,13 @@
 </head>
 <body>
     <h1>Christmas List</h1>
+   
+
+    
+    <!-- Hidden audio element without autoplay -->
+    <audio id="background-audio" src="calm-christmas-piano-262888.mp3" loop style="display:none"></audio>
+
+    
     <div class="container">
         <label for="filter_category">Filter by Category:</label>
         <select id="filter_category" onchange="loadItems()">
@@ -34,6 +41,7 @@
             <option value="priority-5">5</option>
         </select>
 
+        <div class="table-container">
         <table id="itemsTable">
             <thead>
                 <tr>
@@ -50,6 +58,7 @@
             </tbody>
         </table>
     </div>
+</div>
 
     <script src="script.js"></script>
 </body>

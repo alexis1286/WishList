@@ -2,34 +2,48 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
 }
+
+h1 {
+    font-size: 1.5em; /* Reduce font size for mobile */
+    text-align: center;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
 }
+
 th, td {
     padding: 10px;
     border: 1px solid #ddd;
     text-align: left;
+    font-size: 0.9em; /* Smaller font for mobile */
 }
+
 th {
     background-color: #f2f2f2;
 }
+
 .container {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    width: 100%;
 }
+
 .item-image {
-    width: 100px;
+    width: 80px; /* Slightly smaller for mobile */
     height: auto;
 }
+
 /* Priority colors */
-.priority-1 { background-color: #FF6347; }    /* High Priority - Red */
-.priority-2 { background-color: #FFD700; }    /* Medium Priority - Yellow */
-.priority-3 { background-color: #90EE90; }    /* Low Priority - Green */
-.priority-4 { background-color: hsl(17, 100%, 50%); }    /* Medium Priority - Yellow */
-.priority-5 { background-color: hsl(263, 78%, 66%); }    /* Low Priority - Green */
+.priority-1 { background-color: #FF6347; }
+.priority-2 { background-color: #FFD700; }
+.priority-3 { background-color: #90EE90; }
+.priority-4 { background-color: hsl(17, 100%, 50%); }
+.priority-5 { background-color: hsl(263, 78%, 66%); }
+
 /* Category colors */
 .category-Clothes { background-color: #FFEFD5; }
 .category-Fitness { background-color: #E0FFFF; }
@@ -41,3 +55,41 @@ th {
 .category-Technology { background-color: #B0E0E6; }
 .category-Vinyls { background-color: #FAFAD2; }
 .category-Home { background-color: #FFDAB9; }
+
+/* Make the table scrollable on smaller screens */
+.table-container {
+    overflow-x: auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    /* Adjust font sizes and padding for mobile */
+    body {
+        margin: 10px;
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 1.2em;
+    }
+
+    th, td {
+        padding: 8px;
+        font-size: 0.8em;
+    }
+
+    .container label {
+        font-size: 0.9em;
+    }
+
+    /* Stack filters vertically on mobile */
+    .container select {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .item-image {
+        width: 60px;
+    }
+}

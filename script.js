@@ -1,3 +1,17 @@
+// Play audio on first click
+document.addEventListener('click', function playAudioOnClick() {
+    const audio = document.getElementById('background-audio');
+    audio.play().then(() => {
+        console.log("Audio is playing after user click.");
+    }).catch(error => {
+        console.log("Error playing audio:", error);
+    });
+
+    // Remove the event listener after the first click to avoid redundant play attempts
+    document.removeEventListener('click', playAudioOnClick);
+});
+
+
 function loadItems() {
     console.log("Starting to load items from JSON.");
 
@@ -11,28 +25,20 @@ function loadItems() {
         .then(data => {
             console.log("Data loaded successfully:", data);
 
-            // Get filter values
             const categoryFilter = document.getElementById('filter_category').value;
             const priorityFilter = document.getElementById('filter').value;
             const tableBody = document.getElementById('itemsTable').getElementsByTagName('tbody')[0];
             tableBody.innerHTML = ''; // Clear existing rows
 
-            // Apply both filters to the data
             const filteredData = data.filter(item => {
-                // Category filter
                 const categoryMatch = !categoryFilter || item.Category === categoryFilter;
-                
-                // Priority filter
                 const priorityMatch = !priorityFilter || `priority-${item.Priority}` === priorityFilter;
-
                 return categoryMatch && priorityMatch;
             });
 
-            // Populate table with filtered items
             filteredData.forEach(item => {
                 const row = tableBody.insertRow();
 
-                // Set classes based on priority
                 let priorityClass = '';
                 if (item.Priority == 1) priorityClass = 'priority-1';
                 else if (item.Priority == 2) priorityClass = 'priority-2';
