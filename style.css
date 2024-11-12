@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.item-image {
+    width: 100px;
+    height: auto;
+}
+/* Priority colors */
+.priority-1 { background-color: #FF6347; }    /* High Priority - Red */
+.priority-2 { background-color: #FFD700; }    /* Medium Priority - Yellow */
+.priority-3 { background-color: #90EE90; }    /* Low Priority - Green */
+.priority-4 { background-color: hsl(17, 100%, 50%); }    /* Medium Priority - Yellow */
+.priority-5 { background-color: hsl(263, 78%, 66%); }    /* Low Priority - Green */
+/* Category colors */
+.category-Clothes { background-color: #FFEFD5; }
+.category-Fitness { background-color: #E0FFFF; }
+.category-Food { background-color: #FFFACD; }
+.category-Games { background-color: #E6E6FA; }
+.category-Kitchen { background-color: #FFB6C1; }
+.category-Makeup { background-color: #FFF0F5; }
+.category-Plushies { background-color: #D8BFD8; }
+.category-Technology { background-color: #B0E0E6; }
+.category-Vinyls { background-color: #FAFAD2; }
+.category-Home { background-color: #FFDAB9; }
