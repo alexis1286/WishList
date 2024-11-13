@@ -5,22 +5,21 @@
     font-style: normal;
 }
 
-/* Apply the custom font to the entire site or specific elements */
 body {
-    font-family: 'Romantis';
+    font-family: 'Romantis', sans-serif;
+    background-color: #FFF8F0; /* Light peach background */
+    color: #5A5A5A; /* Soft gray text color */
     margin: 20px;
-    font-size:x-large;
-}
-/* Specific font for the filter container */
-.filters {
-    font-family: 'Romantis'; /* Apply Romantis to filters */
-    font-size: 1em; /* Adjust the size as needed */
-}
-h1 {
-    font-size: 1.5em; /* Reduce font size for mobile */
-    text-align: center;
+    font-size: large;
 }
 
+/* Header styling */
+h1 {
+    font-size: 2em;
+    color: #FFB6C1; /* Soft pink */
+    text-align: center;
+    margin-bottom: 10px;
+}
 table {
     width: 100%;
     border-collapse: collapse;
@@ -28,46 +27,58 @@ table {
 }
 
 th, td {
-    padding: 10px;
-    border: 1px solid #ddd;
+    padding: 15px;
+    border: 1px solid #FFDEE9; /* Light pink border */
     text-align: left;
-    font-size: 0.9em; /* Smaller font for mobile */
+    font-size: 1em;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #FFB6C1; /* Soft pink */
+    color: white;
 }
-
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100%;
+    background-color: #FFF0F5; /* Light lavender pink */
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* Image styling */
 .item-image {
-    width: 80px; /* Slightly smaller for mobile */
+    width: 80px;
     height: auto;
+    border-radius: 8px;
 }
 
 /* Priority colors */
-.priority-1 { background-color: #FF6347; }
-.priority-2 { background-color: #FFD700; }
-.priority-3 { background-color: #90EE90; }
-.priority-4 { background-color: hsl(17, 100%, 50%); }
-.priority-5 { background-color: hsl(263, 78%, 66%); }
+.priority-1 { background-color: #FFD1DC; } /* Pastel pink */
+.priority-2 { background-color: #FFFACD; } /* Pastel yellow */
+.priority-3 { background-color: #D8E2DC; } /* Soft teal */
+.priority-4 { background-color: #F6D5E7; } /* Light lavender */
+.priority-5 { background-color: #C6E2FF; } /* Baby blue */
 
 /* Category colors */
-.category-Clothes { background-color: #FFEFD5; }
-.category-Fitness { background-color: #E0FFFF; }
-.category-Food { background-color: #FFFACD; }
-.category-Games { background-color: #E6E6FA; }
-.category-Kitchen { background-color: #FFB6C1; }
-.category-Makeup { background-color: #FFF0F5; }
-.category-Plushies { background-color: #D8BFD8; }
+.category-Clothes { background-color: #FDE2E2; }
+.category-Fitness { background-color: #D3F8E2; }
+.category-Food { background-color: #FFF9B0; }
+.category-Games { background-color: #F0E3FF; }
+.category-Kitchen { background-color: #FFD1DC; }
+.category-Makeup { background-color: #FFE3E3; }
+.category-Plushies { background-color: #E1D4FF; }
 .category-Technology { background-color: #B0E0E6; }
-.category-Vinyls { background-color: #FAFAD2; }
-.category-Home { background-color: #FFDAB9; }
+.category-Vinyls { background-color: #FAF4D2; }
+.category-Home { background-color: #FFD5C2; }
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #FFF;
+    border-radius: 10px;
+    overflow: hidden;
+}
 
 /* Make the table scrollable on smaller screens */
 .table-container {
@@ -76,37 +87,30 @@ th {
     margin-top: 20px;
 }
 
+/* Responsive adjustments */
 @media (max-width: 768px) {
-    /* Adjust font sizes and padding for mobile */
     body {
+        font-size: medium;
         margin: 10px;
-        font-size: 14px;
     }
 
     h1 {
-        font-size: 1.2em;
+        font-size: 1.8em;
     }
 
     th, td {
-        padding: 8px;
-        font-size: 0.8em;
-    }
-
-    .container label {
+        padding: 10px;
         font-size: 0.9em;
-    }
-
-    /* Stack filters vertically on mobile */
-    .container select {
-        width: 100%;
-        margin-bottom: 10px;
     }
 
     .item-image {
         width: 60px;
     }
-}
 
+    .filters label {
+        font-size: 0.9em;
+    }
+}
 
 .container {
     display: flex;
@@ -116,7 +120,7 @@ th {
     font-family: 'Romantis';
 }
 
-/* New layout for filters and audio player */
+/* Filters and Audio Player */
 .filter-audio-container {
     display: flex;
     justify-content: space-between;
@@ -128,8 +132,12 @@ th {
 .filters {
     display: flex;
     flex-direction: column;
+    gap: 10px;
 }
-
+.filters label, .filters select {
+    font-size: 1em;
+    color: #6A5ACD; /* Soft purple */
+}
 .audio-player {
     margin-left: auto; /* Push the audio player to the right */
 }
