@@ -1,5 +1,13 @@
+@font-face {
+    font-family: 'Mochibun';
+    src: url('Mochibun-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Apply the custom font to the entire site or specific elements */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Mochibun';
     margin: 20px;
 }
 
