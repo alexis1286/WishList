@@ -1,16 +1,21 @@
 @font-face {
-    font-family: 'Mochibun';
-    src: url('Mochibun-Regular.ttf') format('truetype');
+    font-family: 'Romantis';
+    src: url('font/Romantis-8O7A2.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 /* Apply the custom font to the entire site or specific elements */
 body {
-    font-family: 'Mochibun';
+    font-family: 'Romantis';
     margin: 20px;
+    font-size:x-large;
 }
-
+/* Specific font for the filter container */
+.filters {
+    font-family: 'Romantis'; /* Apply Romantis to filters */
+    font-size: 1em; /* Adjust the size as needed */
+}
 h1 {
     font-size: 1.5em; /* Reduce font size for mobile */
     text-align: center;
@@ -108,6 +113,7 @@ th {
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
+    font-family: 'Romantis';
 }
 
 /* New layout for filters and audio player */
