@@ -149,9 +149,27 @@ table {
     flex-direction: column;
     gap: 10px;
 }
-.filters label, .filters select {
+.filters label {
     font-size: 1em;
-    color: #6A5ACD; /* Soft purple */
+    color: #FFB6C1; /* Soft pink for labels */
+    margin-bottom: 5px;
+}
+.filters select {
+    background-color: #FFF; /* White background like the table */
+    border: 1px solid #FFDEE9; /* Light pink border, matching the table */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px;
+    font-size: 1em;
+    color: #FFB6C1; 
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: border-color 0.3s ease;
+}
+
+.filters select:hover,
+.filters select:focus {
+    border-color: #FFB6C1; /* Brighter pink on hover and focus */
+    outline: none;
 }
 .audio-player {
     margin-left: auto; /* Push the audio player to the right */
