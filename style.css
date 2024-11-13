@@ -20,6 +20,21 @@ h1 {
     text-align: center;
     margin-bottom: 10px;
 }
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px; /* Space between the heading and images */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Style for header images */
+.header-image {
+    width: 50px; /* Adjust size as needed */
+    height: auto;
+}
+Explanation
 table {
     width: 100%;
     border-collapse: collapse;
