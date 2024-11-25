@@ -23,6 +23,39 @@
     },
     {
         "BlackFridayDeals": null,
+        "Category": "Fitness",
+        "Image": "https://m.media-amazon.com/images/I/612BVvt7aAL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "Item": "Naked Whey Protein Powder",
+        "Link": "https://www.amazon.com/NAKED-WHEY-1LB-Ingredient-Undenatured/dp/B071ZDDNBY/ref=sr_1_6_pp?crid=1SLCDJRE0QNRC&dib=eyJ2IjoiMSJ9.5VHUX76DFMqcbS6A-vNpJUMPPtRi56aiiOz2kG1JbaAoOTHYQavL8hqKjiJhuo-pJQcmrxOjkJQ_2OVhV4tFovTTH8eKUZzYGv2ILF8U7ppEjeatdp1u1GZ1joBz83BmIpPSYL9Kj7viHw2jEcPJJNTqlu7wxfAUrWeKKjCYZrog_Y-lvVx-uCvyfYELtvj7BafqKoh8vg4HitaRlgdWRsj1YYD7x5qMSgH97h9QSVMc6iauubCzgIIarJAXGATiTXUo9ji1kF11MgG4mXtN4iDBv5fSvb9atIApGnHFHDA.cj8q9mMT7Nv2HTFriIlT_HwiDovCVxJrcZPafBlhBis&dib_tag=se&keywords=protein+powder&qid=1722046482&sprefix=protein+powder+%2Caps%2C135&sr=8-6",
+        "Notes": null,
+        "Price": "$25.00",
+        "Priority": 1,
+        "id": 3
+    },
+    {
+        "BlackFridayDeals": null,
+        "Category": "Home",
+        "Image": "https://m.media-amazon.com/images/I/71b7xntFFTL._AC_SX425_.jpg",
+        "Item": "Fairy Curtian Lights",
+        "Link": "https://www.amazon.com/HXWEIYE-Curtain-Controller-Weddings-Decorations%EF%BC%889-8x9-8Ft/dp/B085Y1J85P?dib=eyJ2IjoiMSJ9.KJgbXndXYftYZW443TMsD7R1Zex7PvAMDiLilUB2jDmAIDBzVvALxLE11sSpwQQZpKn6pYInryQMmVc5VkwjYVPu1gTpR82P1u7UffhBPohMpIvKra6xhSUZhmrQcIW_sc9c0SLbM6wbEJi-mjgYr3-tHmVjp3n23wd3XZjfe4b4rPfmYi1LDTasezivymp-YvUnnfEWcbzhASvV2sET0RyPu3d9QXQxJN2lunY7GrkXnxw_6i4--KlNK5Din9P9T0Kx2kSxD28wX1LlqmIXsSDuxVJ35HXN2l5va9BgObE.8ykS5_LPJts7jYY9mfyacXFBlJgKYDLMykljxJpLdSQ&dib_tag=se&keywords=Hanging%2BString%2BLights&qid=1732475699&sr=8-5&th=1",
+        "Notes": null,
+        "Price": "$7.99",
+        "Priority": 1,
+        "id": 4
+    },
+    {
+        "BlackFridayDeals": null,
+        "Category": "Games",
+        "Image": "https://m.media-amazon.com/images/I/81M-NPlVi9L._SX522_.jpg",
+        "Item": "Astro Bot PS5",
+        "Link": "https://www.amazon.com/Astro-Bot-PS5-PlayStation-5/dp/B0D5SM3K4Q",
+        "Notes": null,
+        "Price": "$49.00",
+        "Priority": 1,
+        "id": 5
+    },
+    {
+        "BlackFridayDeals": null,
         "Category": "Clothes",
         "Image": "https://di2ponv0v5otw.cloudfront.net/posts/2024/02/15/65ce5941bd66cd9d9d814275/m_wp_65ce5941bd66cd9d9d814276.webp",
         "Item": "Pusheen Swimsuit",
@@ -30,7 +63,7 @@
         "Notes": null,
         "Price": "$25.00",
         "Priority": 1,
-        "id": 3
+        "id": 6
     },
     {
         "BlackFridayDeals": null,
@@ -41,7 +74,7 @@
         "Notes": null,
         "Price": "$125.00",
         "Priority": 1,
-        "id": 4
+        "id": 7
     },
     {
         "BlackFridayDeals": null,
@@ -52,7 +85,7 @@
         "Notes": null,
         "Price": "$54.90",
         "Priority": 1,
-        "id": 5
+        "id": 8
     },
     {
         "BlackFridayDeals": null,
@@ -63,7 +96,7 @@
         "Notes": null,
         "Price": "ANY AMOUNT",
         "Priority": 1,
-        "id": 6
+        "id": 9
     },
     {
         "BlackFridayDeals": null,
@@ -74,7 +107,7 @@
         "Notes": null,
         "Price": "$17.00",
         "Priority": 1,
-        "id": 7
+        "id": 10
     },
     {
         "BlackFridayDeals": null,
@@ -85,7 +118,7 @@
         "Notes": null,
         "Price": "$22.00",
         "Priority": 1,
-        "id": 8
+        "id": 11
     },
     {
         "BlackFridayDeals": null,
@@ -96,7 +129,7 @@
         "Notes": null,
         "Price": "$5.00",
         "Priority": 1,
-        "id": 9
+        "id": 12
     },
     {
         "BlackFridayDeals": null,
@@ -107,7 +140,7 @@
         "Notes": null,
         "Price": "$67.99",
         "Priority": 1,
-        "id": 10
+        "id": 13
     },
     {
         "BlackFridayDeals": null,
@@ -118,7 +151,7 @@
         "Notes": null,
         "Price": "$22.50",
         "Priority": 1,
-        "id": 11
+        "id": 14
     },
     {
         "BlackFridayDeals": null,
@@ -129,7 +162,7 @@
         "Notes": null,
         "Price": "$109.00",
         "Priority": 1,
-        "id": 12
+        "id": 15
     },
     {
         "BlackFridayDeals": null,
@@ -140,7 +173,7 @@
         "Notes": null,
         "Price": "$32.00",
         "Priority": 1,
-        "id": 13
+        "id": 16
     },
     {
         "BlackFridayDeals": null,
@@ -151,7 +184,7 @@
         "Notes": null,
         "Price": "$16.00",
         "Priority": 1,
-        "id": 14
+        "id": 17
     },
     {
         "BlackFridayDeals": null,
@@ -162,7 +195,7 @@
         "Notes": null,
         "Price": "$16.00",
         "Priority": 1,
-        "id": 15
+        "id": 18
     },
     {
         "BlackFridayDeals": null,
@@ -173,7 +206,7 @@
         "Notes": null,
         "Price": "$59.99",
         "Priority": 1,
-        "id": 16
+        "id": 19
     },
     {
         "BlackFridayDeals": null,
@@ -184,7 +217,7 @@
         "Notes": null,
         "Price": "$24.50",
         "Priority": 1,
-        "id": 17
+        "id": 20
     },
     {
         "BlackFridayDeals": null,
@@ -195,7 +228,7 @@
         "Notes": null,
         "Price": "$69.00",
         "Priority": 1,
-        "id": 18
+        "id": 21
     },
     {
         "BlackFridayDeals": null,
@@ -206,7 +239,7 @@
         "Notes": null,
         "Price": "$20.00",
         "Priority": 1,
-        "id": 19
+        "id": 22
     },
     {
         "BlackFridayDeals": null,
@@ -217,7 +250,7 @@
         "Notes": null,
         "Price": "$14.00",
         "Priority": 1,
-        "id": 20
+        "id": 23
     },
     {
         "BlackFridayDeals": null,
@@ -228,7 +261,7 @@
         "Notes": null,
         "Price": "$24.99",
         "Priority": 1,
-        "id": 21
+        "id": 24
     },
     {
         "BlackFridayDeals": null,
@@ -239,7 +272,7 @@
         "Notes": null,
         "Price": "$14.00",
         "Priority": 1,
-        "id": 22
+        "id": 25
     },
     {
         "BlackFridayDeals": null,
@@ -250,7 +283,7 @@
         "Notes": null,
         "Price": "$14.00",
         "Priority": 1,
-        "id": 23
+        "id": 26
     },
     {
         "BlackFridayDeals": null,
@@ -261,7 +294,7 @@
         "Notes": null,
         "Price": "$15.00",
         "Priority": 1,
-        "id": 24
+        "id": 27
     },
     {
         "BlackFridayDeals": null,
@@ -272,7 +305,7 @@
         "Notes": null,
         "Price": "$22.00",
         "Priority": 1,
-        "id": 25
+        "id": 28
     },
     {
         "BlackFridayDeals": null,
@@ -283,7 +316,7 @@
         "Notes": null,
         "Price": "$49.90",
         "Priority": 1,
-        "id": 26
+        "id": 29
     },
     {
         "BlackFridayDeals": null,
@@ -294,18 +327,7 @@
         "Notes": null,
         "Price": "$145.00",
         "Priority": 1,
-        "id": 27
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/612BVvt7aAL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Naked Whey Protein Powder",
-        "Link": "https://www.amazon.com/NAKED-WHEY-1LB-Ingredient-Undenatured/dp/B071ZDDNBY/ref=sr_1_6_pp?crid=1SLCDJRE0QNRC&dib=eyJ2IjoiMSJ9.5VHUX76DFMqcbS6A-vNpJUMPPtRi56aiiOz2kG1JbaAoOTHYQavL8hqKjiJhuo-pJQcmrxOjkJQ_2OVhV4tFovTTH8eKUZzYGv2ILF8U7ppEjeatdp1u1GZ1joBz83BmIpPSYL9Kj7viHw2jEcPJJNTqlu7wxfAUrWeKKjCYZrog_Y-lvVx-uCvyfYELtvj7BafqKoh8vg4HitaRlgdWRsj1YYD7x5qMSgH97h9QSVMc6iauubCzgIIarJAXGATiTXUo9ji1kF11MgG4mXtN4iDBv5fSvb9atIApGnHFHDA.cj8q9mMT7Nv2HTFriIlT_HwiDovCVxJrcZPafBlhBis&dib_tag=se&keywords=protein+powder&qid=1722046482&sprefix=protein+powder+%2Caps%2C135&sr=8-6",
-        "Notes": null,
-        "Price": "$25.00",
-        "Priority": 1,
-        "id": 28
+        "id": 30
     },
     {
         "BlackFridayDeals": null,
@@ -316,7 +338,7 @@
         "Notes": null,
         "Price": "$39.99",
         "Priority": 1,
-        "id": 29
+        "id": 31
     },
     {
         "BlackFridayDeals": null,
@@ -327,7 +349,7 @@
         "Notes": null,
         "Price": "$57.99",
         "Priority": 1,
-        "id": 30
+        "id": 32
     },
     {
         "BlackFridayDeals": null,
@@ -338,7 +360,7 @@
         "Notes": null,
         "Price": "$114.00",
         "Priority": 1,
-        "id": 31
+        "id": 33
     },
     {
         "BlackFridayDeals": null,
@@ -349,7 +371,7 @@
         "Notes": null,
         "Price": "$79.00",
         "Priority": 1,
-        "id": 32
+        "id": 34
     },
     {
         "BlackFridayDeals": null,
@@ -360,7 +382,7 @@
         "Notes": null,
         "Price": "$19.00",
         "Priority": 1,
-        "id": 33
+        "id": 35
     },
     {
         "BlackFridayDeals": null,
@@ -371,7 +393,7 @@
         "Notes": null,
         "Price": "$5.91",
         "Priority": 1,
-        "id": 34
+        "id": 36
     },
     {
         "BlackFridayDeals": null,
@@ -382,7 +404,7 @@
         "Notes": null,
         "Price": "$19.70",
         "Priority": 1,
-        "id": 35
+        "id": 37
     },
     {
         "BlackFridayDeals": null,
@@ -393,7 +415,7 @@
         "Notes": null,
         "Price": "$9.49",
         "Priority": 1,
-        "id": 36
+        "id": 38
     },
     {
         "BlackFridayDeals": null,
@@ -404,7 +426,7 @@
         "Notes": null,
         "Price": "$14.24",
         "Priority": 1,
-        "id": 37
+        "id": 39
     },
     {
         "BlackFridayDeals": null,
@@ -415,7 +437,7 @@
         "Notes": null,
         "Price": "$25.00",
         "Priority": 1,
-        "id": 38
+        "id": 40
     },
     {
         "BlackFridayDeals": null,
@@ -426,7 +448,7 @@
         "Notes": null,
         "Price": "$6.28",
         "Priority": 1,
-        "id": 39
+        "id": 41
     },
     {
         "BlackFridayDeals": null,
@@ -437,7 +459,7 @@
         "Notes": null,
         "Price": "$39.00",
         "Priority": 1,
-        "id": 40
+        "id": 42
     },
     {
         "BlackFridayDeals": null,
@@ -448,7 +470,7 @@
         "Notes": null,
         "Price": "$69.00",
         "Priority": 1,
-        "id": 41
+        "id": 43
     },
     {
         "BlackFridayDeals": null,
@@ -459,7 +481,7 @@
         "Notes": null,
         "Price": "$50.00",
         "Priority": 1,
-        "id": 42
+        "id": 44
     },
     {
         "BlackFridayDeals": null,
@@ -470,7 +492,7 @@
         "Notes": null,
         "Price": "$59.00",
         "Priority": 1,
-        "id": 43
+        "id": 45
     },
     {
         "BlackFridayDeals": null,
@@ -481,7 +503,7 @@
         "Notes": null,
         "Price": "$14.94",
         "Priority": 1,
-        "id": 44
+        "id": 46
     },
     {
         "BlackFridayDeals": null,
@@ -492,7 +514,7 @@
         "Notes": null,
         "Price": "$32.50",
         "Priority": 1,
-        "id": 45
+        "id": 47
     },
     {
         "BlackFridayDeals": null,
@@ -503,7 +525,7 @@
         "Notes": null,
         "Price": "$94.00",
         "Priority": 1,
-        "id": 46
+        "id": 48
     },
     {
         "BlackFridayDeals": null,
@@ -514,7 +536,7 @@
         "Notes": null,
         "Price": "$18.00",
         "Priority": 1,
-        "id": 47
+        "id": 49
     },
     {
         "BlackFridayDeals": null,
@@ -525,7 +547,7 @@
         "Notes": null,
         "Price": "$39.00",
         "Priority": 1,
-        "id": 48
+        "id": 50
     },
     {
         "BlackFridayDeals": null,
@@ -536,7 +558,7 @@
         "Notes": null,
         "Price": "$27.99",
         "Priority": 1,
-        "id": 49
+        "id": 51
     },
     {
         "BlackFridayDeals": null,
@@ -547,7 +569,7 @@
         "Notes": null,
         "Price": "$39.00",
         "Priority": 1,
-        "id": 50
+        "id": 52
     },
     {
         "BlackFridayDeals": null,
@@ -558,7 +580,7 @@
         "Notes": null,
         "Price": "$249.00",
         "Priority": 1,
-        "id": 51
+        "id": 53
     },
     {
         "BlackFridayDeals": null,
@@ -569,7 +591,7 @@
         "Notes": null,
         "Price": "$16.59",
         "Priority": 1,
-        "id": 52
+        "id": 54
     },
     {
         "BlackFridayDeals": null,
@@ -580,7 +602,7 @@
         "Notes": null,
         "Price": "$20.00",
         "Priority": 1,
-        "id": 53
+        "id": 55
     },
     {
         "BlackFridayDeals": null,
@@ -591,7 +613,7 @@
         "Notes": null,
         "Price": "$19.00",
         "Priority": 1,
-        "id": 54
+        "id": 56
     },
     {
         "BlackFridayDeals": null,
@@ -602,7 +624,7 @@
         "Notes": null,
         "Price": "$21.00",
         "Priority": 1,
-        "id": 55
+        "id": 57
     },
     {
         "BlackFridayDeals": null,
@@ -613,7 +635,7 @@
         "Notes": null,
         "Price": "$8.77",
         "Priority": 1,
-        "id": 56
+        "id": 58
     },
     {
         "BlackFridayDeals": null,
@@ -624,7 +646,7 @@
         "Notes": null,
         "Price": "$14.99",
         "Priority": 1,
-        "id": 57
+        "id": 59
     },
     {
         "BlackFridayDeals": null,
@@ -635,7 +657,7 @@
         "Notes": null,
         "Price": "$53.93",
         "Priority": 1,
-        "id": 58
+        "id": 60
     },
     {
         "BlackFridayDeals": null,
@@ -646,7 +668,7 @@
         "Notes": null,
         "Price": "$39.00",
         "Priority": 1,
-        "id": 59
+        "id": 61
     },
     {
         "BlackFridayDeals": null,
@@ -657,7 +679,7 @@
         "Notes": null,
         "Price": "$5.00",
         "Priority": 1,
-        "id": 60
+        "id": 62
     },
     {
         "BlackFridayDeals": null,
@@ -668,7 +690,7 @@
         "Notes": null,
         "Price": "$64.99",
         "Priority": 1,
-        "id": 61
+        "id": 63
     },
     {
         "BlackFridayDeals": null,
@@ -679,7 +701,7 @@
         "Notes": null,
         "Price": "$159.00",
         "Priority": 1,
-        "id": 62
+        "id": 64
     },
     {
         "BlackFridayDeals": null,
@@ -690,7 +712,7 @@
         "Notes": null,
         "Price": "$159.00",
         "Priority": 1,
-        "id": 63
+        "id": 65
     },
     {
         "BlackFridayDeals": null,
@@ -701,7 +723,7 @@
         "Notes": null,
         "Price": "$49.00",
         "Priority": 1,
-        "id": 64
+        "id": 66
     },
     {
         "BlackFridayDeals": null,
@@ -712,7 +734,7 @@
         "Notes": null,
         "Price": "$24.99",
         "Priority": 1,
-        "id": 65
+        "id": 67
     },
     {
         "BlackFridayDeals": null,
@@ -723,7 +745,7 @@
         "Notes": null,
         "Price": "$21.99",
         "Priority": 1,
-        "id": 66
+        "id": 68
     },
     {
         "BlackFridayDeals": null,
@@ -734,7 +756,7 @@
         "Notes": null,
         "Price": "$22.49",
         "Priority": 1,
-        "id": 67
+        "id": 69
     },
     {
         "BlackFridayDeals": null,
@@ -745,7 +767,7 @@
         "Notes": null,
         "Price": "$42.00",
         "Priority": 1,
-        "id": 68
+        "id": 70
     },
     {
         "BlackFridayDeals": null,
@@ -756,7 +778,7 @@
         "Notes": null,
         "Price": "$24.98",
         "Priority": 1,
-        "id": 69
+        "id": 71
     },
     {
         "BlackFridayDeals": null,
@@ -767,7 +789,7 @@
         "Notes": null,
         "Price": "$29.00",
         "Priority": 1,
-        "id": 70
+        "id": 72
     },
     {
         "BlackFridayDeals": null,
@@ -778,7 +800,7 @@
         "Notes": null,
         "Price": "$25.00",
         "Priority": 1,
-        "id": 71
+        "id": 73
     },
     {
         "BlackFridayDeals": null,
@@ -789,7 +811,7 @@
         "Notes": null,
         "Price": "$79.00",
         "Priority": 1,
-        "id": 72
+        "id": 74
     },
     {
         "BlackFridayDeals": null,
@@ -800,7 +822,7 @@
         "Notes": null,
         "Price": "$34.00",
         "Priority": 1,
-        "id": 73
+        "id": 75
     },
     {
         "BlackFridayDeals": null,
@@ -811,7 +833,7 @@
         "Notes": null,
         "Price": "$64.90",
         "Priority": 2,
-        "id": 74
+        "id": 76
     },
     {
         "BlackFridayDeals": null,
@@ -822,7 +844,7 @@
         "Notes": null,
         "Price": "$34.99",
         "Priority": 2,
-        "id": 75
+        "id": 77
     },
     {
         "BlackFridayDeals": null,
@@ -833,7 +855,7 @@
         "Notes": null,
         "Price": "$54.95",
         "Priority": 2,
-        "id": 76
+        "id": 78
     },
     {
         "BlackFridayDeals": null,
@@ -844,7 +866,7 @@
         "Notes": null,
         "Price": "$59.95",
         "Priority": 2,
-        "id": 77
+        "id": 79
     },
     {
         "BlackFridayDeals": null,
@@ -855,7 +877,7 @@
         "Notes": null,
         "Price": "$64.90",
         "Priority": 2,
-        "id": 78
+        "id": 80
     },
     {
         "BlackFridayDeals": null,
@@ -866,7 +888,7 @@
         "Notes": null,
         "Price": "$54.90",
         "Priority": 2,
-        "id": 79
+        "id": 81
     },
     {
         "BlackFridayDeals": null,
@@ -877,7 +899,7 @@
         "Notes": null,
         "Price": "$54.90",
         "Priority": 2,
-        "id": 80
+        "id": 82
     },
     {
         "BlackFridayDeals": null,
@@ -888,7 +910,7 @@
         "Notes": null,
         "Price": "$32.94",
         "Priority": 2,
-        "id": 81
+        "id": 83
     },
     {
         "BlackFridayDeals": null,
@@ -899,7 +921,7 @@
         "Notes": null,
         "Price": "$54.99",
         "Priority": 2,
-        "id": 82
+        "id": 84
     },
     {
         "BlackFridayDeals": null,
@@ -910,7 +932,7 @@
         "Notes": null,
         "Price": "$29.49",
         "Priority": 2,
-        "id": 83
+        "id": 85
     },
     {
         "BlackFridayDeals": null,
@@ -921,7 +943,7 @@
         "Notes": null,
         "Price": "$89.62",
         "Priority": 2,
-        "id": 84
+        "id": 86
     },
     {
         "BlackFridayDeals": null,
@@ -932,7 +954,7 @@
         "Notes": null,
         "Price": "$54.90",
         "Priority": 2,
-        "id": 85
+        "id": 87
     },
     {
         "BlackFridayDeals": null,
@@ -943,7 +965,7 @@
         "Notes": null,
         "Price": "$29.00",
         "Priority": 2,
-        "id": 86
+        "id": 88
     },
     {
         "BlackFridayDeals": null,
@@ -954,7 +976,7 @@
         "Notes": null,
         "Price": "$65.49",
         "Priority": 2,
-        "id": 87
+        "id": 89
     },
     {
         "BlackFridayDeals": null,
@@ -965,7 +987,7 @@
         "Notes": null,
         "Price": "$39.90",
         "Priority": 2,
-        "id": 88
+        "id": 90
     },
     {
         "BlackFridayDeals": null,
@@ -976,7 +998,7 @@
         "Notes": null,
         "Price": "$29.99",
         "Priority": 2,
-        "id": 89
+        "id": 91
     },
     {
         "BlackFridayDeals": null,
@@ -987,7 +1009,7 @@
         "Notes": null,
         "Price": "$29.00",
         "Priority": 2,
-        "id": 90
+        "id": 92
     },
     {
         "BlackFridayDeals": null,
@@ -998,7 +1020,7 @@
         "Notes": "$0.00",
         "Price": "$59.99",
         "Priority": 2,
-        "id": 91
+        "id": 93
     },
     {
         "BlackFridayDeals": null,
@@ -1009,7 +1031,7 @@
         "Notes": null,
         "Price": "$39.00",
         "Priority": 2,
-        "id": 92
+        "id": 94
     },
     {
         "BlackFridayDeals": null,
@@ -1020,7 +1042,7 @@
         "Notes": null,
         "Price": "$33.74",
         "Priority": 2,
-        "id": 93
+        "id": 95
     },
     {
         "BlackFridayDeals": null,
@@ -1031,7 +1053,7 @@
         "Notes": null,
         "Price": "$32.00",
         "Priority": 2,
-        "id": 94
+        "id": 96
     },
     {
         "BlackFridayDeals": null,
@@ -1042,7 +1064,7 @@
         "Notes": null,
         "Price": "$15.00",
         "Priority": 2,
-        "id": 95
+        "id": 97
     },
     {
         "BlackFridayDeals": null,
@@ -1053,7 +1075,7 @@
         "Notes": null,
         "Price": "$38.00",
         "Priority": 2,
-        "id": 96
+        "id": 98
     },
     {
         "BlackFridayDeals": null,
@@ -1064,7 +1086,7 @@
         "Notes": null,
         "Price": "$50.99",
         "Priority": 2,
-        "id": 97
+        "id": 99
     },
     {
         "BlackFridayDeals": null,
@@ -1075,7 +1097,7 @@
         "Notes": null,
         "Price": "$44.39",
         "Priority": 2,
-        "id": 98
+        "id": 100
     },
     {
         "BlackFridayDeals": null,
@@ -1086,7 +1108,7 @@
         "Notes": null,
         "Price": "$44.90",
         "Priority": 3,
-        "id": 99
+        "id": 101
     },
     {
         "BlackFridayDeals": null,
@@ -1097,7 +1119,7 @@
         "Notes": null,
         "Price": "$33.00",
         "Priority": 3,
-        "id": 100
+        "id": 102
     },
     {
         "BlackFridayDeals": null,
@@ -1108,7 +1130,7 @@
         "Notes": null,
         "Price": "$55.00",
         "Priority": 3,
-        "id": 101
+        "id": 103
     },
     {
         "BlackFridayDeals": null,
@@ -1119,7 +1141,7 @@
         "Notes": null,
         "Price": "$60.00",
         "Priority": 3,
-        "id": 102
+        "id": 104
     },
     {
         "BlackFridayDeals": null,
@@ -1130,7 +1152,7 @@
         "Notes": null,
         "Price": "$100.00",
         "Priority": 3,
-        "id": 103
+        "id": 105
     },
     {
         "BlackFridayDeals": null,
@@ -1141,7 +1163,7 @@
         "Notes": null,
         "Price": "$27.93",
         "Priority": 3,
-        "id": 104
+        "id": 106
     },
     {
         "BlackFridayDeals": null,
@@ -1152,7 +1174,7 @@
         "Notes": null,
         "Price": "$64.21",
         "Priority": 3,
-        "id": 105
+        "id": 107
     },
     {
         "BlackFridayDeals": null,
@@ -1163,7 +1185,7 @@
         "Notes": null,
         "Price": "$34.93",
         "Priority": 3,
-        "id": 106
+        "id": 108
     },
     {
         "BlackFridayDeals": null,
@@ -1174,7 +1196,7 @@
         "Notes": null,
         "Price": "$132.00",
         "Priority": 3,
-        "id": 107
+        "id": 109
     },
     {
         "BlackFridayDeals": null,
@@ -1185,7 +1207,7 @@
         "Notes": null,
         "Price": "$70.00",
         "Priority": 3,
-        "id": 108
+        "id": 110
     },
     {
         "BlackFridayDeals": null,
@@ -1196,7 +1218,7 @@
         "Notes": null,
         "Price": "$60.00",
         "Priority": 3,
-        "id": 109
+        "id": 111
     },
     {
         "BlackFridayDeals": null,
@@ -1207,7 +1229,7 @@
         "Notes": null,
         "Price": "$64.21",
         "Priority": 3,
-        "id": 110
+        "id": 112
     },
     {
         "BlackFridayDeals": null,
@@ -1218,7 +1240,7 @@
         "Notes": null,
         "Price": "$45.00",
         "Priority": 3,
-        "id": 111
+        "id": 113
     },
     {
         "BlackFridayDeals": null,
@@ -1229,7 +1251,7 @@
         "Notes": null,
         "Price": "$22.00",
         "Priority": 3,
-        "id": 112
+        "id": 114
     },
     {
         "BlackFridayDeals": null,
@@ -1240,7 +1262,7 @@
         "Notes": null,
         "Price": "$13.16",
         "Priority": 3,
-        "id": 113
+        "id": 115
     },
     {
         "BlackFridayDeals": null,
@@ -1251,7 +1273,7 @@
         "Notes": null,
         "Price": "$37.00",
         "Priority": 3,
-        "id": 114
+        "id": 116
     },
     {
         "BlackFridayDeals": null,
@@ -1262,7 +1284,7 @@
         "Notes": null,
         "Price": "$84.00",
         "Priority": 3,
-        "id": 115
+        "id": 117
     },
     {
         "BlackFridayDeals": null,
@@ -1273,7 +1295,7 @@
         "Notes": null,
         "Price": "$45.00",
         "Priority": 3,
-        "id": 116
+        "id": 118
     },
     {
         "BlackFridayDeals": null,
@@ -1284,7 +1306,7 @@
         "Notes": null,
         "Price": "$60.00",
         "Priority": 3,
-        "id": 117
+        "id": 119
     },
     {
         "BlackFridayDeals": null,
@@ -1295,7 +1317,7 @@
         "Notes": null,
         "Price": "$79.95",
         "Priority": 3,
-        "id": 118
+        "id": 120
     },
     {
         "BlackFridayDeals": null,
@@ -1306,7 +1328,7 @@
         "Notes": null,
         "Price": "$24.00",
         "Priority": 3,
-        "id": 119
+        "id": 121
     },
     {
         "BlackFridayDeals": null,
@@ -1317,7 +1339,7 @@
         "Notes": null,
         "Price": "$57.70",
         "Priority": 3,
-        "id": 120
+        "id": 122
     },
     {
         "BlackFridayDeals": null,
@@ -1328,7 +1350,7 @@
         "Notes": null,
         "Price": "$229.95",
         "Priority": 3,
-        "id": 121
+        "id": 123
     },
     {
         "BlackFridayDeals": null,
@@ -1339,7 +1361,7 @@
         "Notes": null,
         "Price": "$194.00",
         "Priority": 3,
-        "id": 122
+        "id": 124
     },
     {
         "BlackFridayDeals": null,
@@ -1350,7 +1372,7 @@
         "Notes": null,
         "Price": "$9.99",
         "Priority": 3,
-        "id": 123
+        "id": 125
     },
     {
         "BlackFridayDeals": null,
@@ -1361,7 +1383,7 @@
         "Notes": null,
         "Price": "$48.00",
         "Priority": 3,
-        "id": 124
+        "id": 126
     },
     {
         "BlackFridayDeals": null,
@@ -1372,7 +1394,7 @@
         "Notes": null,
         "Price": "$25.00",
         "Priority": 3,
-        "id": 125
+        "id": 127
     },
     {
         "BlackFridayDeals": null,
@@ -1383,7 +1405,7 @@
         "Notes": null,
         "Price": "$45.00",
         "Priority": 3,
-        "id": 126
+        "id": 128
     },
     {
         "BlackFridayDeals": null,
@@ -1394,7 +1416,7 @@
         "Notes": null,
         "Price": "$26.67",
         "Priority": 3,
-        "id": 127
+        "id": 129
     },
     {
         "BlackFridayDeals": null,
@@ -1405,7 +1427,7 @@
         "Notes": null,
         "Price": "$29.99",
         "Priority": 3,
-        "id": 128
+        "id": 130
     },
     {
         "BlackFridayDeals": null,
@@ -1416,7 +1438,7 @@
         "Notes": null,
         "Price": "$15.00",
         "Priority": 3,
-        "id": 129
+        "id": 131
     },
     {
         "BlackFridayDeals": null,
@@ -1427,7 +1449,7 @@
         "Notes": null,
         "Price": "$21.99",
         "Priority": 3,
-        "id": 130
+        "id": 132
     },
     {
         "BlackFridayDeals": null,
@@ -1438,7 +1460,7 @@
         "Notes": null,
         "Price": "$39.99",
         "Priority": 3,
-        "id": 131
+        "id": 133
     },
     {
         "BlackFridayDeals": null,
@@ -1449,7 +1471,7 @@
         "Notes": null,
         "Price": "$59.90",
         "Priority": 4,
-        "id": 132
+        "id": 134
     },
     {
         "BlackFridayDeals": null,
@@ -1460,7 +1482,7 @@
         "Notes": null,
         "Price": "$60.00",
         "Priority": 4,
-        "id": 133
+        "id": 135
     },
     {
         "BlackFridayDeals": null,
@@ -1471,7 +1493,7 @@
         "Notes": null,
         "Price": "$155.70",
         "Priority": 4,
-        "id": 134
+        "id": 136
     },
     {
         "BlackFridayDeals": null,
@@ -1482,7 +1504,7 @@
         "Notes": null,
         "Price": "$74.99",
         "Priority": 4,
-        "id": 135
+        "id": 137
     },
     {
         "BlackFridayDeals": null,
@@ -1493,7 +1515,7 @@
         "Notes": null,
         "Price": "$99.00",
         "Priority": 4,
-        "id": 136
+        "id": 138
     },
     {
         "BlackFridayDeals": null,
@@ -1504,7 +1526,7 @@
         "Notes": null,
         "Price": "$65.00",
         "Priority": 4,
-        "id": 137
+        "id": 139
     },
     {
         "BlackFridayDeals": null,
@@ -1515,7 +1537,7 @@
         "Notes": null,
         "Price": "$8.97",
         "Priority": 4,
-        "id": 138
+        "id": 140
     },
     {
         "BlackFridayDeals": null,
@@ -1526,7 +1548,7 @@
         "Notes": null,
         "Price": "$24.90",
         "Priority": 5,
-        "id": 139
+        "id": 141
     },
     {
         "BlackFridayDeals": null,
@@ -1537,7 +1559,7 @@
         "Notes": null,
         "Price": "$38.43",
         "Priority": 5,
-        "id": 140
+        "id": 142
     },
     {
         "BlackFridayDeals": null,
@@ -1548,7 +1570,7 @@
         "Notes": null,
         "Price": "$64.90",
         "Priority": 5,
-        "id": 141
+        "id": 143
     },
     {
         "BlackFridayDeals": null,
@@ -1559,7 +1581,7 @@
         "Notes": null,
         "Price": "$30.00",
         "Priority": 5,
-        "id": 142
+        "id": 144
     },
     {
         "BlackFridayDeals": null,
@@ -1570,7 +1592,7 @@
         "Notes": null,
         "Price": "$49.95",
         "Priority": 5,
-        "id": 143
+        "id": 145
     },
     {
         "BlackFridayDeals": null,
@@ -1581,7 +1603,7 @@
         "Notes": null,
         "Price": "$49.95",
         "Priority": 5,
-        "id": 144
+        "id": 146
     },
     {
         "BlackFridayDeals": null,
@@ -1592,7 +1614,7 @@
         "Notes": null,
         "Price": "$50.00",
         "Priority": 5,
-        "id": 145
+        "id": 147
     },
     {
         "BlackFridayDeals": null,
@@ -1603,7 +1625,7 @@
         "Notes": null,
         "Price": "$40.00",
         "Priority": 5,
-        "id": 146
+        "id": 148
     },
     {
         "BlackFridayDeals": null,
@@ -1614,7 +1636,7 @@
         "Notes": null,
         "Price": "$100.00",
         "Priority": 5,
-        "id": 147
+        "id": 149
     },
     {
         "BlackFridayDeals": null,
@@ -1625,7 +1647,7 @@
         "Notes": null,
         "Price": "$12.69",
         "Priority": 5,
-        "id": 148
+        "id": 150
     },
     {
         "BlackFridayDeals": null,
@@ -1636,7 +1658,7 @@
         "Notes": null,
         "Price": "$20.00",
         "Priority": 5,
-        "id": 149
+        "id": 151
     },
     {
         "BlackFridayDeals": null,
@@ -1647,7 +1669,7 @@
         "Notes": null,
         "Price": "$49.99",
         "Priority": 5,
-        "id": 150
+        "id": 152
     },
     {
         "BlackFridayDeals": null,
@@ -1658,7 +1680,7 @@
         "Notes": null,
         "Price": "$174.99",
         "Priority": 5,
-        "id": 151
+        "id": 153
     },
     {
         "BlackFridayDeals": null,
@@ -1669,7 +1691,7 @@
         "Notes": null,
         "Price": "$272.00",
         "Priority": 5,
-        "id": 152
+        "id": 154
     },
     {
         "BlackFridayDeals": null,
@@ -1680,7 +1702,7 @@
         "Notes": null,
         "Price": "$25.00",
         "Priority": 5,
-        "id": 153
+        "id": 155
     },
     {
         "BlackFridayDeals": null,
@@ -1691,7 +1713,7 @@
         "Notes": null,
         "Price": "$39.00",
         "Priority": 5,
-        "id": 154
+        "id": 156
     },
     {
         "BlackFridayDeals": null,
@@ -1702,7 +1724,7 @@
         "Notes": null,
         "Price": "$44.00",
         "Priority": 5,
-        "id": 155
+        "id": 157
     },
     {
         "BlackFridayDeals": null,
@@ -1713,7 +1735,7 @@
         "Notes": null,
         "Price": "$36.00",
         "Priority": 5,
-        "id": 156
+        "id": 158
     },
     {
         "BlackFridayDeals": null,
@@ -1724,7 +1746,7 @@
         "Notes": null,
         "Price": "$208.00",
         "Priority": 5,
-        "id": 157
+        "id": 159
     },
     {
         "BlackFridayDeals": null,
@@ -1735,7 +1757,7 @@
         "Notes": null,
         "Price": "$10.00",
         "Priority": 5,
-        "id": 158
+        "id": 160
     },
     {
         "BlackFridayDeals": null,
@@ -1746,7 +1768,7 @@
         "Notes": null,
         "Price": "$19.99",
         "Priority": 5,
-        "id": 159
+        "id": 161
     },
     {
         "BlackFridayDeals": null,
@@ -1757,7 +1779,7 @@
         "Notes": null,
         "Price": "$269.99",
         "Priority": 5,
-        "id": 160
+        "id": 162
     },
     {
         "BlackFridayDeals": null,
@@ -1768,7 +1790,7 @@
         "Notes": null,
         "Price": "$69.97",
         "Priority": 5,
-        "id": 161
+        "id": 163
     },
     {
         "BlackFridayDeals": null,
@@ -1779,7 +1801,7 @@
         "Notes": null,
         "Price": "$65.00",
         "Priority": 5,
-        "id": 162
+        "id": 164
     },
     {
         "BlackFridayDeals": null,
@@ -1790,7 +1812,7 @@
         "Notes": null,
         "Price": "$85.00",
         "Priority": 5,
-        "id": 163
+        "id": 165
     },
     {
         "BlackFridayDeals": null,
@@ -1801,7 +1823,7 @@
         "Notes": null,
         "Price": "$60.00",
         "Priority": 5,
-        "id": 164
+        "id": 166
     },
     {
         "BlackFridayDeals": null,
@@ -1812,7 +1834,7 @@
         "Notes": null,
         "Price": "$9.86",
         "Priority": 5,
-        "id": 165
+        "id": 167
     },
     {
         "BlackFridayDeals": null,
@@ -1823,7 +1845,7 @@
         "Notes": null,
         "Price": "$75.00",
         "Priority": 5,
-        "id": 166
+        "id": 168
     },
     {
         "BlackFridayDeals": null,
@@ -1834,7 +1856,7 @@
         "Notes": null,
         "Price": "$848.00",
         "Priority": 5,
-        "id": 167
+        "id": 169
     },
     {
         "BlackFridayDeals": null,
@@ -1845,7 +1867,7 @@
         "Notes": null,
         "Price": "$33.00",
         "Priority": 5,
-        "id": 168
+        "id": 170
     },
     {
         "BlackFridayDeals": null,
@@ -1856,7 +1878,7 @@
         "Notes": null,
         "Price": "$45.00",
         "Priority": 5,
-        "id": 169
+        "id": 171
     },
     {
         "BlackFridayDeals": null,
@@ -1867,7 +1889,7 @@
         "Notes": null,
         "Price": "$229.00",
         "Priority": 5,
-        "id": 170
+        "id": 172
     },
     {
         "BlackFridayDeals": null,
@@ -1878,28 +1900,6 @@
         "Notes": null,
         "Price": "$1,399.00",
         "Priority": 5,
-        "id": 171
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "https://www.fye.com/search?q=pusheen&start=12&sz=12",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 172
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "black overalls",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
         "id": 173
     },
     {
@@ -1907,7 +1907,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "white overalls",
+        "Link": "https://www.fye.com/search?q=pusheen&start=12&sz=12",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -1918,7 +1918,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "gingham black pants",
+        "Link": "black overalls",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -1929,7 +1929,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "red pants",
+        "Link": "white overalls",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -1940,7 +1940,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "green pants",
+        "Link": "gingham black pants",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -1951,7 +1951,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "purple pants",
+        "Link": "red pants",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -1962,7 +1962,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "blue pants",
+        "Link": "green pants",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -1973,7 +1973,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "white shorts",
+        "Link": "purple pants",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -1984,7 +1984,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "button ups",
+        "Link": "blue pants",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -1995,7 +1995,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "light green shorts",
+        "Link": "white shorts",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -2006,7 +2006,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "cloud sweater",
+        "Link": "button ups",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -2017,7 +2017,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "cropped yellow cardigan",
+        "Link": "light green shorts",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -2028,7 +2028,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "cropped pink cardigan",
+        "Link": "cloud sweater",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -2039,7 +2039,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "strawberry jeans",
+        "Link": "cropped yellow cardigan",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -2050,7 +2050,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "strawberry shorts",
+        "Link": "cropped pink cardigan",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -2061,7 +2061,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "plaid purple pastel jean jacket",
+        "Link": "strawberry jeans",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -2072,7 +2072,7 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": null,
+        "Link": "strawberry shorts",
         "Notes": null,
         "Price": null,
         "Priority": null,
@@ -2083,2079 +2083,11 @@
         "Category": null,
         "Image": null,
         "Item": null,
-        "Link": "https://jansbearessentials.com/",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 190
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/81OLPI92R2L._AC_SL1500_.jpg",
-        "Item": "Ticket scrapbook for Concerts ",
-        "Link": "https://a.co/d/3PKhfTG",
-        "Notes": null,
-        "Price": "$19.00",
-        "Priority": 1,
-        "id": 191
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/615s0isOV7L._AC_SX679_.jpg",
-        "Item": "Tascam Mic",
-        "Link": "https://www.amazon.com/Tascam-DR-05X-Handheld-Recorder-Interface/dp/B07N3FC7N3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A4KPTRK1MBYWJ",
-        "Notes": null,
-        "Price": "$79.00",
-        "Priority": 1,
-        "id": 192
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://di2ponv0v5otw.cloudfront.net/posts/2024/02/15/65ce5941bd66cd9d9d814275/m_wp_65ce5941bd66cd9d9d814276.webp",
-        "Item": "Pusheen Swimsuit",
-        "Link": "https://poshmark.com/listing/Pusheen-mermaid-monokini-juniors-65ce5941bd66cd9d9d814275",
-        "Notes": null,
-        "Price": "$25.00",
-        "Priority": 1,
-        "id": 193
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://u-mercari-images.mercdn.net/photos/m86027379251_1.jpg?width=1024&height=1024&format=pjpg&auto=webp&fit=crop&_=1726479422",
-        "Item": "Berry and bee converse ",
-        "Link": "https://www.mercari.com/us/item/m86027379251/?com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c",
-        "Notes": null,
-        "Price": "$125.00",
-        "Priority": 1,
-        "id": 194
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20546040_hi?$productMainTablet$&fmt=auto",
-        "Item": "Cinnamoroll Strawberry Ruffle Dress",
-        "Link": "https://www.hottopic.com/product/cinnamoroll-strawberry-ruffle-dress/20546040.html",
-        "Notes": null,
-        "Price": "$54.90",
-        "Priority": 1,
-        "id": 195
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.mygiftcardsupply.com/wp-content/uploads/2023/03/Shein-Gift-Cards.png",
-        "Item": "clothes from shein/shein gift card",
-        "Link": "https://m.shein.com/us/giftcard.html?lang=us",
-        "Notes": null,
-        "Price": "ANY AMOUNT",
-        "Priority": 1,
-        "id": 196
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://di2ponv0v5otw.cloudfront.net/posts/2023/08/08/64d2b9462fbf1a0e666c2e75/m_wp_64d2b95097b5d036c2d3506e.webp",
-        "Item": "Hello Kitty x Pusheen Lavender Clouds Suspender Skirt",
-        "Link": "https://poshmark.com/listing/Hello-Kitty-X-Pusheen-Lavender-Suspender-Skirt-Hot-Topic-Sanrio-64d2b9462fbf1a0e666c2e75#utm_source=gdm_unpaid",
-        "Notes": null,
-        "Price": "$17.00",
-        "Priority": 1,
-        "id": 197
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/81sk2kbbAKL._AC_SY500_.jpg",
-        "Item": "Pusheen Slippers",
-        "Link": "https://www.amazon.com/gp/product/B0BD59GT81/ref=sw_img_1?smid=A1U7E11P5KZ4D1&th=1&psc=1",
-        "Notes": null,
-        "Price": "$22.00",
-        "Priority": 1,
-        "id": 198
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://fbres.fivebelow.com/image/upload/t_large/5bassets/prod-hts/spree/images/1867268/original/7580061-00_A.jpg",
-        "Item": "hello kitty® ladies ankle socks 5-pack - red & blue",
-        "Link": "https://www.fivebelow.com/products/hello-kitty-ladies-ankle-socks-5-pack-red-blue",
-        "Notes": null,
-        "Price": "$5.00",
-        "Priority": 1,
-        "id": 199
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://nyahallo.com/cdn/shop/files/1_piece_side_front_small_521c618b-4453-484f-b569-d8898f484a1b.jpg?v=1718338929&width=960",
-        "Item": "Strawberry Swimsuit",
-        "Link": "https://nyahallo.com/products/pre-order-strawberry-one-piece-swimsuit?_pos=2&_sid=945dabaa1&_ss=r",
-        "Notes": null,
-        "Price": "$67.99",
-        "Priority": 1,
-        "id": 200
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://media-photos.depop.com/b1/34427349/1585675110_49eaddef258a4f27b33e350dfaf9baa6/P0.jpg",
-        "Item": "Pusheen Cardigan",
-        "Link": "https://www.depop.com/products/hunnydau-pusheen-the-cat-pink-sailor/",
-        "Notes": null,
-        "Price": "$22.50",
-        "Priority": 1,
-        "id": 201
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/81mILq8jToL._AC_SX395_.jpg",
-        "Item": "UGG Men's Tasman Slipper",
-        "Link": "https://www.amazon.com/gp/product/B000J19AY2/ref=twister_dp_update?ie=UTF8&psc=1&redirect=true",
-        "Notes": null,
-        "Price": "$109.00",
-        "Priority": 1,
-        "id": 202
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/61kuoM3sRaL._AC_SX395_.jpg",
-        "Item": "white crocs",
-        "Link": "https://www.amazon.com/crocs-Unisex-Classic-White-Women/dp/B00152AGEW?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER",
-        "Notes": null,
-        "Price": "$32.00",
-        "Priority": 1,
-        "id": 203
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSXfmyNF8iry43M6ZTX_exyZbJbb4hDsV0T9uG6ob57V8l70wqRlILnDsORSTdKOvjyCnP7_m4eqQ6LhroH12YmZPcwg6ZgRA",
-        "Item": "my melody sweater",
-        "Link": "https://www.aliexpress.us/item/3256803798020551.html?spm=a2g0o.cart.0.0.103238daVlKl6i&mp=1&gatewayAdapt=glo2usa",
-        "Notes": null,
-        "Price": "$16.00",
-        "Priority": 1,
-        "id": 204
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTFE07DI38k_2SPlmNuQxFgP7YXZfggJOVg&s",
-        "Item": "hello kitty sweater",
-        "Link": "https://www.aliexpress.us/item/3256803797941918.html?spm=a2g0o.cart.0.0.103238daVlKl6i&mp=1&gatewayAdapt=glo2usa",
-        "Notes": null,
-        "Price": "$16.00",
-        "Priority": 1,
-        "id": 205
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://mochipan.com/cdn/shop/files/Pre-Sample_Pre-Order_Strawberry_Jam_Sweater_-_Mochipan-2965783.jpg?v=1725268712&width=1200",
-        "Item": "Strawberry Jam Sweater",
-        "Link": "https://mochipan.com/products/strawberry-jam-sweater",
-        "Notes": null,
-        "Price": "$59.99",
-        "Priority": 1,
-        "id": 206
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://media.kohlsimg.com/is/image/kohls/6749164_The_Great_Pumpkin?wid=805&hei=805&op_sharpen=1",
-        "Item": "Snoopy PJS",
-        "Link": "https://www.kohls.com/product/prd-6749164/womens-beauty-sleep-social-marcie-peanuts-halloween-long-sleeve-top-pants-pajama-set.jsp?skuId=78702476",
-        "Notes": null,
-        "Price": "$24.50",
-        "Priority": 1,
-        "id": 207
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/719EP4wP2rL._AC_SX395_.jpg",
-        "Item": "Cinnamoroll Crocs",
-        "Link": "https://www.amazon.com/Crocs-Unisex-Hello-Classic-Cinnamoroll/dp/B0CVLHZGVM?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AH1YFAUS3NHX2",
-        "Notes": null,
-        "Price": "$69.00",
-        "Priority": 1,
-        "id": 208
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://target.scene7.com/is/image/Target/GUEST_5d6a3171-6c7e-4e3f-a4bb-8a0494435730?wid=600&hei=600&qlt=80&fmt=webp",
-        "Item": "Hello Kitty 90s Theme Juniors White Long Sleeve Shirt",
-        "Link": "https://www.target.com/p/hello-kitty-90s-theme-juniors-white-long-sleeve-shirt/-/A-87450741?preselect=88683118#lnk=sametab",
-        "Notes": null,
-        "Price": "$20.00",
-        "Priority": 1,
-        "id": 209
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://target.scene7.com/is/image/Target/GUEST_b1acdac1-cd65-4a0e-ab6f-53147de5bc9f?wid=600&hei=600&qlt=80&fmt=webp",
-        "Item": "Women's Hello Kitty Surfer Skimmer Short Sleeve Graphic T-Shirt",
-        "Link": "https://www.target.com/p/women-s-hello-kitty-surfer-skimmer-short-sleeve-graphic-t-shirt-pink/-/A-91000306?preselect=90921777#lnk=sametab",
-        "Notes": null,
-        "Price": "$14.00",
-        "Priority": 1,
-        "id": 210
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "clothes",
-        "Image": "https://target.scene7.com/is/image/Target/GUEST_6867b92b-fd65-49ed-bac5-a63a7cd29705?wid=600&hei=600&qlt=80&fmt=webp",
-        "Item": "Women's My Melody and Kuromi Graphic Sweatshirt",
-        "Link": "https://www.target.com/p/women-s-my-melody-and-kuromi-graphic-sweatshirt-pink/-/A-91741571?preselect=91718718#lnk=sametab",
-        "Notes": null,
-        "Price": "$24.99",
-        "Priority": 1,
-        "id": 211
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "clothes",
-        "Image": "https://target.scene7.com/is/image/Target/GUEST_84d1b024-ddb8-4a7d-82f8-9450d126fa32?wid=600&hei=600&qlt=80&fmt=webp",
-        "Item": "straweberry shortcake shirt",
-        "Link": "https://www.target.com/p/women-39-s-strawberry-shortcake-cozy-graphic-sweatshirt-pink-xs/-/A-91719039?afid=google&ref=tgt_adv_xsf&CPNG=Women&adgroup=6-5",
-        "Notes": null,
-        "Price": "$14.00",
-        "Priority": 1,
-        "id": 212
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "clothes",
-        "Image": "https://target.scene7.com/is/image/Target/GUEST_ce2aa53e-c50f-4ee2-bcf4-66740a389515?wid=600&hei=600&qlt=80&fmt=webp",
-        "Item": "straweberry shortcake pants",
-        "Link": "https://www.target.com/p/women-s-strawberry-shortcake-cozy-graphic-pants-pink/-/A-91741586?preselect=91719028#lnk=sametab",
-        "Notes": null,
-        "Price": "$14.00",
-        "Priority": 1,
-        "id": 213
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/81tOuNV2DVL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Stadium approved backpack",
-        "Link": "https://www.amazon.com/Backpack-Approved-Cold-Resistant-Transparent-Security/dp/B07WNDKM9G/ref=sr_1_5?dib=eyJ2IjoiMSJ9.9MhXcTW_zPpzYVhlOXwWEtlmibAeNKG3vnFKX2bCCSxYnB94A2NMXMCn5yyeyjmP_XSkgsvwEN2gj38mQWmY9R5XTuzxirZrEocyv6P4GKTjMLl_n1iETqXfCsKrjNRodJ_TGRzeEai5C2tP5hKfcO_QNL0z1Rgc0JW7rTRXfAgrrmyEOPmgunCzuR_aBHZpSK0FHjTeZEpt7fvzhQ7XRGu8ngGtoDyzIrQc8xzG_5j8xTZnSwuNyCDN1G3zNhyMmQkiAsPNlLZ0EZeqJi5EQsGLS2LULr0Q7BqE7ZhoKrA.wtJhFz5l3r7JBzHQd4nH2b6g3bW5eM9WXBmK4eOtU9E&dib_tag=se&keywords=clear+backpack+stadium+approved&qid=1727748288&sr=8-5",
-        "Notes": null,
-        "Price": "$15.00",
-        "Priority": 1,
-        "id": 214
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/91QTpVhQYZL._AC_SX569_.jpg",
-        "Item": "Columbia Women's 4 Pack Moisture Control Crew Socks",
-        "Link": "https://www.amazon.com/Columbia-Womens-Moisture-Control-Pink-grey/dp/B09ZVF39M8?dib=eyJ2IjoiMSJ9.mSS19ihiRWfSxEG-v2lUnNuXXcs4UckvCTsvEdHoS8KpiDDIA5kfoggRYbQAvqKAuGjIHpautcHNs0ODOGgqNnTeKVYWcQyYOLnmvfwkMly9GNWutM7xStjFDFXyj9NKyhlFM9tAoTGVy4ySmvFYAYh1JVUdHxMWsv0CsKsP-5e38HVlIrgxE00mFkzjv6YPvZAdBSs9XAFLLJY4RVavwSf3X_sUgRwvbnkmNObnDGvnHXN-Qw1S0o6VsVuCGF4S-aQPnMBl020h8n_yX2uGml4WqwnwCXRPnMqfVcQhZ9U.2tXfiq86H6pXltvDAQUzb4XCk3-iKosv3r26-fvu_Gk&dib_tag=se&keywords=columbia+womens+socks&qid=1730962513&sr=8-6",
-        "Notes": null,
-        "Price": "$22.00",
-        "Priority": 1,
-        "id": 215
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/61V9jXXTxAL._AC_SX569_.jpg",
-        "Item": "pusheen gym bag",
-        "Link": "https://www.amazon.com/gp/product/B0CQMN1B5L/ref=sw_img_1?smid=A2ME53KL2BSLB6&psc=1",
-        "Notes": null,
-        "Price": "$49.90",
-        "Priority": 1,
-        "id": 216
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_555/v1727880002/1127896-CYWH_1.png?_s=RAABAB0",
-        "Item": "Hoka Running Shoes",
-        "Link": "https://www.hoka.com/en/us/womens-everyday-running-shoes/clifton-9/1127896.html",
-        "Notes": null,
-        "Price": "$145.00",
-        "Priority": 1,
-        "id": 217
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/612BVvt7aAL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Naked Whey Protein Powder",
-        "Link": "https://www.amazon.com/NAKED-WHEY-1LB-Ingredient-Undenatured/dp/B071ZDDNBY/ref=sr_1_6_pp?crid=1SLCDJRE0QNRC&dib=eyJ2IjoiMSJ9.5VHUX76DFMqcbS6A-vNpJUMPPtRi56aiiOz2kG1JbaAoOTHYQavL8hqKjiJhuo-pJQcmrxOjkJQ_2OVhV4tFovTTH8eKUZzYGv2ILF8U7ppEjeatdp1u1GZ1joBz83BmIpPSYL9Kj7viHw2jEcPJJNTqlu7wxfAUrWeKKjCYZrog_Y-lvVx-uCvyfYELtvj7BafqKoh8vg4HitaRlgdWRsj1YYD7x5qMSgH97h9QSVMc6iauubCzgIIarJAXGATiTXUo9ji1kF11MgG4mXtN4iDBv5fSvb9atIApGnHFHDA.cj8q9mMT7Nv2HTFriIlT_HwiDovCVxJrcZPafBlhBis&dib_tag=se&keywords=protein+powder&qid=1722046482&sprefix=protein+powder+%2Caps%2C135&sr=8-6",
-        "Notes": null,
-        "Price": "$25.00",
-        "Priority": 1,
-        "id": 218
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/719ikZYaWFL._AC_SY450_.jpg",
-        "Item": "Push up Bar",
-        "Link": "https://www.amazon.com/Teclor-Parallettes-Heavy-Duty-Handstands-Calisthenics/dp/B0BGHX4KBH",
-        "Notes": null,
-        "Price": "$39.99",
-        "Priority": 1,
-        "id": 219
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "fitness",
-        "Image": "https://m.media-amazon.com/images/I/71y07ZFqBdL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "Item": "dip bar",
-        "Link": "https://www.amazon.com/RELIFE-REBUILD-YOUR-LIFE-Functional/dp/B07DHD3CSY/ref=sr_1_4?crid=1YV4O3THCDY4B&dib=eyJ2IjoiMSJ9.xpe7iShUXB9UEyRcB7cc0khVFq6JdsH7xywitbzL2KOqWb4cIlXg4WHwrcCyVwX4nAFbMAtfXXuSIm3eCTvDczGLEIg_gU7PBPsV_17NTyoO4-2av0l6S6aDJB3HMw0lxC60P8zOrINxXrrOGIB9KhemN_JHlPJU_2VkfHjJFL5LREfnfGxPRGIdaUb61xux3DH8aVN5QUw3Ik2dKjBvaKhQei4JiL6E4qeuSojC7XjSAtid4RTU1h0mu-KJ6dgHyum4hzOlwPn1oRIDptcf1P6qiOEoP-PDigLtQNGtL-s.XEQczkcBC61I3Rjypv19BzjW9OSzRW99T6uXIQYrlig&dib_tag=se&keywords=dip+bar&qid=1722397799&s=sporting-goods&sprefix=dip+bar%2Csporting%2C90&sr=1-4",
-        "Notes": null,
-        "Price": "$57.99",
-        "Priority": 1,
-        "id": 220
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://pioneerfit.com/cdn/shop/files/Doublesuedelever2.png?v=1717510996&width=1800",
-        "Item": "Lifting Belt",
-        "Link": "https://pioneerfit.com/products/double-suede-lever-weightlifting-belt",
-        "Notes": null,
-        "Price": "$114.00",
-        "Priority": 1,
-        "id": 221
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/51aWnMB5LNL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "CAP Barbell Olympic Trap Bar | Multiple Grip Options",
-        "Link": "https://www.amazon.com/CAP-Barbell-Olympic-Shrug-Deadlift/dp/B0BFYMMWM7/ref=sr_1_5?dib=eyJ2IjoiMSJ9.vW66Dmv9m4sJe-DmFqwyjLb-Izdvf5KpCbeJYtNso6DEeARQluPIgScdN_rq1PUKFa1MM4WN1E5eo80ZaSLvtzJOGJ4FKhIzqYrPLDz6yAMf9jpFrG6IZ8W5Bl9iDPo1PdsOMHexavSeD9Z_DuVMljZGwMg42uKNrSp_ffqb6L-IZdzuBtLcDgL0NrN78e5Xd96fS1iluFSNsQRzVe8D6PJnsGV8TJc5IHJaUC6rXou2ETwpgP_ldZ22LR-DyfdtW3sJdMYMsndFoKAyyYgA02UDqMRHPv91C8yQASMQGW0.1lKuJpfPYxfLL9puJkDw2WUF7z6QfVB2gYB5W4IGnQY&dib_tag=se&keywords=trap%2Bbar&qid=1729472074&sr=8-5&th=1",
-        "Notes": null,
-        "Price": "$79.00",
-        "Priority": 1,
-        "id": 222
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/71mlZwNHQ8L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Ankle Straps for Cable Machine",
-        "Link": "https://www.amazon.com/dp/B0CKLWNJ29?_encoding=UTF8&th=1",
-        "Notes": null,
-        "Price": "$19.00",
-        "Priority": 1,
-        "id": 223
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://m.media-amazon.com/images/I/81IRVE7aGVL._SX522_.jpg",
-        "Item": "cotton candy sprinkles",
-        "Link": "https://www.amazon.com/Yupik-Sprinkles-Cotton-Candy-2-2/dp/B07QZF5PTT/ref=sr_1_5?crid=12EHKLHDFMNCS&keywords=cotton+candy+sprinkles&qid=1689980215&sprefix=%2Caps%2C166&sr=8-5",
-        "Notes": null,
-        "Price": "$5.91",
-        "Priority": 1,
-        "id": 224
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://m.media-amazon.com/images/I/41JsTg6KUjL._SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "PB sauce",
-        "Link": "https://www.amazon.com/gp/product/B00I3303L2/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-        "Notes": null,
-        "Price": "$19.70",
-        "Priority": 1,
-        "id": 225
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://m.media-amazon.com/images/I/41R6hRCf0ML._SY300_SX300_QL70_FMwebp_.jpg",
-        "Item": "Vital wheat gluten",
-        "Link": "https://www.amazon.com/Bobs-Red-Mill-Vital-Gluten/dp/B083KBZ5DW/ref=sr_1_6?crid=3AMCP0MSP7E5T&dib=eyJ2IjoiMSJ9.UX9ELEkKXPmdXeeN6sD8e14W45MS6aRRb-SOQYsuDlc46fQNhC8MW5TYiSOoymQ6CwsocpClmCkvjMMScAMPz6dLivdAIx34iCY-KAs_Jl9pmaqS4WVuHktYMeK0M2jpWkBGQiJ8gwk0Xo24eob70ASRWO3t9a15g_qMIHQG3TJ7LOVGpbA6mCK1L0qxeT0hwoCFaSuNXY3wMIKi03NONgJhKSD7fIcXQaaZLE-CDNzW5mSbXnuNzDjJCTg_8s86KitvHCtwnJ-DzH_ZelNY7ISHvqQl0gpQ3dsXKxSC9ec.-Z1xsSG1tZ1jDcy33GWKJWGeknusohsLvXOR-uJR7Mc&dib_tag=se&keywords=vital+wheat+gluten&qid=1721258856&sprefix=vital+whe%2Caps%2C148&sr=8-6",
-        "Notes": null,
-        "Price": "$9.49",
-        "Priority": 1,
-        "id": 226
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://m.media-amazon.com/images/I/41mGwlHTcmL._SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Vanilla bean paste",
-        "Link": "https://www.amazon.com/Vanilla-Bean-Paste-Baking-Cooking/dp/B07JFLXZQV/ref=sr_1_5?crid=1ENXVAVYTD2PT&dib=eyJ2IjoiMSJ9.NK94jZq13hHZWOA0PoAOBxcYptrKKhdubq-eL8in-ZepISVpMBoFERJlv3TFPA7Jd7W-WbYV2Q4cQai7iD90XItqahCQbqWy4MSbQdBIIqGWBW30L4IzfXiABTrB84OEd9R_UvQDE--u91zirPsZWF17o1l_jFP3B7JIcyG9FGaRhUutWzBDq0mFV2JeOsI-HcLxTSh3bVtbfTZKK9bgdFCHqWCZhl7FHNQqLSjNVt1Z-pJsvbDxErA6lL6Q8euiUzTQy_pttfWeiYyCLOvKHnHakdCU-EM9tZ4jIC5TvqU.g83IW2CgTmpWQ1o7ggExT-EBjDL28vezm-hOstdTqjE&dib_tag=se&keywords=vanilla+bean+paste&qid=1722043505&sprefix=Vanilla+bean+paste%2Caps%2C120&sr=8-5",
-        "Notes": null,
-        "Price": "$14.24",
-        "Priority": 1,
-        "id": 227
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://m.media-amazon.com/images/I/61BY1JiSnAL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Protein Powder",
-        "Link": "https://www.amazon.com/NAKED-WHEY-1LB-Ingredient-Undenatured/dp/B0787S4YN1?ref_=ast_sto_dp&th=1",
-        "Notes": null,
-        "Price": "$25.00",
-        "Priority": 1,
-        "id": 228
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://m.media-amazon.com/images/I/41y7WRo25AL._SY300_SX300_.jpg",
-        "Item": "Flakey Salt",
-        "Link": "https://www.amazon.com/Maldon-Sea-Salt-Flakes-ounce/dp/B00017028M/ref=sr_1_5?crid=1GZWS9PU4HTKM&keywords=flaky+sea+salt&qid=1702178582&sprefix=flaky+sea+salt%5C%2Caps%2C112&sr=8-5",
-        "Notes": null,
-        "Price": "$6.28",
-        "Priority": 1,
-        "id": 229
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://m.media-amazon.com/images/I/51gQbWQmceL._SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Popcorn sesaoning",
-        "Link": "https://www.amazon.com/Snappy-Match-Popcorn-Seasonings-Salts/dp/B0B2KHXFW5?ref_=ast_sto_dp",
-        "Notes": null,
-        "Price": "$39.00",
-        "Priority": 1,
-        "id": 230
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://m.media-amazon.com/images/I/51fHF3ISbsL._SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "spider man 2",
-        "Link": "https://www.amazon.com/MARVELS-SPIDER-MAN-2-Launch-PlayStation-5/dp/B0C7WNMCSC",
-        "Notes": null,
-        "Price": "$69.00",
-        "Priority": 1,
-        "id": 231
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://shop.stardewvalley.net/cdn/shop/files/boxshotsmaller_f563a498-f844-4b88-ada9-a00a259a8acf_540x.png?v=1691690497",
-        "Item": "Stardew Valley: The Board Game",
-        "Link": "https://shop.stardewvalley.net/products/pre-order-stardew-valley-the-board-game-3rd-printing",
-        "Notes": null,
-        "Price": "$50.00",
-        "Priority": 1,
-        "id": 232
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://m.media-amazon.com/images/I/81M-NPlVi9L._SX342_.jpg",
-        "Item": "Astro Bot ps5",
-        "Link": "https://www.amazon.com/Astro-Bot-PS5-PlayStation-5/dp/B0D5SM3K4Q",
-        "Notes": null,
-        "Price": "$59.00",
-        "Priority": 1,
-        "id": 233
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/71-2ggArf9L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Blowtorch ",
-        "Link": "https://www.amazon.com/Sondiko-Culinary-Refillable-Adjustable-Desserts/dp/B07L8YPYQK/ref=sr_1_5?crid=39ZB79XU1KXPE&keywords=Blowtorch&qid=1694404906&sprefix=blowtorch+%2Caps%2C111&sr=8-5",
-        "Notes": null,
-        "Price": "$14.94",
-        "Priority": 1,
-        "id": 234
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/51FaThL2WgL._SX342_SY445_.jpg",
-        "Item": "Mythical cookbook",
-        "Link": "https://www.amazon.com/dp/0063323966?nodl=1&tag=authorweb-20&dplnkId=3aab204b-9cdf-4ca9-a144-a1df43cf53d9",
-        "Notes": null,
-        "Price": "$32.50",
-        "Priority": 1,
-        "id": 235
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/71idQsNnmOL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Nut and oat milk maker",
-        "Link": "https://www.amazon.com/dp/B0C6G93F4W?ref_=cm_sw_r_apin_dp_8ZTK047AM4E7PQM0ZE50&peakEvent=4&dealEvent=1&language=en-US",
-        "Notes": null,
-        "Price": "$94.00",
-        "Priority": 1,
-        "id": 236
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/51WYet7H3YL._SX342_SY445_.jpg",
-        "Item": "Stardew valley cookbook",
-        "Link": "https://www.amazon.com/dp/1984862057?ref_=cm_sw_r_apin_dp_X2VKP5YF07SSKHVCBECP",
-        "Notes": null,
-        "Price": "$18.00",
-        "Priority": 1,
-        "id": 237
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/51zKjr3KrGL._SX342_SY445_.jpg",
-        "Item": "The Official Horizon Cookbook: Tastes of the Seven Tribes (Gaming)",
-        "Link": "https://www.amazon.com/dp/B0CDJB6NYD?ref_=cm_sw_r_apin_dp_PCFGY04DV2Y3YMNREVRG",
-        "Notes": null,
-        "Price": "$39.00",
-        "Priority": 1,
-        "id": 238
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://shopcookingwithkarli.com/cdn/shop/files/Untitled-design-16.jpg?v=1705500129&width=493",
-        "Item": "Merry Cookie Lover",
-        "Link": "https://shopcookingwithkarli.com/products/the-merry-cookie-lover-the-ultimate-christmas-cookie-and-candy-collection-cookie-lover-book-3-physical-copy",
-        "Notes": null,
-        "Price": "$27.99",
-        "Priority": 1,
-        "id": 239
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://shopcookingwithkarli.com/cdn/shop/files/PRE-ORDERTODAY_-3.png?v=1727131947&width=493",
-        "Item": "Cookies For days",
-        "Link": "https://shopcookingwithkarli.com/products/cookie-lover-the-classic-collection-cookbook-cookie-lover-book-2-physical-copy",
-        "Notes": null,
-        "Price": "$39.00",
-        "Priority": 1,
-        "id": 240
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202443/0012/img30o.jpg",
-        "Item": "Smart pasta noodle maker ",
-        "Link": "https://www.williams-sonoma.com/products/philips-smart-pasta-noodle-maker/?catalogId=79&sku=1651409&cm_ven=FreePLA&cm_cat=Google&cm_pla=Electrics%20%3E%20Pasta%20Machines&region_id=668460",
-        "Notes": null,
-        "Price": "$249.00",
-        "Priority": 1,
-        "id": 241
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/51RRlTy+moL._SX342_SY445_.jpg",
-        "Item": "binging with babish Cookbook",
-        "Link": "https://www.amazon.com/gp/product/1328589897/ref=ox_sc_act_title_5?smid=ATVPDKIKX0DER&psc=1",
-        "Notes": null,
-        "Price": "$16.59",
-        "Priority": 1,
-        "id": 242
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/51eORMn35aL._SX342_SY445_.jpg",
-        "Item": "basics with babish Cookbook",
-        "Link": "https://www.amazon.com/gp/product/198216753X/ref=ox_sc_act_title_4?smid=ATVPDKIKX0DER&psc=1",
-        "Notes": null,
-        "Price": "$20.00",
-        "Priority": 1,
-        "id": 243
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/41HaZqLt1OL._SX342_SY445_.jpg",
-        "Item": "More Is More: Get Loose in the Kitchen: A Cookbook",
-        "Link": "https://www.amazon.com/More-Get-Loose-Kitchen-Cookbook/dp/0593578848/ref=sr_1_76?crid=GFZFPDY270NQ&dib=eyJ2IjoiMSJ9.MoUBiLIIuvNceW0bgeFTF3nTKZSFKGFLmCTNNhuqOEBbFNsSoZax7qCdcFHJB6pk8MlM3Qic7w6lvYvnxAeSi94p8jh0faACdDMjGbhI9mt2HIf0VnYsG-oSVQL-SB4Axf0kQ71H0xZnEbkJlvlJBTv6KEadOe9H79jor6_V82h_R4L3SGkJKYPw6TBP09A3OqXB7CqBHk5vFF8zH78kBkxTEtF_au5QvW9FcNGM2XEWuAI8zKwaXXhpJDbpClt3X0NCQ1dXf4xVlQnWjQXdWAkOYfghgvlDnvuNeqE_Ic8.0X8UMAPfqUZU3JwBTveJDGq8-pAauDYP5WtedWbBqw4&dib_tag=se&keywords=cook+book&qid=1722051062&sprefix=cook+book%2Caps%2C118&sr=8-76",
-        "Notes": null,
-        "Price": "$19.00",
-        "Priority": 1,
-        "id": 244
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/51pW6QCzLAL._SX342_SY445_.jpg",
-        "Item": "What's for Dessert: Simple Recipes for Dessert People: A Baking Book",
-        "Link": "https://www.amazon.com/Whats-Dessert-Simple-Recipes-People/dp/1984826980/ref=sr_1_1?crid=1DTJLE2JPJKHV&dib=eyJ2IjoiMSJ9.XWcihldc7CxUpbYpI_lQOqkD4YAKUvZ9Q3vRtDbnVHR7ZhoIBRWckn6TbSYuXmgc0hmIKqTgGUZYZ6RoOL4tFeMEOiB8ZfJYEc87BbnVed7W32Z_3sTxuPeJX69fe1v6jT_9yOLVFg3EcgqrmFrZ2VI7JBYdT3B8nbvdF5eafMwPZROAYFUr04U0Qc_YVohI2HZPHB9kp04ZI8GKRB-T_Mubw4HCQMJv5noimsJHICI.t0Q1Vtq5KpWHY_9zOdC_e0tVmE09Lvh67YOyajhTYVA&dib_tag=se&keywords=claire+saffitz+cookbook&qid=1722051146&sprefix=claire+%2Caps%2C139&sr=8-1",
-        "Notes": null,
-        "Price": "$21.00",
-        "Priority": 1,
-        "id": 245
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/717UVXCru6L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Oil Sprayer",
-        "Link": "https://www.amazon.com/TrendPlain-16oz-Dispenser-Bottle-Kitchen/dp/B0CJF94M8J/ref=sr_1_2?dib=eyJ2IjoiMSJ9.obPlFHhdQmY3i9B4LcQKwkw_Shu5aQaBqsXMNWplog-yoGEqbpLhIbpyrQeXrrI4bMG0yEMQpznleZgkp4jcbtboGrKtQGAwkJ4SQ0nfwzBW_7rlfKzrZ-UTysqumSxGKeGJZFSJOOYMNgxkFi0_iGM6TMXgwJP6tsnSYMVB7l7DdgdOVSA99Oke1GaCvxshVNqAnAfpwVxd8WbURf5_CJvqnw4AoqXNbYYfBZBK1LguacBG2wsS0atLocY6beZvG7hMRexyhkHTcB4_KGdOMGfB6HLvG9GombkvHXeDKcM.LC1iwNa1MfZMPlgPoWdBLgvObs6xNxgZrAZ8_q-oe4s&dib_tag=se&keywords=butter+sprayer&qid=1722387524&sr=8-2",
-        "Notes": null,
-        "Price": "$8.77",
-        "Priority": 1,
-        "id": 246
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "kitchen",
-        "Image": "https://m.media-amazon.com/images/I/41hS2L6rLTL._SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "cheese powder",
-        "Link": "https://www.amazon.com/Cheddar-Cheese-Hoosier-Hill-Farm/dp/B008GG9ZS8/ref=mp_s_a_1_1_sspa?crid=10GSDDD8BE2IS&dib=eyJ2IjoiMSJ9.wJsNWBDS8VYxhom3v3RINyk-ja3HZZI_S9ZnbxIKOOqssPS1lPwVF1hLjygfMBXjJVEZuaMWHmuLdhY-CfypM96xS_yHtGLD40DgA7Ezc2Mhg6l45Rn60DNFr7YwBh8lEUTH9j-SPjgR-1bNZQvkZrSvCFvu0KjKjI65fdxGgiWVd2rqxeAy4IJs5k10PEzcmxcGqSQgVMzPq9zlxdJyWQ.8PV_s0HsKkrCppbwqlZxk5f4NIMZ40SXvESKTeSJrtw&dib_tag=se&keywords=hoosier+hill+farm+cheddar+cheese+powder&qid=1712365633&sprefix=hoosier+%2Caps%2C143&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1",
-        "Notes": null,
-        "Price": "$14.99",
-        "Priority": 1,
-        "id": 247
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/41sS0WI3j3L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Food Scale",
-        "Link": "https://www.amazon.com/OXO-Grips-Stainless-Pull-Out-Display/dp/B079D9B82W?th=1&tag=seriouseats-onsite-prod-20&ascsubtag=5128542%7Cnbb789694d7db44028990cbcc0933e36719%7CB079D9B82W%7C1723492634059%7C%7C",
-        "Notes": null,
-        "Price": "$53.93",
-        "Priority": 1,
-        "id": 248
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Makeup",
-        "Image": "https://m.media-amazon.com/images/I/61KBwXYnCTL._SX425_.jpg",
-        "Item": "ColourPop YOU'RE GOLDEN Eyeshadow Palette ",
-        "Link": "https://www.amazon.com/ColourPop-Eyeshadow-Semi-Sparkle-Cruelty-Free-Super-Pigmented/dp/B09V4MRMZK/ref=sr_1_7?crid=1L4BCM8AOTUTQ&keywords=colourpop&qid=1696648226&sprefix=colourpop%2Caps%2C133&sr=8-7",
-        "Notes": null,
-        "Price": "$39.00",
-        "Priority": 1,
-        "id": 249
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Plushies",
-        "Image": "https://fbres.fivebelow.com/image/upload/t_large/5bassets/prod-hts/spree/images/1847115/original/7200025-00_A.jpg",
-        "Item": "Hello kitty easter plushj",
-        "Link": "https://www.fivebelow.com/products/easter-hello-kitty-plush-toy",
-        "Notes": null,
-        "Price": "$5.00",
-        "Priority": 1,
-        "id": 250
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Technology",
-        "Image": "https://m.media-amazon.com/images/I/61-kbiQIy6S._AC_SX425_.jpg",
-        "Item": "Corsair iCUE Lighting Node PRO RGB Lighting Controller, Multicolored",
-        "Link": "https://www.amazon.com/Corsair-iCUE-Lighting-Controller-Multicolored/dp/B01MYDTC2C/ref=sr_1_5?keywords=rgb+corsair&qid=1637291528&qsid=131-4195542-0910046&s=electronics&sr=1-5&sres=B07D1XCKWW%2CB08QSNNV5H%2CB01MYDTC2C%2CB075VGN4M1%2CB07Z9SW756%2CB07TB3R9JB%2CB07L2QSY96%2CB08FVJ7MGK%2CB08C788312%2CB07TB4J2DD%2CB08HR74WV4%2CB07VGJMQLB%2CB08SPYCCF1%2CB0829RTMKY%2CB08XJZ82Y8%2CB07RCY2GTB%2CB08W2J9JZ9%2CB07VTGSC3B%2CB08J6FC3F3%2CB082LRMY53",
-        "Notes": null,
-        "Price": "$64.99",
-        "Priority": 1,
-        "id": 251
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Technology",
-        "Image": "https://m.media-amazon.com/images/I/510sm2v2IQL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "Item": "Light bar",
-        "Link": "https://www.amazon.com/dp/B07GXB3S7Z/ref=cm_sw_r_as_gl_api_gl_i_Y4A5W7F8NDGH4P6YZ51P?linkCode=ml1&tag=alexislovitz-20",
-        "Notes": null,
-        "Price": "$159.00",
-        "Priority": 1,
-        "id": 252
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Technology",
-        "Image": "https://m.media-amazon.com/images/I/51wvOvyER0L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Moca Network adapter",
-        "Link": "https://www.amazon.com/Actiontec-MoCA-Network-Adapter-Ethernet/dp/B088KV2YYL?crid=2YKT0PCKD516N&keywords=MOCA&qid=1687739548&sprefix=mo,aps,191&sr=8-2-spons&ufe=app_do:amzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl1&tag=brettturner-20&linkId=6cbebb4eeeb209ee42030d79b02dd3ab&language=en_US&ref_=as_li_ss_tl",
-        "Notes": null,
-        "Price": "$159.00",
-        "Priority": 1,
-        "id": 253
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Technology",
-        "Image": "https://m.media-amazon.com/images/I/71SO6n+i2lL._AC_SY300_SX300_.jpg",
-        "Item": "Pusheen Café Series Silicone Protective Cover",
-        "Link": "https://www.amazon.com/iFace-Silicone-Protective-Character-Carabiner/dp/B09W9JWTBG?th=1",
-        "Notes": null,
-        "Price": "$49.00",
-        "Priority": 1,
-        "id": 254
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://target.scene7.com/is/image/Target/GUEST_538df383-9e32-4ded-a0f7-6f7f77833a9a?wid=600&hei=600&qlt=80&fmt=webp",
-        "Item": "A Charlie Brown Christmas (Target Exclusive, Vinyl)",
-        "Link": "https://www.target.com/p/vince-guaraldi-trio-a-charlie-brown-christmas-target-exclusive-vinyl/-/A-87001302#lnk=sametab",
-        "Notes": null,
-        "Price": "$24.99",
-        "Priority": 1,
-        "id": 255
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://m.media-amazon.com/images/I/415dby+aFKL._SY300_.jpg",
-        "Item": "Christmas Charlie Brown vinyl",
-        "Link": "https://www.amazon.com/Charlie-Brown-Christmas-Green-Vinyl/dp/B002Y1OAJU/ref=sr_1_4?keywords=christmas+vinyl+records&qid=1699072189&sr=8-4",
-        "Notes": null,
-        "Price": "$21.99",
-        "Priority": 1,
-        "id": 256
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://target.scene7.com/is/image/Target/GUEST_ee822280-2a5a-48b5-9178-41099c26d12f?wid=600&hei=600&qlt=80&fmt=webp",
-        "Item": "Conan gray vinyl ",
-        "Link": "https://www.target.com/p/conan-gray-kid-krow-red-target-exclusive-vinyl/-/A-84049703#lnk=sametab",
-        "Notes": null,
-        "Price": "$22.49",
-        "Priority": 1,
-        "id": 257
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://mondoshop.com/cdn/shop/products/3-TLOUPackGatefold.jpg?v=1695711755&width=570",
-        "Item": "Hbo soundtrack vinyl",
-        "Link": "https://mondoshop.com/products/the-last-of-us-season-1-soundtrack-from-the-hbo-original-series-2xlp-mondo-exclusive",
-        "Notes": null,
-        "Price": "$42.00",
-        "Priority": 1,
-        "id": 258
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://m.media-amazon.com/images/I/91qLNA+rklL._SY355_.jpg",
-        "Item": "Ok Ocherstra vinyl",
-        "Link": "https://www.amazon.com/OK-ORCHESTRA-AJR/dp/B0BPYYG2WJ/ref=sr_1_2?qid=1699496604&refinements=p_32%3AAJR&s=music&sr=1-2",
-        "Notes": null,
-        "Price": "$24.98",
-        "Priority": 1,
-        "id": 259
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://m.media-amazon.com/images/I/310gUM02q6L._SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "troye sivan vinyl",
-        "Link": "https://www.amazon.com/Something-Give-Each-Other-LP/dp/B0C9V7X9NR/ref=sr_1_1?keywords=troye+sivan+vinyl&qid=1699757311&sr=8-1",
-        "Notes": null,
-        "Price": "$29.00",
-        "Priority": 1,
-        "id": 260
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://m.media-amazon.com/images/I/71PQhOeuY9L._SY355_.jpg",
-        "Item": "Trans-Siberian Orchestra - Christmas Eve and Other Stories",
-        "Link": "https://www.amazon.com/Trans-Siberian-Orchestra-Christmas-Other-Stories/dp/B09LTCVXJK",
-        "Notes": null,
-        "Price": "$25.00",
-        "Priority": 1,
-        "id": 261
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://www.fangamer.com/cdn/shop/files/product_sdv_vinyl_boxset2-1.png?crop=center&height=600&v=1704922959&width=900",
-        "Item": "Stardew Vinyl",
-        "Link": "https://www.fangamer.com/products/stardew-valley-complete-ost-vinyl-box-set",
-        "Notes": null,
-        "Price": "$79.00",
-        "Priority": 1,
-        "id": 262
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/51IPJd9bEHL._AC_SY450_.jpg",
-        "Item": "Loop Engage Earplugs for Conversation – Low-Level Noise Reduction with Clear Speech – Social Gatherings, Noise Sensitivity & Parenting – 8 Ear Tips in XS/S/M/L - 16 dB & NRR 10 - Crystal https://a.co/d/b3SAJhH",
-        "Link": "https://www.amazon.com/Loop-Earplugs-Conversation-Low-Level-Reduction/dp/B0CQP3HF8Q",
-        "Notes": null,
-        "Price": "$34.00",
-        "Priority": 1,
-        "id": 263
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20540286_hi?$productMainTablet$&fmt=auto",
-        "Item": "Sanrio Pompompurin Bee Costume Portrait Sweater - BoxLunch Exclusive",
-        "Link": "https://www.boxlunch.com/product/sanrio-pompompurin-bee-costume-portrait-sweater---boxlunch-exclusive/20540286.html",
-        "Notes": null,
-        "Price": "$64.90",
-        "Priority": 2,
-        "id": 264
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.forever21.com/dw/image/v2/BFKH_PRD/on/demandware.static/-/Sites-f21-master-catalog/default/dwb5d0346e/1_front_750/01248827-01.jpg?sw=1000&sh=1500",
-        "Item": "hooded robe hello kitty",
-        "Link": "https://www.forever21.com/us/2001248827.html?dwvar_2001248827_color=01",
-        "Notes": null,
-        "Price": "$34.99",
-        "Priority": 2,
-        "id": 265
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://vapor95.com/cdn/shop/files/ShibaQuestJoggersFront.png?v=1715768384&width=1200",
-        "Item": "shiba joggers",
-        "Link": "https://vapor95.com/products/shiba-quest-joggers",
-        "Notes": null,
-        "Price": "$54.95",
-        "Priority": 2,
-        "id": 266
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://vapor95.com/cdn/shop/products/ShibaQuestHoodieFront.png?v=1672794445&width=1200",
-        "Item": "shiba hoodie",
-        "Link": "https://vapor95.com/collections/nemupan/products/shiba-quest-hoodie",
-        "Notes": null,
-        "Price": "$59.95",
-        "Priority": 2,
-        "id": 267
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20540067_hi?$productMainTablet$&fmt=auto",
-        "Item": "Sanrio My Melody Strawberry Patterned Cardigan - BoxLunch Exclusive",
-        "Link": "https://www.boxlunch.com/product/sanrio-my-melody-strawberry-patterned-cardigan---boxlunch-exclusive/20540067.html",
-        "Notes": null,
-        "Price": "$64.90",
-        "Priority": 2,
-        "id": 268
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20897314_hi?$productMainTablet$&fmt=auto",
-        "Item": "Sanrio Cinnamoroll Balloons Crewneck - BoxLunch Exclusive",
-        "Link": "https://www.boxlunch.com/product/sanrio-cinnamoroll-balloons-crewneck---boxlunch-exclusive/20897314.html",
-        "Notes": null,
-        "Price": "$54.90",
-        "Priority": 2,
-        "id": 269
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20872878_hi?$productMainTablet$&fmt=auto",
-        "Item": "Sanrio Gudetama Color Block Wave Crewneck - BoxLunch Exclusive",
-        "Link": "https://www.boxlunch.com/product/sanrio-gudetama-color-block-wave-crewneck---boxlunch-exclusive/20872878.html",
-        "Notes": null,
-        "Price": "$54.90",
-        "Priority": 2,
-        "id": 270
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20546040_hi?$productMainTablet$&fmt=auto",
-        "Item": "Cinnamoroll Strawberry Ruffle Dress",
-        "Link": "https://www.hottopic.com/product/cinnamoroll-strawberry-ruffle-dress/20546040.html",
-        "Notes": null,
-        "Price": "$32.94",
-        "Priority": 2,
-        "id": 271
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/61AZsk982eL._AC_SX395_.jpg",
-        "Item": "converse",
-        "Link": "https://www.amazon.com/Converse-M9697-Low-TOP-Black/dp/B07KLTC8RF/ref=sr_1_2?crid=V3DQZT2ZDI8G&keywords=converse&qid=1695522588&sprefix=converse%2Caps%2C237&sr=8-2",
-        "Notes": null,
-        "Price": "$54.99",
-        "Priority": 2,
-        "id": 272
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/19508170_hi?$productMainTablet$&fmt=auto",
-        "Item": "My Melody & Kuromi Sweetheart Long-Sleeve Dress",
-        "Link": "https://www.hottopic.com/product/my-melody-kuromi-sweetheart-long-sleeve-dress/19508170.html",
-        "Notes": null,
-        "Price": "$29.49",
-        "Priority": 2,
-        "id": 273
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/81jYjE8CzKS._AC_SX395_.jpg",
-        "Item": "Pink Vans",
-        "Link": "https://www.amazon.com/dp/B0949LJG92?ref_=cm_sw_r_apin_dp_3QT203XN0RG4MAKA3SH4&th=1&psc=1",
-        "Notes": null,
-        "Price": "$89.62",
-        "Priority": 2,
-        "id": 274
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/17608341_hi?$productMainTablet$&fmt=auto",
-        "Item": "Sanrio My Melody Embroidered Panel Crewneck - BoxLunch Exclusive",
-        "Link": "https://www.boxlunch.com/product/sanrio-my-melody-embroidered-panel-crewneck---boxlunch-exclusive/17608341.html",
-        "Notes": null,
-        "Price": "$54.90",
-        "Priority": 2,
-        "id": 275
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/817960ObfPL._AC_SX569_.jpg",
-        "Item": "Women Strawberry Sequin Dress V-Neck Embroidered",
-        "Link": "https://www.amazon.com/Embroidered-Strawberry-Waisted-Cocktail-Dresses/dp/B08R7JPZM1",
-        "Notes": null,
-        "Price": "$29.00",
-        "Priority": 2,
-        "id": 276
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.insertcoinclothing.com/media/images/products/scale610x1002/1464_1.jpg?c=1678449610",
-        "Item": "Ellie Fall Hoodie",
-        "Link": "https://www.insertcoinclothing.com/hoodies/ellie-fall-hoodie.html?store=the-last-of-us",
-        "Notes": null,
-        "Price": "$65.49",
-        "Priority": 2,
-        "id": 277
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/467410/item/goods_60_467410_3x4.jpg?width=600",
-        "Item": "Jacket",
-        "Link": "https://www.uniqlo.com/us/en/products/E467410-000/00?colorDisplayCode=60&sizeDisplayCode=007&srsltid=AfmBOorczFBazmVK3PB2fhDdxm8j9VEGuhBmllHT2bl882vtAqIk6c78Duo",
-        "Notes": null,
-        "Price": "$39.90",
-        "Priority": 2,
-        "id": 278
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.fye.com/cdn/shop/files/PusheenFruits-Crew.jpg?v=1707416680&width=493",
-        "Item": "Pusheen Strawberry Sweater",
-        "Link": "https://www.fye.com/products/pusheen-strawberry-sweater_pid-clo6d3g3x000m01ln49rgfs68?_pos=1&_sid=6ef1a2335&_ss=r",
-        "Notes": null,
-        "Price": "$29.99",
-        "Priority": 2,
-        "id": 279
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://built.com/cdn/shop/files/web_grid_7abc7fed-2d35-4f1f-acfa-dbf32f155622.jpg?v=1731083859&width=493",
-        "Item": "Built Protein bars",
-        "Link": "https://built.com/products/12ct-mixed-box",
-        "Notes": null,
-        "Price": "$29.00",
-        "Priority": 2,
-        "id": 280
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://images.bigbadtoystore.com/images/p/full/2022/01/7de222fe-1a70-4c9b-bda2-04f3948830c0.jpg",
-        "Item": "Abby Statue",
-        "Link": "https://www.bigbadtoystore.com/Product/VariationDetails/193705",
-        "Notes": "$0.00",
-        "Price": "$59.99",
-        "Priority": 2,
-        "id": 281
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://media.gamestop.com/i/gamestop/11200513/Nintendo-Switch-Sports---Nintendo-Switch?$pdp2x$",
-        "Item": "Nintendo Switch Sports - Nintendo Switch",
-        "Link": "https://www.gamestop.com/video-games/nintendo-switch/products/nintendo-switch-sports---nintendo-switch/335829.html",
-        "Notes": null,
-        "Price": "$39.00",
-        "Priority": 2,
-        "id": 282
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Makeup",
-        "Image": "https://m.media-amazon.com/images/I/71oXZJMvhkL._SY450_.jpg",
-        "Item": "ColourPop FADE INTO HUE Eyeshadow Palette ",
-        "Link": "https://www.amazon.com/ColourPop-Eyeshadow-Metallic-Semi-Sparkle-Super-Pigmented/dp/B09VGV7NJH",
-        "Notes": null,
-        "Price": "$33.74",
-        "Priority": 2,
-        "id": 283
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Plushies",
-        "Image": "https://www.smokonow.com/cdn/shop/files/PTK_Web_DSC09296-UPDATED.jpg?v=1695316484",
-        "Item": "thanksgiving potato plush",
-        "Link": "https://www.smokonow.com/products/tayto-potato-thanksgiving-mochi-plush",
-        "Notes": null,
-        "Price": "$32.00",
-        "Priority": 2,
-        "id": 284
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Plushies",
-        "Image": "https://m.media-amazon.com/images/I/81Ja6zhPhjL._AC_SY355_.jpg",
-        "Item": "gingerbread pusheen",
-        "Link": "https://www.amazon.com/GUND-Pusheen-Gingerbread-Squisheen-Stuffed/dp/B0BYPQRXFF?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1",
-        "Notes": null,
-        "Price": "$15.00",
-        "Priority": 2,
-        "id": 285
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Plushies",
-        "Image": "https://www.smokonow.com/cdn/shop/products/PTK_Web_DSC00947.jpg?v=1650999917",
-        "Item": "Tayto Potato christmas tree plush",
-        "Link": "https://www.smokonow.com/products/tayto-potato-christmas-tree-mochi-plush",
-        "Notes": null,
-        "Price": "$38.00",
-        "Priority": 2,
-        "id": 286
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/71OezE+6YzL._AC_SX425_.jpg",
-        "Item": "wearable heatable poncho",
-        "Link": "https://www.amazon.com/Beautyrest-Sherpa-Electric-Blanket-Shutoff/dp/B07JVG9GG3/ref=sr_1_7?crid=1Z80YOEEJUFY0&keywords=heated%2Bponcho%2Bcordless&qid=1702074375&s=home-garden&sprefix=heated%2Bponch%2Cgarden%2C110&sr=1-7&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d&th=1",
-        "Notes": null,
-        "Price": "$50.99",
-        "Priority": 2,
-        "id": 287
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/51G7l91YfjL._SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "leg waxing kit",
-        "Link": "https://www.amazon.com/Tress-Wellness-Digital-Display-Sensitive/dp/B07CRZQ9MY/ref=sr_1_5?crid=1KJKWTSKMQNTU&keywords=leg+waxing+kit&qid=1698444926&sprefix=leg+wax%2Caps%2C89&sr=8-5",
-        "Notes": null,
-        "Price": "$44.39",
-        "Priority": 2,
-        "id": 288
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/41-f5yx2hmL._SX342_SY445_.jpg",
-        "Item": "pusheen bag",
-        "Link": "https://www.amazon.com/Pusheen-Rose-Collection-Drawstring-Bag/dp/B081BHQVH7",
-        "Notes": null,
-        "Price": "$44.90",
-        "Priority": 3,
-        "id": 289
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://u-mercari-images.mercdn.net/photos/m39698406177_1.jpg?width=1024&height=1024&format=pjpg&auto=webp&fit=crop&_=1687977449",
-        "Item": "Blue Pusheen Tracksuit with Hoodie and Joggers",
-        "Link": "https://www.mercari.com/us/item/m39698406177/?ref=search_results",
-        "Notes": null,
-        "Price": "$33.00",
-        "Priority": 3,
-        "id": 290
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://leikya.com/cdn/shop/products/ProductPhoto-19_1200x.jpg?v=1626546862",
-        "Item": "Calico Cardigan",
-        "Link": "https://leikya.com/en-us/products/calico-cardigan?_pos=1&_sid=81257d44e&_ss=r",
-        "Notes": null,
-        "Price": "$55.00",
-        "Priority": 3,
-        "id": 291
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://umvvelt.fish/cdn/shop/products/CHRISTMASMAGIC_600x.png?v=1604169749",
-        "Item": "Christmas Magic Crewneck",
-        "Link": "https://umvvelt.fish/collections/crewneck-sweaters/products/christmas-miracles-crewneck",
-        "Notes": null,
-        "Price": "$60.00",
-        "Priority": 3,
-        "id": 292
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.japanla.com/cdn/shop/files/MMCKC01.jpg?v=1726076860&width=900",
-        "Item": "My Melody Cozy Kuma JapanLA Cardigan",
-        "Link": "https://www.japanla.com/cdn/shop/files/MMCKC01.jpg?v=1726076860",
-        "Notes": null,
-        "Price": "$100.00",
-        "Priority": 3,
-        "id": 293
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20193512_hi?$productMainTablet$&fmt=auto",
-        "Item": "Cinnamoroll Mushroom Girls Woven Button-Up",
-        "Link": "https://www.hottopic.com/product/cinnamoroll-mushroom-girls-woven-button-up/20193512.html",
-        "Notes": null,
-        "Price": "$27.93",
-        "Priority": 3,
-        "id": 294
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://duluduludesign.com/cdn/shop/files/Group296.png?v=1709596924&width=493",
-        "Item": "Creamy Angel Froggie Cardigan",
-        "Link": "https://duluduludesign.com/products/creamy-angel-froggie-cardigan",
-        "Notes": null,
-        "Price": "$64.21",
-        "Priority": 3,
-        "id": 295
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20862538_hi?$productMainTablet$&fmt=auto",
-        "Item": "Harry Potter Deathly Hallows Cut-Out Sweetheart Dress",
-        "Link": "https://www.hottopic.com/product/harry-potter-deathly-hallows-cut-out-sweetheart-dress/20862538.html",
-        "Notes": null,
-        "Price": "$34.93",
-        "Priority": 3,
-        "id": 296
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://yoyothericecorpse.com/cdn/shop/files/image_c1decf7a-4b45-47ab-b171-11f7830388cb_540x.jpg?v=1682972649",
-        "Item": "hibud overalls",
-        "Link": "https://yoyothericecorpse.com/collections/dress/products/hibud-dungaree-shorts",
-        "Notes": null,
-        "Price": "$132.00",
-        "Priority": 3,
-        "id": 297
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://umvvelt.fish/cdn/shop/files/MOONJELLYHOODIE_39070baf-ca63-460e-92f0-859152da0383_600x.png?v=1683265386",
-        "Item": "Lakko & Sakura Crybaby Hooded Pullover",
-        "Link": "https://umvvelt.fish/collections/all-products/products/jeanadraws-x-umvvelt-hoodie",
-        "Notes": null,
-        "Price": "$70.00",
-        "Priority": 3,
-        "id": 298
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://umvvelt.fish/cdn/shop/files/MOONJELLYPINAFORE_caef5181-e7cd-46c9-938d-85be4ed34be0_600x.png?v=1683264616",
-        "Item": "Moon Jelly Pinafore",
-        "Link": "https://umvvelt.fish/collections/apparel/products/moon-jelly-pinafore",
-        "Notes": null,
-        "Price": "$60.00",
-        "Priority": 3,
-        "id": 299
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://duluduludesign.com/cdn/shop/products/froggie2.jpg?v=1658265484&width=493",
-        "Item": "Pastel Yellow Froggie Cardigam",
-        "Link": "https://duluduludesign.com/products/pastel-yellow-froggie-cardigan?pr_prod_strat=copurchase_transfer_learning&pr_rec_id=426a737e3&pr_rec_pid=7778478325923&pr_ref_pid=7778479177891&pr_seq=uniform",
-        "Notes": null,
-        "Price": "$64.21",
-        "Priority": 3,
-        "id": 300
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://umvvelt.fish/cdn/shop/products/PINKCRYBUTTONUP_600x.png?v=1642885876",
-        "Item": "Pink Crybaby Button-Up Shirt",
-        "Link": "https://umvvelt.fish/collections/apparel/products/pink-crybaby-button-up-shirt",
-        "Notes": null,
-        "Price": "$45.00",
-        "Priority": 3,
-        "id": 301
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.claires.com/dw/image/v2/BBTK_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf3203d25/images/hi-res/14827_1.jpg?sw=734&sh=734&sm=fit",
-        "Item": "pusheen mini backpack",
-        "Link": "https://www.claires.com/us/pusheen-sips-printed-mini-backpack-295754.html",
-        "Notes": null,
-        "Price": "$22.00",
-        "Priority": 3,
-        "id": 302
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20123182_hi?$productMainTablet$&fmt=auto",
-        "Item": "Sanrio Cinnamoroll Wave Panel Women’s T-Shirt - BoxLunch Exclusive",
-        "Link": "https://www.boxlunch.com/product/sanrio-cinnamoroll-wave-panel-womens-t-shirt---boxlunch-exclusive-/20123182.html",
-        "Notes": null,
-        "Price": "$13.16",
-        "Priority": 3,
-        "id": 303
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.notyouraveragebabe.com/cdn/shop/files/image_9459b5c8-b8ff-4bf0-8d93-1eba39fbb58b.jpg?v=1689345276&width=493",
-        "Item": "Scaredy Pants SpongeBob Pullover",
-        "Link": "https://www.notyouraveragebabe.com/products/scaredy-pants-spongebob-pullover?fbclid=PAAaZ3tKYs6HdHTsr__OWAWJWWKy1Ex94ao9PGIDHJU6KJ4N6y_MOKOaTp7dY_aem_AQ-exlbDAdmsBjp8jhmqatUpqeAan2VrUQKbhPcs_xWNnmliTvbJoNdb22VplI9pBGiWv43mM_4ImS56iwtoKkNg&utm_source=facebook&utm_medium=paid&campaign_id=23857182033130616&ad_id=23857182033040616",
-        "Notes": null,
-        "Price": "$37.00",
-        "Priority": 3,
-        "id": 304
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://media.kohlsimg.com/is/image/kohls/4535648_Chestnut?wid=805&hei=805&op_sharpen=1",
-        "Item": "short ugg boots",
-        "Link": "https://www.kohls.com/product/prd-4535648/koolaburra-by-ugg-koola-mini-ii-womens-winter-boots.jsp?skuid=76908308&CID=shopping30&utm_campaign=SSC&utm_medium=CSE&utm_source=google&utm_product=76908308&utm_campaignid=20497523010&gad_source=1",
-        "Notes": null,
-        "Price": "$84.00",
-        "Priority": 3,
-        "id": 305
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://umvvelt.fish/cdn/shop/products/sleeping_600x.png?v=1608066505",
-        "Item": "Sleeping Fishes Button-Up Shirt",
-        "Link": "https://umvvelt.fish/collections/apparel/products/sleeping-fishes-button-up-shirt",
-        "Notes": null,
-        "Price": "$45.00",
-        "Priority": 3,
-        "id": 306
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://umvvelt.fish/cdn/shop/products/WINTERWONDERLAND2_600x.png?v=1670093663",
-        "Item": "Winter Wonderland Crewneck",
-        "Link": "https://umvvelt.fish/collections/apparel/products/winter-wonderland-crewneck",
-        "Notes": null,
-        "Price": "$60.00",
-        "Priority": 3,
-        "id": 307
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/51nZqyNDclL._AC_SY450_.jpg",
-        "Item": "Smart jump rope ",
-        "Link": "https://www.amazon.com/dp/B076424262?ref_=cm_sw_r_apin_dp_AHNP6S29Z5ADQJXCH730&peakEvent=4&dealEvent=1&language=en-US",
-        "Notes": null,
-        "Price": "$79.95",
-        "Priority": 3,
-        "id": 308
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://m.media-amazon.com/images/I/71nh5TUfNvL._SX522_PIbundle-6,TopRight,0,0_AA522SH20_.jpg",
-        "Item": "Goodles Pasta",
-        "Link": "https://www.amazon.com/GOODLES-Pasta-Variety-Pack-8oz/dp/B0CPLVM5Y5",
-        "Notes": null,
-        "Price": "$24.00",
-        "Priority": 3,
-        "id": 309
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Food",
-        "Image": "https://i0.wp.com/dippinflavors.com/wp-content/uploads/2013/12/cotton-candy-cool-cone-coating-zse2048s.jpg?fit=355%2C471&ssl=1",
-        "Item": "cotton candy cone dip",
-        "Link": "https://dippinflavors.com/product/cotton-candy-flavored-cool-cone-dip-zse2048s/",
-        "Notes": null,
-        "Price": "$57.70",
-        "Priority": 3,
-        "id": 310
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/71KZRx4vO2L._AC_SX425_.jpg",
-        "Item": "Kitchen aid pasta maker",
-        "Link": "https://www.amazon.com/KitchenAid-KSMPRA-3-Piece-Roller-Attachment/dp/B01ENK4TT0/ref=sr_1_2?crid=13FL9919PN59L&keywords=kitchenaid%2Bpasta%2Bmaker&qid=1689815963&sprefix=kitchen%2Baid%2Bpasta%2Bmaker%2Caps%2C175&sr=8-2&th=1",
-        "Notes": null,
-        "Price": "$229.95",
-        "Priority": 3,
-        "id": 311
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "kitchen",
-        "Image": "https://m.media-amazon.com/images/I/61x9NkiKkUS.__AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "Item": "Rice cooker",
-        "Link": "https://www.amazon.com/dp/B00007J5U7?ref=cm_sw_r_cso_em_apin_dp_HN3K4VMBD1M8JWVDSBEM&ref_=cm_sw_r_cso_em_apin_dp_HN3K4VMBD1M8JWVDSBEM&social_share=cm_sw_r_cso_em_apin_dp_HN3K4VMBD1M8JWVDSBEM&starsLeft=1&skipTwisterOG=2&th=1",
-        "Notes": null,
-        "Price": "$194.00",
-        "Priority": 3,
-        "id": 312
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Makeup",
-        "Image": "https://media.ulta.com/i/ulta/2247172?w=1000&h=1000&fmt=auto",
-        "Item": "BB Cream ",
-        "Link": "https://www.ulta.com/p/dream-fresh-bb-cream-8-in-1-skin-perfector-xlsImpprod4480195?sku=2247172",
-        "Notes": null,
-        "Price": "$9.99",
-        "Priority": 3,
-        "id": 313
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Makeup",
-        "Image": "https://trixiecosmetics.com/cdn/shop/files/BottleBlonde12-paneyeshadowpalettecrushpigment_2400x.jpg?v=1698443511",
-        "Item": "Bottle Blonde Palette",
-        "Link": "https://trixiecosmetics.com/collections/eyes/products/eyeshadows-bottle-blonde-palette",
-        "Notes": null,
-        "Price": "$48.00",
-        "Priority": 3,
-        "id": 314
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Makeup",
-        "Image": "https://p19-oec-ttp.tiktokcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/0b1405aaf6334ad39bf3aab7476c6efc~tplv-omjb5zjo8w-resize-jpeg:800:800.jpeg?from=1826719393",
-        "Item": "strawberry shortcake body glaze",
-        "Link": "https://www.tiktok.com/view/product/1729387547217662415?checksum=87c369ace0ea3e792c18bf824be999a44edb4f8079b9bc4d15888e8425d12ca9&sec_user_id=MS4wLjABAAAAe4ZYKeEf3XVF-KL7VfJrtvpa7xQqVhgtu6mHx4X6EQ-KuF1AG5UBxDtmgtPY6tQ9&share_app_id=1233&share_link_id=9E24AF71-41D7-4C1A-9BB5-143284D41598&social_share_type=15&timestamp=1693345083&trackParams=%7B%22source_page_type%22%3A%22product_share%22%2C%22enter_from_info%22%3A%22product_share_outside%22%7D&tt_from=copy&u_code=D8IGC2425G125H&ug_btm=b6880%2Cb6661&unique_id=enlightened_little_one&user_id=6745624884858061829&utm_campaign=client_share&utm_medium=ios&utm_source=copy",
-        "Notes": null,
-        "Price": "$25.00",
-        "Priority": 3,
-        "id": 315
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Plushies",
-        "Image": "https://fluffnest.com/cdn/shop/files/Butter_7c8c3d3c-3222-4d35-9071-0b2ac28b6a6d.png?v=1699849693&width=493",
-        "Item": "butter the potato plushie",
-        "Link": "https://fluffnest.com/products/butter-the-potato",
-        "Notes": null,
-        "Price": "$45.00",
-        "Priority": 3,
-        "id": 316
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Plushies",
-        "Image": "https://discowaffle.com/cdn/shop/files/cosypusheen.jpg?v=1692352542&width=1200",
-        "Item": "Cosy Pusheen Plush",
-        "Link": "https://discowaffle.com/collections/pusheen/products/cosy-pusheen-plush-23-cm",
-        "Notes": null,
-        "Price": "$26.67",
-        "Priority": 3,
-        "id": 317
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Plushies",
-        "Image": "https://itsugar.com/cdn/shop/files/5.jpg?v=1698169117&width=5000",
-        "Item": "IT’SUGAR Exclusive Pusheen Snackable Take-Out Plush",
-        "Link": "https://itsugar.com/products/it-sugar-exclusive-pusheen-snackable-take-out-plush",
-        "Notes": null,
-        "Price": "$29.99",
-        "Priority": 3,
-        "id": 318
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf2619e7b/hires/028009836.jpg?sh=471",
-        "Item": "Snowflake Wallflowers Scent Control",
-        "Link": "https://www.bathandbodyworks.com/p/gem-snowflake-wallflowers-scent-controlandtrade-nightlight-fragrance-plug-028009836.html",
-        "Notes": null,
-        "Price": "$15.00",
-        "Priority": 3,
-        "id": 319
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/71TSjss+kAL._SY342_.jpg",
-        "Item": "The Art of Horizon Zero Dawn",
-        "Link": "https://www.amazon.com/dp/1785653636/ref=as_li_ss_tl?ie=UTF8&smid=ATVPDKIKX0DER&th=1&linkCode=sl1&tag=sec2002-20",
-        "Notes": null,
-        "Price": "$21.99",
-        "Priority": 3,
-        "id": 320
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://images.bigbadtoystore.com/images/p/full/2020/09/8236b568-0c97-4dc1-a45e-e26d3ca332fd.jpg",
-        "Item": "The art of uncharted 4",
-        "Link": "https://www.bigbadtoystore.com/Product/VariationDetails/135976",
-        "Notes": null,
-        "Price": "$39.99",
-        "Priority": 3,
-        "id": 321
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20787298_hi?$productMainTablet$&fmt=auto",
-        "Item": "Sanrio My Melody Winter Icons Holiday Sweater - BoxLunch Exclusive",
-        "Link": "https://www.boxlunch.com/product/sanrio-my-melody-winter-icons-holiday-sweater---boxlunch-exclusive/20787305.html?mr:trackingCode=01E3A3B0-C337-EE11-811D-0050569428E8&mr:referralID=NA&srsltid=AfmBOooNj40HwIpfawWyU3xdeno5meT62YkDDWA7X2tmOOztnuUS26h4Kh8",
-        "Notes": null,
-        "Price": "$59.90",
-        "Priority": 4,
-        "id": 322
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.omocat-shop.com/cdn/shop/products/210320_Omocat_2964_new_550x.jpg?v=1621462194",
-        "Item": "A home for flowers sweater",
-        "Link": "https://www.omocat-shop.com/products/a-home-for-flowers-sweater",
-        "Notes": null,
-        "Price": "$60.00",
-        "Priority": 4,
-        "id": 323
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://i.etsystatic.com/20350683/r/il/7186e1/3987300275/il_1140xN.3987300275_6q3g.jpg",
-        "Item": "Animal Crossing Cherry Blossom Purse",
-        "Link": "https://www.etsy.com/listing/903368318/animal-crossing-inspired-cherry-blossom",
-        "Notes": null,
-        "Price": "$155.70",
-        "Priority": 4,
-        "id": 324
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://media.gamestop.com/i/gamestop/20013304/Loungefly-Sanrio-Hello-Kitty-Breakfast-Toaster-Crossbody-Bag?$pdp2x$",
-        "Item": "Loungefly Sanrio Hello Kitty Breakfast Toaster Crossbody Bag",
-        "Link": "https://www.gamestop.com/clothing/bags-wallets/crossbody-bags/products/loungefly-sanrio-hello-kitty-breakfast-toaster-crossbody-bag/409906.html",
-        "Notes": null,
-        "Price": "$74.99",
-        "Priority": 4,
-        "id": 325
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/71x0jRSL1QL._AC_SY450_.jpg",
-        "Item": "Loungefly Sanrio Hello Kitty Breakfast Waffle Mini Backpack",
-        "Link": "https://www.amazon.com/Loungefly-Sanrio-Breakfast-Backpack-Standard/dp/B0C6SYCCGW",
-        "Notes": null,
-        "Price": "$99.00",
-        "Priority": 4,
-        "id": 326
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://www.omocat-shop.com/cdn/shop/products/ina_sweater_1_d6b872f7-a612-4766-b344-81a27ca62157_550x.jpg?v=1638571618",
-        "Item": "wah sweater",
-        "Link": "https://www.omocat-shop.com/products/wah-sweater",
-        "Notes": null,
-        "Price": "$65.00",
-        "Priority": 4,
-        "id": 327
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://i.etsystatic.com/36995418/r/il/9e130d/5717833587/il_794xN.5717833587_e0nx.jpg",
-        "Item": "Gyroid planter",
-        "Link": "https://www.etsy.com/listing/1642796880/lloid-the-gyroid-planter-gyroid-gift?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=gyroid+planter&ref=sr_gallery-1-1&pro=1&sts=1&content_source=f0e0a75cab33a51fed628d8076c44bd1faaa734d%253A1642796880&organic_search_click=1",
-        "Notes": null,
-        "Price": "$8.97",
-        "Priority": 4,
-        "id": 328
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://m.media-amazon.com/images/I/6192CqBkMvL._AC_SX569_.jpg",
-        "Item": "Pusheen tote bag",
-        "Link": "https://www.amazon.com/gp/product/B0BLSHMG69/ref=ox_sc_saved_image_1?smid=A2ME53KL2BSLB6&psc=1",
-        "Notes": null,
-        "Price": "$24.90",
-        "Priority": 5,
-        "id": 329
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20193530_hi?$productMainTablet$&fmt=auto",
-        "Item": "Hello Kitty Mushroom Embroidered Girls Skimmer Cardigan",
-        "Link": "https://www.hottopic.com/product/hello-kitty-mushroom-embroidered-girls-skimmer-cardigan/20193535.html",
-        "Notes": null,
-        "Price": "$38.43",
-        "Priority": 5,
-        "id": 330
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://cdn.media.amplience.net/s/hottopic/20211778_hi?$productMainTablet$&fmt=auto",
-        "Item": "Studio Ghibli Spirited Away Soot Sprites Women's Plus Size Cardigan - BoxLunch Exclusive",
-        "Link": "https://www.boxlunch.com/product/studio-ghibli-spirited-away-soot-sprites-womens-plus-size-cardigan---boxlunch-exclusive/20211779.html",
-        "Notes": null,
-        "Price": "$64.90",
-        "Priority": 5,
-        "id": 331
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://media-photos.depop.com/b1/34377327/1594593761_67e3ca6c49aa41808ed965c8bca3480f/P0.jpg",
-        "Item": "Pusheen Dress",
-        "Link": "https://www.depop.com/products/kajinkacat-pushers-unique-vintage-collab-dress/",
-        "Notes": null,
-        "Price": "$30.00",
-        "Priority": 5,
-        "id": 332
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://gear.playstation.com/media/catalog/product/1/5/1525963_z_67ff.jpg?width=1250&height=1250&store=playstation&image-type=image",
-        "Item": "Last of us flannel",
-        "Link": "https://gear.playstation.com/1525963-the-last-of-us-part-ii-red-flannel",
-        "Notes": null,
-        "Price": "$49.95",
-        "Priority": 5,
-        "id": 333
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://gear.playstation.com/media/catalog/product/1/5/1525964_z_ddcf.jpg?width=1250&height=1250&store=playstation&image-type=image",
-        "Item": "Last of us flannel gray",
-        "Link": "https://gear.playstation.com/1525964-the-last-of-us-part-ii-charcoal-flannel",
-        "Notes": null,
-        "Price": "$49.95",
-        "Priority": 5,
-        "id": 334
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://images.squarespace-cdn.com/content/v1/63e1c3422e705e49d8b50f38/1696918099885-KZZBH6U0QPV0T1SFXNEA/Premium%2BCrew_Black.png?format=500w",
-        "Item": "loveloud crewneck",
-        "Link": "https://loveloudfest.com/shop/p/premium-crewneck-black",
-        "Notes": null,
-        "Price": "$50.00",
-        "Priority": 5,
-        "id": 335
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Clothes",
-        "Image": "https://shop.trf.org/products/ombre-logo-crewneck",
-        "Item": "TRF crewneck",
-        "Link": "https://shop.trf.org/products/ombre-logo-crewneck",
-        "Notes": null,
-        "Price": "$40.00",
-        "Priority": 5,
-        "id": 336
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Fitness",
-        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXPTiORUWGFLu629YcJ0ZlHdH5RCaArroqTZraEMgF4eyY_9d4",
-        "Item": "On Running Shoes",
-        "Link": "https://www.on.com/en-us/products/cloudflyer-4-71/womens/peach-aloe-shoes-71.98669",
-        "Notes": null,
-        "Price": "$100.00",
-        "Priority": 5,
-        "id": 337
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://i.etsystatic.com/24433473/r/il/1ea617/3338057782/il_794xN.3338057782_budl.jpg",
-        "Item": "Cordyceps flyer, The Last of Us 2",
-        "Link": "https://www.etsy.com/listing/1073128114/stages-of-infection-cordyceps-flyer-the?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=the+last+of+us&ref=sr_gallery-2-18&organic_search_click=1&pro=1&sts=1",
-        "Notes": null,
-        "Price": "$12.69",
-        "Priority": 5,
-        "id": 338
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://i.etsystatic.com/20947389/r/il/b1883b/2498220171/il_794xN.2498220171_6q31.jpg",
-        "Item": "Ellie Birthday Tape",
-        "Link": "https://www.etsy.com/listing/849757265/ellies-birthday-cassette-the-last-of-us?click_key=e9856795c09c7739e3e0be26f3ce38ee1af966b5%3A849757265&click_sum=1e39c154&ref=shop_home_feat_2&bes=1",
-        "Notes": null,
-        "Price": "$20.00",
-        "Priority": 5,
-        "id": 339
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://images.bigbadtoystore.com/images/p/full/2021/11/11838e53-c2a4-430a-a580-4b0385ac7719.jpg",
-        "Item": "Ellie Statue",
-        "Link": "https://www.bigbadtoystore.com/Product/VariationDetails/117176",
-        "Notes": null,
-        "Price": "$49.99",
-        "Priority": 5,
-        "id": 340
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://i.ebayimg.com/images/g/UmEAAOSwYThjwKwD/s-l1600.webp",
-        "Item": "PS3",
-        "Link": "https://www.ebay.com/itm/314123677299?epid=10056770758&hash=item49233aee73:g:1aUAAOSwgV9jC9SH",
-        "Notes": null,
-        "Price": "$174.99",
-        "Priority": 5,
-        "id": 341
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://m.media-amazon.com/images/I/41fb7n8ZnLL._SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "racing wheel for pc",
-        "Link": "https://www.amazon.com/Logitech-G923-Racing-Wheel-PS4/dp/B07PFB72NL/ref=sr_1_3?crid=27DNWH4KRN6IU&keywords=Logitech+G923&qid=1688585649&sprefix=logitech+g923%2Caps%2C123&sr=8-3",
-        "Notes": null,
-        "Price": "$272.00",
-        "Priority": 5,
-        "id": 342
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Games",
-        "Image": "https://i.etsystatic.com/20947389/r/il/7809c6/3455031406/il_794xN.3455031406_9b1g.jpg",
-        "Item": "Savage Starlight",
-        "Link": "https://www.etsy.com/listing/1090164602/savage-starlight-book-1-termination?ref=ap-listing",
-        "Notes": null,
-        "Price": "$25.00",
-        "Priority": 5,
-        "id": 343
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Makeup",
-        "Image": "https://blendbunnycosmetics.com/cdn/shop/products/BlendsOpen.jpg?v=1679620038&width=493",
-        "Item": "Blends Palette",
-        "Link": "https://blendbunnycosmetics.com/products/blendspalette",
-        "Notes": null,
-        "Price": "$39.00",
-        "Priority": 5,
-        "id": 344
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Makeup",
-        "Image": "https://shop.pusheen.com/cdn/shop/files/Gamer_Girl_Pusheen_6-Piece_Makeup_Brush_Set_web_004_1800x.jpg?v=1724091333",
-        "Item": "pusheen gaming makeup",
-        "Link": "https://shop.pusheen.com/products/gaming-pusheen-6-piece-makeup-brush-set",
-        "Notes": null,
-        "Price": "$44.00",
-        "Priority": 5,
-        "id": 345
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Plushies",
-        "Image": "https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dw8f0949b1/07231201231213x20324017.jpg?sw=800&sh=800&sm=fit",
-        "Item": "Build a Bear cinnamorooll",
-        "Link": "https://www.buildabear.com/sanrio-hello-kitty-and-friends-cinnamoroll-plush/031213.html?cgid=w-characters-and-collections-pop-culture-sports-and-more-sanrio",
-        "Notes": null,
-        "Price": "$36.00",
-        "Priority": 5,
-        "id": 346
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Vinyls",
-        "Image": "https://i.ebayimg.com/images/g/jeIAAOSwSqhilTD-/s-l1600.webp",
-        "Item": "Imagine Dragons Box Set",
-        "Link": "https://www.ebay.com/itm/314017122801?_trkparms=amclksrc%3DITM%26aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20160908105057%26meid%3D9277fc8fbd06497fa2bb75cc2274f4a5%26pid%3D100675%26rk%3D1%26rkt%3D7%26sd%3D314017122801%26itm%3D314017122801%26pmt%3D1%26noa%3D1%26pg%3D2380057&_trksid=p2380057.c100675.m4236&_trkparms=pageci%3A8c4ba3d0-25bc-11ed-8015-2ee344429457%7Cparentrq%3Add73bb431820a0d0edc63494fffb25a0%7Ciid%3A1",
-        "Notes": null,
-        "Price": "$208.00",
-        "Priority": 5,
-        "id": 347
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://umvvelt.fish/cdn/shop/products/CUPS_1194b334-dadb-4b5a-95c9-67a4a68502ca_600x.png?v=1604686376",
-        "Item": "Fun Cups",
-        "Link": "https://umvvelt.fish/products/fun-cups-series",
-        "Notes": null,
-        "Price": "$10.00",
-        "Priority": 5,
-        "id": 348
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": null,
-        "Item": "Pink Pigs Plush Christmas Wreath",
-        "Link": "https://42shops.com/products/pink-pigs-plush-christmas-wreath",
-        "Notes": null,
-        "Price": "$19.99",
-        "Priority": 5,
-        "id": 349
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/61Opto2nemL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "recliner gaming chair",
-        "Link": "https://www.amazon.com/POWERSTONE-Recliner-Ergonomic-Footrest-Recliners/dp/B08KGBLHM2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AZ14DL23PLFF6&th=1",
-        "Notes": null,
-        "Price": "$269.99",
-        "Priority": 5,
-        "id": 350
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/61Mm6686PqL._SX450_.jpg",
-        "Item": "Bath Spa with Dual Jets for Tub",
-        "Link": "https://www.amazon.com/Conair-Portable-Creates-Soothing-Bubbles/dp/B0BSYJZ329/ref=sr_1_2?crid=LK71P81DQNZ&dib=eyJ2IjoiMSJ9.DyiYmmCH5skg-1mUw0t8j89VN1E7G_9stK3dSALenBIYJ4Y7HqwH1Y4h8GWcimuBZ4r5_mA7e-N4AWz7iqgEHcG9KVd_cYVE6SWcGAAM5WBNoGtQyXy2aKrpAhkq0uqudZE5QMudgICy30ivgniCsBPW5CyHn9r2tmM8k1GlN3kOSuS3csb5UdEV6tP26Zn6r6B6dalCdO6PVDzWV6TNIfFuCFQQUOM5rWTCKsZ0i9SxCYgZmSc42l29MEaeq6h2HEzEUI0D97LxGTvOItX1pmmmU60eTX9sbGvQ5Y5gxiE.5OXssWnI23CbTJXQ3N7nI6F3D9WhatdEVXaKXjKp-vo&dib_tag=se&keywords=bath+spa+with+jets&qid=1722045940&s=beauty&sprefix=bath+spa+with+jets%2Cbeauty%2C125&sr=1-2#customerReviews",
-        "Notes": null,
-        "Price": "$69.97",
-        "Priority": 5,
-        "id": 351
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://i.etsystatic.com/29473386/r/il/12b8d0/3758784462/il_794xN.3758784462_qdsl.jpg",
-        "Item": "Custom ACNH Character Figure",
-        "Link": "https://www.etsy.com/listing/1188208126/custom-animal-crossing-villager-figure?epik=dj0yJnU9emJNQXhaSXQtd2ZKQ0J2N0g2aFdleW1MSC1DRms2cDMmcD0wJm49dkRDaEgyUldTZkR4eUpGRXBsMV93dyZ0PUFBQUFBR1VjdFdz&variation1=2529770254&variation0=2529770252",
-        "Notes": null,
-        "Price": "$65.00",
-        "Priority": 5,
-        "id": 352
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://shop.imaginedragonsmusic.com/cdn/shop/products/ID_HardCover_Book_2.png?v=1614275782&width=600",
-        "Item": "Evolve Photo Book",
-        "Link": "https://shop.imaginedragonsmusic.com/collections/merch/products/evolve-photo-book",
-        "Notes": null,
-        "Price": "$85.00",
-        "Priority": 5,
-        "id": 353
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://static.wixstatic.com/media/a14ce0_9da2ea0666064fba8c1e3abb4b7e8077~mv2.jpeg/v1/fill/w_500,h_667,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a14ce0_9da2ea0666064fba8c1e3abb4b7e8077~mv2.jpeg",
-        "Item": "pretty patties ",
-        "Link": "https://www.zencreations.store/product-page/pretty-patties-8-x-12-wall-decor",
-        "Notes": null,
-        "Price": "$60.00",
-        "Priority": 5,
-        "id": 354
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/81Hf5k+K12L._SX445_.jpg",
-        "Item": "pusheen cross stitch",
-        "Link": "https://www.amazon.com/Pusheen-Cross-Stitch-Kit-Miniature-Editions/dp/0762492279",
-        "Notes": null,
-        "Price": "$9.86",
-        "Priority": 5,
-        "id": 355
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "data:image/jpeg;base64,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",
-        "Item": "Signed TRF Merch",
-        "Link": "https://shop.trf.org/collections/trf-merch/products/autographed-imagine-dragons-postcard-set",
-        "Notes": null,
-        "Price": "$75.00",
-        "Priority": 5,
-        "id": 356
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://images.secretlab.co/subimage/tr:n-display_thumbnail/MPB2-15B_02.jpg",
-        "Item": "standing desk",
-        "Link": "https://secretlab.co/products/magnus-pro?sku=MPB2-15B-PASTELPNK",
-        "Notes": null,
-        "Price": "$848.00",
-        "Priority": 5,
-        "id": 357
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://static.wixstatic.com/media/a14ce0_169d03d865264460a5a0ca755c0ae0fe~mv2.jpeg/v1/fill/w_500,h_667,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a14ce0_169d03d865264460a5a0ca755c0ae0fe~mv2.jpeg",
-        "Item": "tucked in pickles",
-        "Link": "https://www.zencreations.store/product-page/tucked-in-pickles-8-x-10-canvas",
-        "Notes": null,
-        "Price": "$33.00",
-        "Priority": 5,
-        "id": 358
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://www.jeanadraws.com/cdn/shop/products/soncdss_1024x1024@2x.png?v=1651112816",
-        "Item": "Anything from this ",
-        "Link": "https://www.jeanadraws.com/products/seconds-grade-lakko-sweater-collection?variant=40041758163004",
-        "Notes": null,
-        "Price": "$45.00",
-        "Priority": 5,
-        "id": 359
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://assets.ptimgs.com/ptimgs/rk/images/dp/wcm/202420/0018/img86o.jpg",
-        "Item": "Hello kitty bedding ",
-        "Link": "https://www.pbteen.com/products/hello-kitty-jersey-quilt-sham/?catalogId=21&sku=6857923&cm_ven=FreePLA&cm_cat=Google&cm_pla=Bedding%20%3E%20Quilts%20%26%20Comforters",
-        "Notes": null,
-        "Price": "$229.00",
-        "Priority": 5,
-        "id": 360
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": "Home",
-        "Image": "https://cdn11.bigcommerce.com/s-l85bzww3lo/images/stencil/1024w/products/859/17494/1-gallery-upl934-l-shaped-desk-1__09927.1639424230.jpg",
-        "Item": "Uplift L shaped Standing Desk",
-        "Link": "https://www.upliftdesk.com/uplift-v2-l-shaped-standing-desk/",
-        "Notes": null,
-        "Price": "$1,399.00",
-        "Priority": 5,
-        "id": 361
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "https://www.fye.com/search?q=pusheen&start=12&sz=12",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 362
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "black overalls",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 363
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "white overalls",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 364
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "gingham black pants",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 365
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "red pants",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 366
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "green pants",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 367
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "purple pants",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 368
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "blue pants",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 369
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "white shorts",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 370
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "button ups",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 371
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "light green shorts",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 372
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "cloud sweater",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 373
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "cropped yellow cardigan",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 374
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "cropped pink cardigan",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 375
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "strawberry jeans",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 376
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": "strawberry shorts",
-        "Notes": null,
-        "Price": null,
-        "Priority": null,
-        "id": 377
-    },
-    {
-        "BlackFridayDeals": null,
-        "Category": null,
-        "Image": null,
-        "Item": null,
         "Link": "plaid purple pastel jean jacket",
         "Notes": null,
         "Price": null,
         "Priority": null,
-        "id": 378
+        "id": 190
     },
     {
         "BlackFridayDeals": null,
@@ -4166,7 +2098,7 @@
         "Notes": null,
         "Price": null,
         "Priority": null,
-        "id": 379
+        "id": 191
     },
     {
         "BlackFridayDeals": null,
@@ -4177,6 +2109,6 @@
         "Notes": null,
         "Price": null,
         "Priority": null,
-        "id": 380
+        "id": 192
     }
 ]
