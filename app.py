@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS  # Import CORS
 import json
 
-app = Flask(__name__)
 
+app = Flask(__name__)
+CORS(app)  # Allow requests from any frontend
 # Load wishlist from file
 def load_wishlist():
     try:
