@@ -11,11 +11,6 @@ def load_wishlist():
     except FileNotFoundError:
         return []
 
-# Save wishlist to file
-def save_wishlist(wishlist):
-    with open("christmas_list.json", "w") as file:
-        json.dump(wishlist, file, indent=4)
-
 # API endpoint to get wishlist data
 @app.route("/wishlist", methods=["GET"])
 def get_wishlist():
@@ -26,9 +21,10 @@ def get_wishlist():
 def add_item():
     wishlist = load_wishlist()
     new_item = request.json
-    new_item["id"] = len(wishlist) + 1  # Auto-increment ID
+    new_item["id"] = len(wishlist) + 1
     wishlist.append(new_item)
-    save_wishlist(wishlist)
+    with open("christmas_list.json", "w") as file:
+        json.dump(wishlist, file, indent=4)
     return jsonify({"message": "Item added!", "wishlist": wishlist})
 
 # API endpoint to remove an item
@@ -36,8 +32,12 @@ def add_item():
 def remove_item(item_id):
     wishlist = load_wishlist()
     wishlist = [item for item in wishlist if item["id"] != item_id]
-    save_wishlist(wishlist)
+    with open("christmas_list.json", "w") as file:
+        json.dump(wishlist, file, indent=4)
     return jsonify({"message": "Item removed!", "wishlist": wishlist})
 
+# Ensure the app runs on the correct port
 if __name__ == "__main__":
-    app.run(debug=True)
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
