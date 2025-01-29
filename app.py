@@ -1,46 +1,43 @@
 from flask import Flask, request, jsonify
-from flask_cors import CORS
-import sqlite3
+from flask_cors import CORS  # Import CORS
+import json
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}})
+CORS(app, resources={r"/*": {"origins": "*"}})  
+# Load wishlist from file
+def load_wishlist():
+    try:
+        with open("christmas_list.json", "r") as file:
+            return json.load(file)
+    except FileNotFoundError:
+        return []
 
-# Connect to the database
-def connect_db():
-    return sqlite3.connect("christmas_list.db")
-
-# Get all wishlist items
+# API endpoint to get wishlist data
 @app.route("/wishlist", methods=["GET"])
 def get_wishlist():
-    conn = connect_db()
-    cursor = conn.cursor()
-    cursor.execute("SELECT id, category, item, link, price, image, priority FROM wishlist")
-    items = [{"id": row[0], "Category": row[1], "Item": row[2], "Link": row[3], "Price": row[4], "Image": row[5], "Priority": row[6]} for row in cursor.fetchall()]
-    conn.close()
-    return jsonify(items)
+    return jsonify(load_wishlist())
 
-# Add a new item to the wishlist
+# API endpoint to add an item
 @app.route("/wishlist/add", methods=["POST"])
 def add_item():
-    data = request.json
-    conn = connect_db()
-    cursor = conn.cursor()
-    cursor.execute("INSERT INTO wishlist (category, item, link, price, image, priority) VALUES (?, ?, ?, ?, ?, ?)",
-                   (data["Category"], data["Item"], data["Link"], data["Price"], data["Image"], data["Priority"]))
-    conn.commit()
-    conn.close()
-    return jsonify({"message": "Item added successfully!"})
+    wishlist = load_wishlist()
+    new_item = request.json
+    new_item["id"] = len(wishlist) + 1
+    wishlist.append(new_item)
+    with open("christmas_list.json", "w") as file:
+        json.dump(wishlist, file, indent=4)
+    return jsonify({"message": "Item added!", "wishlist": wishlist})
 
-# Remove an item from the wishlist
+# API endpoint to remove an item
 @app.route("/wishlist/remove/<int:item_id>", methods=["DELETE"])
 def remove_item(item_id):
-    conn = connect_db()
-    cursor = conn.cursor()
-    cursor.execute("DELETE FROM wishlist WHERE id = ?", (item_id,))
-    conn.commit()
-    conn.close()
-    return jsonify({"message": "Item removed successfully!"})
+    wishlist = load_wishlist()
+    wishlist = [item for item in wishlist if item["id"] != item_id]
+    with open("christmas_list.json", "w") as file:
+        json.dump(wishlist, file, indent=4)
+    return jsonify({"message": "Item removed!", "wishlist": wishlist})
 
+# Ensure the app runs on the correct port
 if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 5000))
