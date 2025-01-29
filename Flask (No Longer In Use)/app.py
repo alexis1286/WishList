@@ -1,67 +1,44 @@
-from flask import Flask, jsonify, send_file, request
-from flask_cors import CORS
+from flask import Flask, request, jsonify
+from flask_cors import CORS  # Import CORS
 import json
-import requests
-from bs4 import BeautifulSoup
 
 app = Flask(__name__)
-CORS(app)
-
-# Load JSON data once and store it in a variable
-with open('christmas_list.json') as f:
-    items_data = json.load(f)
-
-# Endpoint to fetch all items or filter by category
-@app.route('/api/items', methods=['GET'])
-def get_items():
-    category = request.args.get('category')
-    if category:
-        filtered_items = [item for item in items_data if item['Category'] == category]
-        return jsonify(filtered_items)
-    return jsonify(items_data)
-
-# Price scraping endpoint
-@app.route('/api/get_price', methods=['POST'])
-def get_price():
-    url = request.json.get('url')
-    item_id = request.json.get('item_id')  # Assumes item_id is passed for fallback price
-    if not url:
-        return jsonify({"error": "URL is required"}), 400
-
-    # Try to scrape the price from the URL
+CORS(app, resources={r"/*": {"origins": "*"}})  
+# Load wishlist from file
+def load_wishlist():
     try:
-        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
+        with open("christmas_list.json", "r") as file:
+            return json.load(file)
+    except FileNotFoundError:
+        return []
 
-        # Common selectors for price data
-        price = None
-        selectors = ['.price', '.product-price', '#price', '.current-price', '.price__current', '.price-final']
-        for selector in selectors:
-            price_tag = soup.select_one(selector)
-            if price_tag:
-                price = price_tag.get_text(strip=True)
-                break
+# API endpoint to get wishlist data
+@app.route("/wishlist", methods=["GET"])
+def get_wishlist():
+    return jsonify(load_wishlist())
 
-        if not price:
-            # Fallback to the price in the JSON data if scraping fails
-            for item in items_data:
-                if item['id'] == item_id:
-                    price = item['Price']
-                    break
+# API endpoint to add an item
+@app.route("/wishlist/add", methods=["POST"])
+def add_item():
+    wishlist = load_wishlist()
+    new_item = request.json
+    new_item["id"] = len(wishlist) + 1
+    wishlist.append(new_item)
+    with open("christmas_list.json", "w") as file:
+        json.dump(wishlist, file, indent=4)
+    return jsonify({"message": "Item added!", "wishlist": wishlist})
 
-        return jsonify({"price": price})
-    except requests.exceptions.RequestException as e:
-        print(f"Error accessing URL {url}: {e}")
-        return jsonify({"error": "Failed to retrieve page"}), 500
-    except Exception as e:
-        print(f"Unexpected error: {e}")
-        return jsonify({"error": "An error occurred"}), 500
+# API endpoint to remove an item
+@app.route("/wishlist/remove/<int:item_id>", methods=["DELETE"])
+def remove_item(item_id):
+    wishlist = load_wishlist()
+    wishlist = [item for item in wishlist if item["id"] != item_id]
+    with open("christmas_list.json", "w") as file:
+        json.dump(wishlist, file, indent=4)
+    return jsonify({"message": "Item removed!", "wishlist": wishlist})
 
-# Serve index.html from the root directory
-@app.route('/')
-def serve_index():
-    return send_file('index.html')
-
-if __name__ == '__main__':
-    app.run(debug=True)
+# Ensure the app runs on the correct port
+if __name__ == "__main__":
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
