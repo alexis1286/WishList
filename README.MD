@@ -2,7 +2,7 @@
 
 WishList is a web application that pulls information from a database and organizes it into a structured wishlist. This project was a personal project to list items on my wishlist.
 
-🚀 **Live Demo**: [View the WishList App Here](https://alexis1286.github.io/xmas/)
+🚀 **Live Demo**: [View the WishList App Here](https://github.com/alexis1286/WishList)
 
 ## Features
 
