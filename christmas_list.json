@@ -1,13 +1,43 @@
 [
     {
-        "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/61MdbBO+SEL._AC_SL1500_.jpg",
-        "Item": "Kindle Paperwhite without Ads",
-        "Link": "https://www.amazon.com/dp/B0CFPJYX7P?tag=camelweb-20&linkCode=ogi&th=1&language=en_US",
-        "Price": "$179.00",
+        "Category": "Fitness",
+        "Image": "https://m.media-amazon.com/images/I/51OBhaCOgrL._AC_SX679_.jpg",
+        "Item": "Loop Switch 2 Adjustable Ear Plugs - 3 Relief Modes (Quiet / Engage / Experience)",
+        "Link": "https://www.amazon.com/Loop-Adjustable-Reduction-Socializing-Festivals/dp/B0DJR39GQL",
+        "Price": "$59.99",
         "Priority": 1,
         "csv_order": 90,
         "id": 1
+    },
+    {
+        "Category": "Fitness",
+        "Image": "https://us.loopearplugs.com/cdn/shop/files/PDP_DREAM_LILAC_1.png?v=1728565278",
+        "Item": "Loop Dream Earplugs — Sleep / Noise Reduction",
+        "Link": "https://us.loopearplugs.com/products/dream",
+        "Price": "$49.95",
+        "Priority": 1,
+        "csv_order": 90,
+        "id": 2
+    },
+    {
+        "Category": "Clothes",
+        "Image": "https://shop.pusheen.com/cdn/shop/files/PusheenNavyRelaxed-FitCharacterHoodie_004_WEB_1800x.jpg?v=1758318713",
+        "Item": "Pusheen Navy Hoodie",
+        "Link": "https://shop.pusheen.com/collections/exclusives/products/pusheen-navy-relaxed-fit-character-hoodie?variant=51812987109743",
+        "Price": "$50.00",
+        "Priority": 1,
+        "csv_order": 90,
+        "id": 3
+    },
+    {
+        "Category": "Clothes",
+        "Image": "https://dokidokicos.com/cdn/shop/files/1_5a01af11-98f5-43e6-8611-84b94eb92dde_1220x_crop_center.jpg?v=1718363364",
+        "Item": "Sweater",
+        "Link": "https://dokidokicos.com/products/in-stock-dokidoki-r-game-love-and-deepspace-cosplay-rafayel-costume-sweater",
+        "Price": "$24.00",
+        "Priority": 1,
+        "csv_order": 90,
+        "id": 4
     },
     {
         "Category": "Fitness",
@@ -17,44 +47,14 @@
         "Price": "$25.00",
         "Priority": 1,
         "csv_order": 101,
-        "id": 2
-    },
-    {
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/71y07ZFqBdL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
-        "Item": "dip bar",
-        "Link": "https://www.amazon.com/RELIFE-REBUILD-YOUR-LIFE-Functional/dp/B07DHD3CSY/ref=sr_1_4?crid=1YV4O3THCDY4B&dib=eyJ2IjoiMSJ9.xpe7iShUXB9UEyRcB7cc0khVFq6JdsH7xywitbzL2KOqWb4cIlXg4WHwrcCyVwX4nAFbMAtfXXuSIm3eCTvDczGLEIg_gU7PBPsV_17NTyoO4-2av0l6S6aDJB3HMw0lxC60P8zOrINxXrrOGIB9KhemN_JHlPJU_2VkfHjJFL5LREfnfGxPRGIdaUb61xux3DH8aVN5QUw3Ik2dKjBvaKhQei4JiL6E4qeuSojC7XjSAtid4RTU1h0mu-KJ6dgHyum4hzOlwPn1oRIDptcf1P6qiOEoP-PDigLtQNGtL-s.XEQczkcBC61I3Rjypv19BzjW9OSzRW99T6uXIQYrlig&dib_tag=se&keywords=dip+bar&qid=1722397799&s=sporting-goods&sprefix=dip+bar%2Csporting%2C90&sr=1-4",
-        "Price": "$57.99",
-        "Priority": 1,
-        "csv_order": 101,
-        "id": 3
-    },
-    {
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/51aWnMB5LNL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "CAP Barbell Olympic Trap Bar | Multiple Grip Options",
-        "Link": "https://www.amazon.com/CAP-Barbell-Olympic-Shrug-Deadlift/dp/B0BFYMMWM7/ref=sr_1_5?dib=eyJ2IjoiMSJ9.vW66Dmv9m4sJe-DmFqwyjLb-Izdvf5KpCbeJYtNso6DEeARQluPIgScdN_rq1PUKFa1MM4WN1E5eo80ZaSLvtzJOGJ4FKhIzqYrPLDz6yAMf9jpFrG6IZ8W5Bl9iDPo1PdsOMHexavSeD9Z_DuVMljZGwMg42uKNrSp_ffqb6L-IZdzuBtLcDgL0NrN78e5Xd96fS1iluFSNsQRzVe8D6PJnsGV8TJc5IHJaUC6rXou2ETwpgP_ldZ22LR-DyfdtW3sJdMYMsndFoKAyyYgA02UDqMRHPv91C8yQASMQGW0.1lKuJpfPYxfLL9puJkDw2WUF7z6QfVB2gYB5W4IGnQY&dib_tag=se&keywords=trap%2Bbar&qid=1729472074&sr=8-5&th=1",
-        "Price": "$79.00",
-        "Priority": 1,
-        "csv_order": 101,
-        "id": 4
-    },
-    {
-        "Category": "Fitness",
-        "Image": "https://m.media-amazon.com/images/I/51OBhaCOgrL._AC_SX679_.jpg",
-        "Item": "Loop Switch 2 Adjustable Ear Plugs - 3 Relief Modes (Quiet / Engage / Experience)",
-        "Link": "https://www.amazon.com/Loop-Adjustable-Reduction-Socializing-Festivals/dp/B0DJR39GQL",
-        "Price": "$59.99",
-        "Priority": 1,
-        "csv_order": 101,
         "id": 5
     },
     {
         "Category": "Fitness",
-        "Image": "https://us.loopearplugs.com/cdn/shop/files/PDP_DREAM_LILAC_1.png?v=1728565278",
-        "Item": "Loop Dream Earplugs — Sleep / Noise Reduction",
-        "Link": "https://us.loopearplugs.com/products/dream",
-        "Price": "$49.95",
+        "Image": "https://m.media-amazon.com/images/I/61OmJv8-lEL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "Item": "Micro weight set ",
+        "Link": "https://www.amazon.com/gp/product/B0C15BK9CV/ref=ewc_pr_img_3?smid=A3JJ3GG4ZNEUCF&th=1",
+        "Price": "$69.00",
         "Priority": 1,
         "csv_order": 101,
         "id": 6
@@ -121,23 +121,13 @@
     },
     {
         "Category": "Kitchen",
-        "Image": "https://m.media-amazon.com/images/I/71idQsNnmOL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-        "Item": "Nut and oat milk maker",
-        "Link": "https://www.amazon.com/dp/B0C6G93F4W?ref_=cm_sw_r_apin_dp_8ZTK047AM4E7PQM0ZE50&peakEvent=4&dealEvent=1&language=en-US",
-        "Price": "$94.00",
-        "Priority": 1,
-        "csv_order": 104,
-        "id": 13
-    },
-    {
-        "Category": "Kitchen",
         "Image": "https://m.media-amazon.com/images/I/51zKjr3KrGL._SX342_SY445_.jpg",
         "Item": "The Official Horizon Cookbook: Tastes of the Seven Tribes (Gaming)",
         "Link": "https://www.amazon.com/dp/B0CDJB6NYD?ref_=cm_sw_r_apin_dp_PCFGY04DV2Y3YMNREVRG",
         "Price": "$39.00",
         "Priority": 1,
         "csv_order": 104,
-        "id": 14
+        "id": 13
     },
     {
         "Category": "Kitchen",
@@ -147,7 +137,7 @@
         "Price": "$27.99",
         "Priority": 1,
         "csv_order": 104,
-        "id": 15
+        "id": 14
     },
     {
         "Category": "Kitchen",
@@ -157,7 +147,7 @@
         "Price": "$39.00",
         "Priority": 1,
         "csv_order": 104,
-        "id": 16
+        "id": 15
     },
     {
         "Category": "Kitchen",
@@ -167,7 +157,7 @@
         "Price": "$249.00",
         "Priority": 1,
         "csv_order": 104,
-        "id": 17
+        "id": 16
     },
     {
         "Category": "Kitchen",
@@ -177,7 +167,7 @@
         "Price": "$19.00",
         "Priority": 1,
         "csv_order": 104,
-        "id": 18
+        "id": 17
     },
     {
         "Category": "Kitchen",
@@ -187,7 +177,7 @@
         "Price": "$21.00",
         "Priority": 1,
         "csv_order": 104,
-        "id": 19
+        "id": 18
     },
     {
         "Category": "Kitchen",
@@ -197,7 +187,7 @@
         "Price": "$14.99",
         "Priority": 1,
         "csv_order": 104,
-        "id": 20
+        "id": 19
     },
     {
         "Category": "Kitchen",
@@ -207,7 +197,7 @@
         "Price": "$53.93",
         "Priority": 1,
         "csv_order": 104,
-        "id": 21
+        "id": 20
     },
     {
         "Category": "Technology",
@@ -217,7 +207,7 @@
         "Price": "$249.99",
         "Priority": 1,
         "csv_order": 105,
-        "id": 22
+        "id": 21
     },
     {
         "Category": "Technology",
@@ -227,7 +217,7 @@
         "Price": "$64.99",
         "Priority": 1,
         "csv_order": 105,
-        "id": 23
+        "id": 22
     },
     {
         "Category": "Technology",
@@ -237,7 +227,7 @@
         "Price": "$159.00",
         "Priority": 1,
         "csv_order": 105,
-        "id": 24
+        "id": 23
     },
     {
         "Category": "Technology",
@@ -247,7 +237,7 @@
         "Price": "$159.00",
         "Priority": 1,
         "csv_order": 105,
-        "id": 25
+        "id": 24
     },
     {
         "Category": "Technology",
@@ -257,6 +247,16 @@
         "Price": "$49.00",
         "Priority": 1,
         "csv_order": 105,
+        "id": 25
+    },
+    {
+        "Category": "Home",
+        "Image": "https://m.media-amazon.com/images/I/61MdbBO+SEL._AC_SL1500_.jpg",
+        "Item": "Kindle Paperwhite without Ads",
+        "Link": "https://www.amazon.com/dp/B0CFPJYX7P?tag=camelweb-20&linkCode=ogi&th=1&language=en_US",
+        "Price": "$179.00",
+        "Priority": 1,
+        "csv_order": 106,
         "id": 26
     },
     {
@@ -281,23 +281,13 @@
     },
     {
         "Category": "Home",
-        "Image": "https://m.media-amazon.com/images/I/615s0isOV7L._AC_SX679_.jpg",
-        "Item": "Tascam Mic",
-        "Link": "https://www.amazon.com/Tascam-DR-05X-Handheld-Recorder-Interface/dp/B07N3FC7N3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A4KPTRK1MBYWJ",
-        "Price": "$79.00",
-        "Priority": 1,
-        "csv_order": 106,
-        "id": 29
-    },
-    {
-        "Category": "Home",
         "Image": "https://cdn.media.amplience.net/s/hottopic/32972982_hi?$productMainTablet$&fmt=auto",
         "Item": "Sanrio Bag",
         "Link": "https://www.boxlunch.com/product/sanrio-my-melody-kuromi-diner-bow-crossbody-bag-%E2%80%94-boxlunch-exclusive/32972993.html",
         "Price": "$38.00",
         "Priority": 1,
         "csv_order": 106,
-        "id": 30
+        "id": 29
     },
     {
         "Category": "Vinyls",
@@ -307,7 +297,7 @@
         "Price": "$24.99",
         "Priority": 1,
         "csv_order": 107,
-        "id": 31
+        "id": 30
     },
     {
         "Category": "Vinyls",
@@ -317,7 +307,7 @@
         "Price": "$21.99",
         "Priority": 1,
         "csv_order": 107,
-        "id": 32
+        "id": 31
     },
     {
         "Category": "Vinyls",
@@ -327,7 +317,7 @@
         "Price": "$22.49",
         "Priority": 1,
         "csv_order": 107,
-        "id": 33
+        "id": 32
     },
     {
         "Category": "Vinyls",
@@ -337,7 +327,7 @@
         "Price": "$42.00",
         "Priority": 1,
         "csv_order": 107,
-        "id": 34
+        "id": 33
     },
     {
         "Category": "Vinyls",
@@ -347,7 +337,7 @@
         "Price": "$24.98",
         "Priority": 1,
         "csv_order": 107,
-        "id": 35
+        "id": 34
     },
     {
         "Category": "Vinyls",
@@ -357,7 +347,7 @@
         "Price": "$29.00",
         "Priority": 1,
         "csv_order": 107,
-        "id": 36
+        "id": 35
     },
     {
         "Category": "Vinyls",
@@ -367,7 +357,7 @@
         "Price": "$25.00",
         "Priority": 1,
         "csv_order": 107,
-        "id": 37
+        "id": 36
     },
     {
         "Category": "Vinyls",
@@ -377,7 +367,7 @@
         "Price": "$79.00",
         "Priority": 1,
         "csv_order": 107,
-        "id": 38
+        "id": 37
     },
     {
         "Category": "Vinyls",
@@ -387,7 +377,7 @@
         "Price": "$32.99",
         "Priority": 1,
         "csv_order": 107,
-        "id": 39
+        "id": 38
     },
     {
         "Category": "Vinyls",
@@ -397,7 +387,7 @@
         "Price": "$42.99",
         "Priority": 1,
         "csv_order": 107,
-        "id": 40
+        "id": 39
     },
     {
         "Category": "Vinyls",
@@ -407,7 +397,7 @@
         "Price": "$38.79",
         "Priority": 1,
         "csv_order": 107,
-        "id": 41
+        "id": 40
     },
     {
         "Category": "Vinyls",
@@ -417,7 +407,7 @@
         "Price": "$21.99",
         "Priority": 1,
         "csv_order": 107,
-        "id": 42
+        "id": 41
     },
     {
         "Category": "Vinyls",
@@ -427,7 +417,7 @@
         "Price": "$32.99",
         "Priority": 1,
         "csv_order": 107,
-        "id": 43
+        "id": 42
     },
     {
         "Category": "Vinyls",
@@ -437,7 +427,7 @@
         "Price": "$36.99",
         "Priority": 1,
         "csv_order": 107,
-        "id": 44
+        "id": 43
     },
     {
         "Category": "Clothes",
@@ -447,7 +437,7 @@
         "Price": "$67.99",
         "Priority": 1,
         "csv_order": 108,
-        "id": 45
+        "id": 44
     },
     {
         "Category": "Clothes",
@@ -457,7 +447,7 @@
         "Price": "$48.90",
         "Priority": 1,
         "csv_order": 108,
-        "id": 46
+        "id": 45
     },
     {
         "Category": "Clothes",
@@ -467,7 +457,7 @@
         "Price": "$24.49",
         "Priority": 1,
         "csv_order": 108,
-        "id": 47
+        "id": 46
     },
     {
         "Category": "Clothes",
@@ -477,7 +467,7 @@
         "Price": "$13.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 48
+        "id": 47
     },
     {
         "Category": "Clothes",
@@ -487,7 +477,7 @@
         "Price": "$125.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 49
+        "id": 48
     },
     {
         "Category": "Clothes",
@@ -497,7 +487,7 @@
         "Price": "$25.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 50
+        "id": 49
     },
     {
         "Category": "Clothes",
@@ -507,7 +497,7 @@
         "Price": "$54.90",
         "Priority": 1,
         "csv_order": 108,
-        "id": 51
+        "id": 50
     },
     {
         "Category": "Clothes",
@@ -517,7 +507,7 @@
         "Price": "ANY AMOUNT",
         "Priority": 1,
         "csv_order": 108,
-        "id": 52
+        "id": 51
     },
     {
         "Category": "Clothes",
@@ -527,7 +517,7 @@
         "Price": "$17.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 53
+        "id": 52
     },
     {
         "Category": "Clothes",
@@ -537,7 +527,7 @@
         "Price": "$22.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 54
+        "id": 53
     },
     {
         "Category": "Clothes",
@@ -547,7 +537,7 @@
         "Price": "$5.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 55
+        "id": 54
     },
     {
         "Category": "Clothes",
@@ -557,7 +547,7 @@
         "Price": "$22.50",
         "Priority": 1,
         "csv_order": 108,
-        "id": 56
+        "id": 55
     },
     {
         "Category": "Clothes",
@@ -567,7 +557,7 @@
         "Price": "$32.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 57
+        "id": 56
     },
     {
         "Category": "Clothes",
@@ -577,7 +567,7 @@
         "Price": "$16.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 58
+        "id": 57
     },
     {
         "Category": "Clothes",
@@ -587,7 +577,7 @@
         "Price": "$16.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 59
+        "id": 58
     },
     {
         "Category": "Clothes",
@@ -597,7 +587,7 @@
         "Price": "$59.99",
         "Priority": 1,
         "csv_order": 108,
-        "id": 60
+        "id": 59
     },
     {
         "Category": "Clothes",
@@ -607,7 +597,7 @@
         "Price": "$24.50",
         "Priority": 1,
         "csv_order": 108,
-        "id": 61
+        "id": 60
     },
     {
         "Category": "Clothes",
@@ -617,7 +607,7 @@
         "Price": "$69.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 62
+        "id": 61
     },
     {
         "Category": "Clothes",
@@ -627,7 +617,7 @@
         "Price": "$20.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 63
+        "id": 62
     },
     {
         "Category": "Clothes",
@@ -637,7 +627,7 @@
         "Price": "$14.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 64
+        "id": 63
     },
     {
         "Category": "Clothes",
@@ -647,7 +637,7 @@
         "Price": "$24.99",
         "Priority": 1,
         "csv_order": 108,
-        "id": 65
+        "id": 64
     },
     {
         "Category": "Clothes",
@@ -657,7 +647,7 @@
         "Price": "$22.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 66
+        "id": 65
     },
     {
         "Category": "Clothes",
@@ -667,7 +657,7 @@
         "Price": "$38.94",
         "Priority": 1,
         "csv_order": 108,
-        "id": 67
+        "id": 66
     },
     {
         "Category": "Clothes",
@@ -677,7 +667,7 @@
         "Price": "$38.94",
         "Priority": 1,
         "csv_order": 108,
-        "id": 68
+        "id": 67
     },
     {
         "Category": "Clothes",
@@ -687,7 +677,7 @@
         "Price": "$6.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 69
+        "id": 68
     },
     {
         "Category": "Clothes",
@@ -697,7 +687,7 @@
         "Price": "$4.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 70
+        "id": 69
     },
     {
         "Category": "Clothes",
@@ -707,7 +697,7 @@
         "Price": "$49.95",
         "Priority": 1,
         "csv_order": 108,
-        "id": 71
+        "id": 70
     },
     {
         "Category": "Clothes",
@@ -717,7 +707,7 @@
         "Price": "$49.95",
         "Priority": 1,
         "csv_order": 108,
-        "id": 72
+        "id": 71
     },
     {
         "Category": "Clothes",
@@ -727,7 +717,7 @@
         "Price": "$129.99",
         "Priority": 1,
         "csv_order": 108,
-        "id": 73
+        "id": 72
     },
     {
         "Category": "Clothes",
@@ -737,7 +727,7 @@
         "Price": "$68.99",
         "Priority": 1,
         "csv_order": 108,
-        "id": 74
+        "id": 73
     },
     {
         "Category": "Clothes",
@@ -747,7 +737,7 @@
         "Price": "$58.99",
         "Priority": 1,
         "csv_order": 108,
-        "id": 75
+        "id": 74
     },
     {
         "Category": "Clothes",
@@ -757,7 +747,7 @@
         "Price": "$51.92",
         "Priority": 1,
         "csv_order": 108,
-        "id": 76
+        "id": 75
     },
     {
         "Category": "Clothes",
@@ -767,7 +757,7 @@
         "Price": "$39.92",
         "Priority": 1,
         "csv_order": 108,
-        "id": 77
+        "id": 76
     },
     {
         "Category": "Clothes",
@@ -777,7 +767,7 @@
         "Price": "$35.94",
         "Priority": 1,
         "csv_order": 108,
-        "id": 78
+        "id": 77
     },
     {
         "Category": "Clothes",
@@ -787,7 +777,7 @@
         "Price": "$55.92",
         "Priority": 1,
         "csv_order": 108,
-        "id": 79
+        "id": 78
     },
     {
         "Category": "Clothes",
@@ -797,7 +787,7 @@
         "Price": "$64.90",
         "Priority": 1,
         "csv_order": 108,
-        "id": 80
+        "id": 79
     },
     {
         "Category": "Clothes",
@@ -807,7 +797,7 @@
         "Price": "$32.39",
         "Priority": 1,
         "csv_order": 108,
-        "id": 81
+        "id": 80
     },
     {
         "Category": "Clothes",
@@ -817,7 +807,7 @@
         "Price": "$51.92",
         "Priority": 1,
         "csv_order": 108,
-        "id": 82
+        "id": 81
     },
     {
         "Category": "Clothes",
@@ -827,7 +817,7 @@
         "Price": "$35.92",
         "Priority": 1,
         "csv_order": 108,
-        "id": 83
+        "id": 82
     },
     {
         "Category": "Clothes",
@@ -837,7 +827,7 @@
         "Price": "$35.92",
         "Priority": 1,
         "csv_order": 108,
-        "id": 84
+        "id": 83
     },
     {
         "Category": "Clothes",
@@ -847,7 +837,7 @@
         "Price": "$53.99",
         "Priority": 1,
         "csv_order": 108,
-        "id": 85
+        "id": 84
     },
     {
         "Category": "Clothes",
@@ -857,7 +847,7 @@
         "Price": "$23.39",
         "Priority": 1,
         "csv_order": 108,
-        "id": 86
+        "id": 85
     },
     {
         "Category": "Clothes",
@@ -867,7 +857,7 @@
         "Price": "$44.90",
         "Priority": 1,
         "csv_order": 108,
-        "id": 87
+        "id": 86
     },
     {
         "Category": "Clothes",
@@ -877,7 +867,7 @@
         "Price": "$53.99",
         "Priority": 1,
         "csv_order": 108,
-        "id": 88
+        "id": 87
     },
     {
         "Category": "Clothes",
@@ -887,7 +877,7 @@
         "Price": "$14.94",
         "Priority": 1,
         "csv_order": 108,
-        "id": 89
+        "id": 88
     },
     {
         "Category": "Clothes",
@@ -897,7 +887,7 @@
         "Price": "$26.94",
         "Priority": 1,
         "csv_order": 108,
-        "id": 90
+        "id": 89
     },
     {
         "Category": "Clothes",
@@ -907,7 +897,7 @@
         "Price": "$25.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 91
+        "id": 90
     },
     {
         "Category": "Clothes",
@@ -917,7 +907,7 @@
         "Price": "$48.00",
         "Priority": 1,
         "csv_order": 108,
-        "id": 92
+        "id": 91
     },
     {
         "Category": "Clothes",
@@ -925,6 +915,16 @@
         "Item": "Boxers lifting",
         "Link": "https://oldnavy.gap.com/browse/product.do?pid=8406100120003&vid=1#pdp-page-content",
         "Price": "$7.79",
+        "Priority": 1,
+        "csv_order": 108,
+        "id": 92
+    },
+    {
+        "Category": "Clothes",
+        "Image": "https://www.fye.com/cdn/shop/files/IMG_0462.jpg?v=1736187153&width=533",
+        "Item": "Pusheen Nap Club Hoodie",
+        "Link": "https://www.fye.com/products/pusheen-nap-club-hoodie_pid-cm2ch97z7000401mt219tbcq4?_pos=1&_sid=2eca5ad07&_ss=r",
+        "Price": "$10.00",
         "Priority": 1,
         "csv_order": 108,
         "id": 93
@@ -1000,6 +1000,26 @@
         "id": 100
     },
     {
+        "Category": "Fitness",
+        "Image": "https://m.media-amazon.com/images/I/71y07ZFqBdL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "Item": "dip bar",
+        "Link": "https://www.amazon.com/RELIFE-REBUILD-YOUR-LIFE-Functional/dp/B07DHD3CSY/ref=sr_1_4?crid=1YV4O3THCDY4B&dib=eyJ2IjoiMSJ9.xpe7iShUXB9UEyRcB7cc0khVFq6JdsH7xywitbzL2KOqWb4cIlXg4WHwrcCyVwX4nAFbMAtfXXuSIm3eCTvDczGLEIg_gU7PBPsV_17NTyoO4-2av0l6S6aDJB3HMw0lxC60P8zOrINxXrrOGIB9KhemN_JHlPJU_2VkfHjJFL5LREfnfGxPRGIdaUb61xux3DH8aVN5QUw3Ik2dKjBvaKhQei4JiL6E4qeuSojC7XjSAtid4RTU1h0mu-KJ6dgHyum4hzOlwPn1oRIDptcf1P6qiOEoP-PDigLtQNGtL-s.XEQczkcBC61I3Rjypv19BzjW9OSzRW99T6uXIQYrlig&dib_tag=se&keywords=dip+bar&qid=1722397799&s=sporting-goods&sprefix=dip+bar%2Csporting%2C90&sr=1-4",
+        "Price": "$57.99",
+        "Priority": 2,
+        "csv_order": 201,
+        "id": 101
+    },
+    {
+        "Category": "Fitness",
+        "Image": "https://m.media-amazon.com/images/I/51aWnMB5LNL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "Item": "CAP Barbell Olympic Trap Bar | Multiple Grip Options",
+        "Link": "https://www.amazon.com/CAP-Barbell-Olympic-Shrug-Deadlift/dp/B0BFYMMWM7/ref=sr_1_5?dib=eyJ2IjoiMSJ9.vW66Dmv9m4sJe-DmFqwyjLb-Izdvf5KpCbeJYtNso6DEeARQluPIgScdN_rq1PUKFa1MM4WN1E5eo80ZaSLvtzJOGJ4FKhIzqYrPLDz6yAMf9jpFrG6IZ8W5Bl9iDPo1PdsOMHexavSeD9Z_DuVMljZGwMg42uKNrSp_ffqb6L-IZdzuBtLcDgL0NrN78e5Xd96fS1iluFSNsQRzVe8D6PJnsGV8TJc5IHJaUC6rXou2ETwpgP_ldZ22LR-DyfdtW3sJdMYMsndFoKAyyYgA02UDqMRHPv91C8yQASMQGW0.1lKuJpfPYxfLL9puJkDw2WUF7z6QfVB2gYB5W4IGnQY&dib_tag=se&keywords=trap%2Bbar&qid=1729472074&sr=8-5&th=1",
+        "Price": "$79.00",
+        "Priority": 2,
+        "csv_order": 201,
+        "id": 102
+    },
+    {
         "Category": "Food",
         "Image": "https://built.com/cdn/shop/files/web_grid_7abc7fed-2d35-4f1f-acfa-dbf32f155622.jpg?v=1731083859&width=493",
         "Item": "Built Protein bars",
@@ -1007,7 +1027,7 @@
         "Price": "$29.00",
         "Priority": 2,
         "csv_order": 202,
-        "id": 101
+        "id": 103
     },
     {
         "Category": "Games",
@@ -1017,7 +1037,7 @@
         "Price": "$59.99",
         "Priority": 2,
         "csv_order": 203,
-        "id": 102
+        "id": 104
     },
     {
         "Category": "Home",
@@ -1027,7 +1047,7 @@
         "Price": "$50.99",
         "Priority": 2,
         "csv_order": 206,
-        "id": 103
+        "id": 105
     },
     {
         "Category": "Home",
@@ -1037,7 +1057,7 @@
         "Price": "$44.39",
         "Priority": 2,
         "csv_order": 206,
-        "id": 104
+        "id": 106
     },
     {
         "Category": "home",
@@ -1047,7 +1067,7 @@
         "Price": "$11.16",
         "Priority": 2,
         "csv_order": 206,
-        "id": 105
+        "id": 107
     },
     {
         "Category": "Clothes",
@@ -1057,7 +1077,7 @@
         "Price": "$64.90",
         "Priority": 2,
         "csv_order": 208,
-        "id": 106
+        "id": 108
     },
     {
         "Category": "Clothes",
@@ -1067,7 +1087,7 @@
         "Price": "$34.99",
         "Priority": 2,
         "csv_order": 208,
-        "id": 107
+        "id": 109
     },
     {
         "Category": "Clothes",
@@ -1077,7 +1097,7 @@
         "Price": "$54.95",
         "Priority": 2,
         "csv_order": 208,
-        "id": 108
+        "id": 110
     },
     {
         "Category": "Clothes",
@@ -1087,7 +1107,7 @@
         "Price": "$59.95",
         "Priority": 2,
         "csv_order": 208,
-        "id": 109
+        "id": 111
     },
     {
         "Category": "Clothes",
@@ -1097,7 +1117,7 @@
         "Price": "$64.90",
         "Priority": 2,
         "csv_order": 208,
-        "id": 110
+        "id": 112
     },
     {
         "Category": "Clothes",
@@ -1107,7 +1127,7 @@
         "Price": "$54.90",
         "Priority": 2,
         "csv_order": 208,
-        "id": 111
+        "id": 113
     },
     {
         "Category": "Clothes",
@@ -1117,7 +1137,7 @@
         "Price": "$54.90",
         "Priority": 2,
         "csv_order": 208,
-        "id": 112
+        "id": 114
     },
     {
         "Category": "Clothes",
@@ -1127,7 +1147,7 @@
         "Price": "$32.94",
         "Priority": 2,
         "csv_order": 208,
-        "id": 113
+        "id": 115
     },
     {
         "Category": "Clothes",
@@ -1137,7 +1157,7 @@
         "Price": "$54.99",
         "Priority": 2,
         "csv_order": 208,
-        "id": 114
+        "id": 116
     },
     {
         "Category": "Clothes",
@@ -1147,7 +1167,7 @@
         "Price": "$29.49",
         "Priority": 2,
         "csv_order": 208,
-        "id": 115
+        "id": 117
     },
     {
         "Category": "Clothes",
@@ -1157,7 +1177,7 @@
         "Price": "$89.62",
         "Priority": 2,
         "csv_order": 208,
-        "id": 116
+        "id": 118
     },
     {
         "Category": "Clothes",
@@ -1167,7 +1187,7 @@
         "Price": "$29.00",
         "Priority": 2,
         "csv_order": 208,
-        "id": 117
+        "id": 119
     },
     {
         "Category": "Clothes",
@@ -1177,7 +1197,7 @@
         "Price": "$65.49",
         "Priority": 2,
         "csv_order": 208,
-        "id": 118
+        "id": 120
     },
     {
         "Category": "Clothes",
@@ -1187,7 +1207,7 @@
         "Price": "$39.90",
         "Priority": 2,
         "csv_order": 208,
-        "id": 119
+        "id": 121
     },
     {
         "Category": "Clothes",
@@ -1197,7 +1217,7 @@
         "Price": "$29.99",
         "Priority": 2,
         "csv_order": 208,
-        "id": 120
+        "id": 122
     },
     {
         "Category": "Makeup",
@@ -1207,7 +1227,7 @@
         "Price": "$33.74",
         "Priority": 2,
         "csv_order": 209,
-        "id": 121
+        "id": 123
     },
     {
         "Category": "Makeup",
@@ -1217,7 +1237,7 @@
         "Price": "$28.00",
         "Priority": 2,
         "csv_order": 209,
-        "id": 122
+        "id": 124
     },
     {
         "Category": "Plushies",
@@ -1227,7 +1247,7 @@
         "Price": "$32.00",
         "Priority": 2,
         "csv_order": 210,
-        "id": 123
+        "id": 125
     },
     {
         "Category": "Plushies",
@@ -1237,7 +1257,7 @@
         "Price": "$15.00",
         "Priority": 2,
         "csv_order": 210,
-        "id": 124
+        "id": 126
     },
     {
         "Category": "Plushies",
@@ -1247,7 +1267,7 @@
         "Price": "$38.00",
         "Priority": 2,
         "csv_order": 210,
-        "id": 125
+        "id": 127
     },
     {
         "Category": "Fitness",
@@ -1257,7 +1277,7 @@
         "Price": "$79.95",
         "Priority": 3,
         "csv_order": 301,
-        "id": 126
+        "id": 128
     },
     {
         "Category": "Food",
@@ -1267,7 +1287,7 @@
         "Price": "$24.00",
         "Priority": 3,
         "csv_order": 302,
-        "id": 127
+        "id": 129
     },
     {
         "Category": "Food",
@@ -1277,7 +1297,7 @@
         "Price": "$57.70",
         "Priority": 3,
         "csv_order": 302,
-        "id": 128
+        "id": 130
     },
     {
         "Category": "Kitchen",
@@ -1287,7 +1307,7 @@
         "Price": "$229.95",
         "Priority": 3,
         "csv_order": 304,
-        "id": 129
+        "id": 131
     },
     {
         "Category": "Home",
@@ -1297,7 +1317,7 @@
         "Price": "$15.00",
         "Priority": 3,
         "csv_order": 306,
-        "id": 130
+        "id": 132
     },
     {
         "Category": "Home",
@@ -1307,7 +1327,7 @@
         "Price": "$21.99",
         "Priority": 3,
         "csv_order": 306,
-        "id": 131
+        "id": 133
     },
     {
         "Category": "Home",
@@ -1317,7 +1337,7 @@
         "Price": "$39.99",
         "Priority": 3,
         "csv_order": 306,
-        "id": 132
+        "id": 134
     },
     {
         "Category": "Home",
@@ -1327,7 +1347,7 @@
         "Price": "$55.00",
         "Priority": 3,
         "csv_order": 306,
-        "id": 133
+        "id": 135
     },
     {
         "Category": "Clothes",
@@ -1337,7 +1357,7 @@
         "Price": "$44.90",
         "Priority": 3,
         "csv_order": 308,
-        "id": 134
+        "id": 136
     },
     {
         "Category": "Clothes",
@@ -1347,7 +1367,7 @@
         "Price": "$33.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 135
+        "id": 137
     },
     {
         "Category": "Clothes",
@@ -1357,7 +1377,7 @@
         "Price": "$55.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 136
+        "id": 138
     },
     {
         "Category": "Clothes",
@@ -1367,7 +1387,7 @@
         "Price": "$60.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 137
+        "id": 139
     },
     {
         "Category": "Clothes",
@@ -1377,7 +1397,7 @@
         "Price": "$100.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 138
+        "id": 140
     },
     {
         "Category": "Clothes",
@@ -1387,7 +1407,7 @@
         "Price": "$27.93",
         "Priority": 3,
         "csv_order": 308,
-        "id": 139
+        "id": 141
     },
     {
         "Category": "Clothes",
@@ -1397,7 +1417,7 @@
         "Price": "$64.21",
         "Priority": 3,
         "csv_order": 308,
-        "id": 140
+        "id": 142
     },
     {
         "Category": "Clothes",
@@ -1407,7 +1427,7 @@
         "Price": "$34.93",
         "Priority": 3,
         "csv_order": 308,
-        "id": 141
+        "id": 143
     },
     {
         "Category": "Clothes",
@@ -1417,7 +1437,7 @@
         "Price": "$132.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 142
+        "id": 144
     },
     {
         "Category": "Clothes",
@@ -1427,7 +1447,7 @@
         "Price": "$70.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 143
+        "id": 145
     },
     {
         "Category": "Clothes",
@@ -1437,7 +1457,7 @@
         "Price": "$60.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 144
+        "id": 146
     },
     {
         "Category": "Clothes",
@@ -1447,7 +1467,7 @@
         "Price": "$64.21",
         "Priority": 3,
         "csv_order": 308,
-        "id": 145
+        "id": 147
     },
     {
         "Category": "Clothes",
@@ -1457,7 +1477,7 @@
         "Price": "$45.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 146
+        "id": 148
     },
     {
         "Category": "Clothes",
@@ -1467,7 +1487,7 @@
         "Price": "$22.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 147
+        "id": 149
     },
     {
         "Category": "Clothes",
@@ -1477,7 +1497,7 @@
         "Price": "$13.16",
         "Priority": 3,
         "csv_order": 308,
-        "id": 148
+        "id": 150
     },
     {
         "Category": "Clothes",
@@ -1487,7 +1507,7 @@
         "Price": "$37.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 149
+        "id": 151
     },
     {
         "Category": "Clothes",
@@ -1497,7 +1517,7 @@
         "Price": "$84.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 150
+        "id": 152
     },
     {
         "Category": "Clothes",
@@ -1507,7 +1527,7 @@
         "Price": "$45.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 151
+        "id": 153
     },
     {
         "Category": "Clothes",
@@ -1517,7 +1537,7 @@
         "Price": "$60.00",
         "Priority": 3,
         "csv_order": 308,
-        "id": 152
+        "id": 154
     },
     {
         "Category": "Makeup",
@@ -1527,7 +1547,7 @@
         "Price": "$48.00",
         "Priority": 3,
         "csv_order": 309,
-        "id": 153
+        "id": 155
     },
     {
         "Category": "Makeup",
@@ -1537,7 +1557,7 @@
         "Price": "$25.00",
         "Priority": 3,
         "csv_order": 309,
-        "id": 154
+        "id": 156
     },
     {
         "Category": "Plushies",
@@ -1547,7 +1567,7 @@
         "Price": "$45.00",
         "Priority": 3,
         "csv_order": 310,
-        "id": 155
+        "id": 157
     },
     {
         "Category": "Plushies",
@@ -1557,7 +1577,7 @@
         "Price": "$26.67",
         "Priority": 3,
         "csv_order": 310,
-        "id": 156
+        "id": 158
     },
     {
         "Category": "Plushies",
@@ -1567,7 +1587,7 @@
         "Price": "$29.99",
         "Priority": 3,
         "csv_order": 310,
-        "id": 157
+        "id": 159
     },
     {
         "Category": "Food",
@@ -1577,7 +1597,7 @@
         "Price": "$14.24",
         "Priority": 4,
         "csv_order": 402,
-        "id": 158
+        "id": 160
     },
     {
         "Category": "Home",
@@ -1587,7 +1607,7 @@
         "Price": "$8.97",
         "Priority": 4,
         "csv_order": 406,
-        "id": 159
+        "id": 161
     },
     {
         "Category": "Home",
@@ -1597,7 +1617,7 @@
         "Price": "$39.99",
         "Priority": 4,
         "csv_order": 406,
-        "id": 160
+        "id": 162
     },
     {
         "Category": "Clothes",
@@ -1607,7 +1627,7 @@
         "Price": "$59.90",
         "Priority": 4,
         "csv_order": 408,
-        "id": 161
+        "id": 163
     },
     {
         "Category": "Clothes",
@@ -1617,7 +1637,7 @@
         "Price": "$60.00",
         "Priority": 4,
         "csv_order": 408,
-        "id": 162
+        "id": 164
     },
     {
         "Category": "Clothes",
@@ -1627,7 +1647,7 @@
         "Price": "$155.70",
         "Priority": 4,
         "csv_order": 408,
-        "id": 163
+        "id": 165
     },
     {
         "Category": "Clothes",
@@ -1637,7 +1657,7 @@
         "Price": "$74.99",
         "Priority": 4,
         "csv_order": 408,
-        "id": 164
+        "id": 166
     },
     {
         "Category": "Clothes",
@@ -1647,7 +1667,7 @@
         "Price": "$99.00",
         "Priority": 4,
         "csv_order": 408,
-        "id": 165
+        "id": 167
     },
     {
         "Category": "Clothes",
@@ -1657,7 +1677,7 @@
         "Price": "$65.00",
         "Priority": 4,
         "csv_order": 408,
-        "id": 166
+        "id": 168
     },
     {
         "Category": "Fitness",
@@ -1667,7 +1687,7 @@
         "Price": "$100.00",
         "Priority": 5,
         "csv_order": 501,
-        "id": 167
+        "id": 169
     },
     {
         "Category": "Food",
@@ -1677,7 +1697,7 @@
         "Price": "$19.70",
         "Priority": 5,
         "csv_order": 502,
-        "id": 168
+        "id": 170
     },
     {
         "Category": "Games",
@@ -1687,7 +1707,7 @@
         "Price": "$12.69",
         "Priority": 5,
         "csv_order": 503,
-        "id": 169
+        "id": 171
     },
     {
         "Category": "Games",
@@ -1697,7 +1717,7 @@
         "Price": "$20.00",
         "Priority": 5,
         "csv_order": 503,
-        "id": 170
+        "id": 172
     },
     {
         "Category": "Games",
@@ -1707,7 +1727,7 @@
         "Price": "$49.99",
         "Priority": 5,
         "csv_order": 503,
-        "id": 171
+        "id": 173
     },
     {
         "Category": "Games",
@@ -1717,7 +1737,7 @@
         "Price": "$174.99",
         "Priority": 5,
         "csv_order": 503,
-        "id": 172
+        "id": 174
     },
     {
         "Category": "Games",
@@ -1727,7 +1747,17 @@
         "Price": "$25.00",
         "Priority": 5,
         "csv_order": 503,
-        "id": 173
+        "id": 175
+    },
+    {
+        "Category": "Home",
+        "Image": "https://m.media-amazon.com/images/I/615s0isOV7L._AC_SX679_.jpg",
+        "Item": "Tascam Mic",
+        "Link": "https://www.amazon.com/Tascam-DR-05X-Handheld-Recorder-Interface/dp/B07N3FC7N3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A4KPTRK1MBYWJ",
+        "Price": "$79.00",
+        "Priority": 5,
+        "csv_order": 506,
+        "id": 176
     },
     {
         "Category": "Home",
@@ -1737,7 +1767,7 @@
         "Price": "$10.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 174
+        "id": 177
     },
     {
         "Category": "Home",
@@ -1747,7 +1777,7 @@
         "Price": "$19.99",
         "Priority": 5,
         "csv_order": 506,
-        "id": 175
+        "id": 178
     },
     {
         "Category": "Home",
@@ -1757,7 +1787,7 @@
         "Price": "$269.99",
         "Priority": 5,
         "csv_order": 506,
-        "id": 176
+        "id": 179
     },
     {
         "Category": "Home",
@@ -1767,7 +1797,7 @@
         "Price": "$69.97",
         "Priority": 5,
         "csv_order": 506,
-        "id": 177
+        "id": 180
     },
     {
         "Category": "Home",
@@ -1777,7 +1807,7 @@
         "Price": "$65.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 178
+        "id": 181
     },
     {
         "Category": "Home",
@@ -1787,7 +1817,7 @@
         "Price": "$85.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 179
+        "id": 182
     },
     {
         "Category": "Home",
@@ -1797,7 +1827,7 @@
         "Price": "$60.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 180
+        "id": 183
     },
     {
         "Category": "Home",
@@ -1807,7 +1837,7 @@
         "Price": "$9.86",
         "Priority": 5,
         "csv_order": 506,
-        "id": 181
+        "id": 184
     },
     {
         "Category": "Home",
@@ -1817,7 +1847,7 @@
         "Price": "$75.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 182
+        "id": 185
     },
     {
         "Category": "Home",
@@ -1827,7 +1857,7 @@
         "Price": "$848.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 183
+        "id": 186
     },
     {
         "Category": "Home",
@@ -1837,7 +1867,7 @@
         "Price": "$33.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 184
+        "id": 187
     },
     {
         "Category": "Home",
@@ -1847,7 +1877,7 @@
         "Price": "$45.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 185
+        "id": 188
     },
     {
         "Category": "Home",
@@ -1857,7 +1887,7 @@
         "Price": "$229.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 186
+        "id": 189
     },
     {
         "Category": "Home",
@@ -1867,7 +1897,7 @@
         "Price": "$1,399.00",
         "Priority": 5,
         "csv_order": 506,
-        "id": 187
+        "id": 190
     },
     {
         "Category": "Vinyls",
@@ -1877,7 +1907,7 @@
         "Price": "$208.00",
         "Priority": 5,
         "csv_order": 507,
-        "id": 188
+        "id": 191
     },
     {
         "Category": "Clothes",
@@ -1887,7 +1917,7 @@
         "Price": "$24.90",
         "Priority": 5,
         "csv_order": 508,
-        "id": 189
+        "id": 192
     },
     {
         "Category": "Clothes",
@@ -1897,7 +1927,7 @@
         "Price": "$38.43",
         "Priority": 5,
         "csv_order": 508,
-        "id": 190
+        "id": 193
     },
     {
         "Category": "Clothes",
@@ -1907,7 +1937,7 @@
         "Price": "$64.90",
         "Priority": 5,
         "csv_order": 508,
-        "id": 191
+        "id": 194
     },
     {
         "Category": "Clothes",
@@ -1917,7 +1947,7 @@
         "Price": "$30.00",
         "Priority": 5,
         "csv_order": 508,
-        "id": 192
+        "id": 195
     },
     {
         "Category": "Clothes",
@@ -1927,7 +1957,7 @@
         "Price": "$50.00",
         "Priority": 5,
         "csv_order": 508,
-        "id": 193
+        "id": 196
     },
     {
         "Category": "Clothes",
@@ -1937,7 +1967,7 @@
         "Price": "$40.00",
         "Priority": 5,
         "csv_order": 508,
-        "id": 194
+        "id": 197
     },
     {
         "Category": "Makeup",
@@ -1947,7 +1977,7 @@
         "Price": "$9.99",
         "Priority": 5,
         "csv_order": 509,
-        "id": 195
+        "id": 198
     },
     {
         "Category": "Makeup",
@@ -1957,7 +1987,7 @@
         "Price": "$39.00",
         "Priority": 5,
         "csv_order": 509,
-        "id": 196
+        "id": 199
     },
     {
         "Category": "Makeup",
@@ -1967,7 +1997,7 @@
         "Price": "$44.00",
         "Priority": 5,
         "csv_order": 509,
-        "id": 197
+        "id": 200
     },
     {
         "Category": "Plushies",
@@ -1977,36 +2007,6 @@
         "Price": "$36.00",
         "Priority": 5,
         "csv_order": 510,
-        "id": 198
-    },
-    {
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": null,
-        "Price": null,
-        "Priority": null,
-        "csv_order": null,
-        "id": 199
-    },
-    {
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": null,
-        "Price": null,
-        "Priority": null,
-        "csv_order": null,
-        "id": 200
-    },
-    {
-        "Category": null,
-        "Image": null,
-        "Item": null,
-        "Link": null,
-        "Price": null,
-        "Priority": null,
-        "csv_order": null,
         "id": 201
     },
     {
@@ -2222,7 +2222,7 @@
     {
         "Category": null,
         "Image": null,
-        "Item": null,
+        "Item": "C2 * 100 + MATCH(D2, $A$2:$A$20, 0)",
         "Link": "green pants",
         "Price": null,
         "Priority": null,
