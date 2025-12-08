@@ -182,6 +182,20 @@ table {
     margin-top: 20px;
 }
 
+/* New item form styling */
+.newItemForm {
+    margin-top: 30px;
+    width: 100%;
+}
+.newItemForm h2 {
+    color: #FFB6C1; /* Soft pink */
+    margin-bottom: 15px;
+}
+.newItemForm form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
 /* Hyperlink Styling */
 a {
     color: #FFD1DC; /* Soft pastel pink, same as priority-1 */

@@ -29,7 +29,6 @@ def index():
 def get_items():
     return jsonify(load_items())
 
-
 @app.route("/api/items", methods=["POST"])
 def add_item():
     data = request.get_json()
@@ -37,17 +36,35 @@ def add_item():
         return jsonify({"error": "No JSON body"}), 400
 
     items = load_items()
+    manual_id = data.get("ID")
+
+    if manual_id is not None:
+        # Use the ID the user typed
+        new_id = int(manual_id)
+
+        # Shift existing items down if their id is >= the new one
+        for item in items:
+            current = item.get("id", 0)
+            if current >= new_id:
+                item["id"] = current + 1
+    else:
+        # No manual ID → append at the end
+        max_id = max((item.get("id", 0) for item in items), default=0)
+        new_id = max_id + 1
+
     items.append({
         "Priority": int(data.get("Priority", 3)),
         "Category": data.get("Category", ""),
         "Item": data.get("Item", ""),
         "Link": data.get("Link", ""),
         "Price": data.get("Price", ""),
-        "Image": data.get("Image", "")
+        "Image": data.get("Image", ""),
+        "id": new_id
     })
+
+    items.sort(key=lambda x: (x["Priority"], x["id"]))
     save_items(items)
     return jsonify({"status": "ok"}), 201
-
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8001, debug=True)

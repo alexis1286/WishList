@@ -68,7 +68,7 @@
                     <!-- Data will be inserted here -->
                 </tbody>
             </table>
-<div style="margin-top: 30px;">
+<div class = "newItemForm" style="margin-top: 30px;">
     <h2>Add New Item</h2>
     <form id="addItemForm">
         <label>
@@ -98,31 +98,31 @@
                 <option value="Home">Home</option>
             </select>
         </label>
-        <br><br>
 
         <label>
             Name:
             <input type="text" id="new_name" required>
         </label>
-        <br><br>
 
         <label>
             Link:
             <input type="url" id="new_link">
         </label>
-        <br><br>
 
         <label>
             Price:
             <input type="text" id="new_price">
         </label>
-        <br><br>
 
         <label>
             Image URL:
             <input type="url" id="new_image">
         </label>
-        <br><br>
+
+        <label>
+            ID:
+            <input type="number" id="new_id">
+        </label>
 
         <button type="submit">Add Item</button>
     </form>
