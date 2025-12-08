@@ -1,9 +1,11 @@
-from flask import Flask, send_from_directory, jsonify, request
+from flask import Flask, send_from_directory, jsonify, request, session
 import json
 import os
 
 app = Flask(__name__, static_folder="static", static_url_path="")
+app.secret_key = "supersecretkey"
 
+admin_password = os.environ.get("ADMIN_PASSWORD", "admin123")
 ITEMS_FILE = "christmas_list.json"
 
 
@@ -23,6 +25,22 @@ def save_items(items):
 def index():
     # serves static/index.html
     return app.send_static_file("index.html")
+@app.post("/api/login")
+def login():
+    data = request.get_json() or {}
+    password = data.get("password", "")
+
+    if password == admin_password:
+        session["logged_in"] = True
+        return jsonify({"status": "ok"}), 200
+    else:
+        # Make sure they are not logged in
+        session.pop("logged_in", None)
+        return jsonify({"status": "error", "message": "Invalid password"}), 401
+@app.post("/api/logout")
+def logout():
+    session.pop("logged_in", None)
+    return jsonify({"status": "ok"}), 200
 
 
 @app.route("/api/items", methods=["GET"])
@@ -31,7 +49,11 @@ def get_items():
 
 @app.route("/api/items", methods=["POST"])
 def add_item():
-    data = request.get_json()
+
+    if not session.get("logged_in"):
+        return jsonify({"error": "Unauthorized to add item"}), 401
+
+    data = request.get_json() 
     if not data:
         return jsonify({"error": "No JSON body"}), 400
 

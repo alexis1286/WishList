@@ -69,7 +69,17 @@
                 </tbody>
             </table>
 <div class = "newItemForm" style="margin-top: 30px;">
-    <h2>Add New Item</h2>
+<div id="login-section">
+    <h2>Admin Login</h2>
+    <label>
+        Password:
+        <input type="password" id="admin_password">
+            </label>
+        <button id="login_button" onclick="login()">Login</button>
+        <p id="login_status"></p>
+</div>
+<div id="add-section" style="display:none;">
+     <h2>Add New Item</h2>
     <form id="addItemForm">
         <label>
             Priority:
@@ -126,6 +136,7 @@
 
         <button type="submit">Add Item</button>
     </form>
+    </div>
 </div>
 
         </div>
