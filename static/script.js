@@ -119,8 +119,6 @@ window.onload = function () {
     // Initial load of items
     loadItems();
 
-    // Filters already call loadItems() via onchange in HTML,
-    // so we don't need to wire them up here.
 
     const form = document.getElementById('addItemForm');
     if (form) {
@@ -174,4 +172,42 @@ window.onload = function () {
             }
         });
     }
+
+
+
+    const removeform = document.getElementById('removeItemForm');
+    if (removeform) {
+        removeform.addEventListener('submit', async function (e) {
+            e.preventDefault();
+
+            
+            const itemName = document.getElementById('remove_name').value;
+
+
+            try {
+                const response = await fetch('/api/items/remove', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(newItem)
+                });
+
+                if (!response.ok) {
+                    if (response.status === 401) {
+                        alert("You must be logged in to remove items.");
+                    } else {
+                        throw new Error("Network response was not ok " + response.statusText);
+                    }
+                } else {
+                    await response.json();
+                    removeform.reset(); 
+                    loadItems();
+                }
+            } catch (error) {
+                console.error("Error removing item:", error);
+            }
+        });
+    }
+
 };

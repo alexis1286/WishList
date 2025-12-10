@@ -83,27 +83,35 @@ def add_item():
         "Image": data.get("Image", ""),
         "id": new_id
     })
-def remove_item():
-
-    if not session.get("logged_in"):
-        return jsonify({"error": "Unauthorized to add item"}), 401
-
-    data = request.get_json() 
-    if not data:
-        return jsonify({"error": "No JSON body"}), 400
-
-    items = load_items()
-    name = data.get("Name")
-    
-
-
-    items.remove({
-        "Name": name
-    })
-
     items.sort(key=lambda x: (x["Priority"], x["id"]))
     save_items(items)
     return jsonify({"status": "ok"}), 201
+
+
+@app.route("/api/items/remove", methods=["POST"])
+def remove_item():
+    if not session.get("logged_in"):
+        return jsonify({"error": "Unauthorized to remove item"}), 401
+
+    data = request.get_json() or {}
+    if not data:
+        return jsonify({"error": "No JSON body"}), 400
+
+    name = data.get("Item")
+    if not name:
+        return jsonify({"error": "Item name is required"}), 400
+
+    items = load_items()
+
+    # Filter out items whose Item name matches
+    new_items = [item for item in items if item.get("Item") != name]
+
+    if len(new_items) == len(items):
+        return jsonify({"error": "Item not found"}), 404
+
+    new_items.sort(key=lambda x: (x["Priority"], x["id"]))
+    save_items(new_items)
+    return jsonify({"status": "ok"}), 200
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8001, debug=True)
