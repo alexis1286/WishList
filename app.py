@@ -83,6 +83,23 @@ def add_item():
         "Image": data.get("Image", ""),
         "id": new_id
     })
+def remove_item():
+
+    if not session.get("logged_in"):
+        return jsonify({"error": "Unauthorized to add item"}), 401
+
+    data = request.get_json() 
+    if not data:
+        return jsonify({"error": "No JSON body"}), 400
+
+    items = load_items()
+    name = data.get("Name")
+    
+
+
+    items.remove({
+        "Name": name
+    })
 
     items.sort(key=lambda x: (x["Priority"], x["id"]))
     save_items(items)

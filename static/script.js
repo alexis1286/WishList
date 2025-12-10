@@ -77,6 +77,7 @@ async function login() {
     const passwordInput = document.getElementById('admin_password');
     const loginStatus = document.getElementById('login_status');
     const addSection = document.getElementById('add-section');
+    const removeSection = document.getElementById('remove-section');
     const loginSection = document.getElementById('login-section');
 
     if (!passwordInput) return;
@@ -100,6 +101,7 @@ async function login() {
 
             // Show form, hide login
             if (addSection) addSection.style.display = "block";
+             if (removeSection) removeSection.style.display = "block";
             if (loginSection) loginSection.style.display = "none";
         } else {
             loginStatus.textContent = data.message || "Login failed";
