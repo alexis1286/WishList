@@ -108,10 +108,10 @@ async function login() {
             loginStatus.style.color = "red";
         }
     } catch (err) {
-        console.error("Login error:", err);
-        loginStatus.textContent = "Error logging in";
-        loginStatus.style.color = "red";
-    }
+            alert("Login error: " + err);
+            loginStatus.textContent = "Error logging in";
+            loginStatus.style.color = "red";
+        }
 }
 
 // Set up event listeners once the DOM is ready
@@ -161,15 +161,17 @@ window.onload = function () {
                     }
                 } else {
                     const data = await response.json();
-                    console.log("Item added successfully:", data);
+                    alert("Item added successfully: " + JSON.stringify(data));
                     form.reset(); // Clear the form
 
                     // After reset, reload items (which will reset ID placeholder)
                     loadItems();
                 }
             } catch (error) {
+                alert("Error adding item: " + error);
                 console.error("Error adding item:", error);
             }
+
         });
     }
 
@@ -182,7 +184,7 @@ window.onload = function () {
 
             
             const itemName = document.getElementById('remove_name').value;
-
+             const removePayload = { Item: itemName };
 
             try {
                 const response = await fetch('/api/items/remove', {
@@ -190,21 +192,29 @@ window.onload = function () {
                     headers: {
                         'Content-Type': 'application/json'
                     },
-                    body: JSON.stringify(newItem)
+                    body: JSON.stringify(removePayload)
                 });
 
                 if (!response.ok) {
+
+                    const errorData = await response.json().catch(() => ({}));
+
                     if (response.status === 401) {
                         alert("You must be logged in to remove items.");
-                    } else {
-                        throw new Error("Network response was not ok " + response.statusText);
+                    } else if (response.status === 404) {
+                        alert("item not found: " + itemName);
+                    }
+                    else {
+                        alert("Error removing item: " + (errorData.message || response.statusText));
                     }
                 } else {
-                    await response.json();
+                    const result = await response.json();
+                    alert("Item removed successfully: " + JSON.stringify(result));
                     removeform.reset(); 
                     loadItems();
                 }
             } catch (error) {
+                alert("Error removing item: " + error);
                 console.error("Error removing item:", error);
             }
         });
